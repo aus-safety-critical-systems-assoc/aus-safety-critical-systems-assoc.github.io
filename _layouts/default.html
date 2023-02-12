@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-au">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta data-hid="description" name="description" content="Australian Safety Critical Systems Association">
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.png">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway&amp;display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>{{ page.title }}</title>
+  </head>
+  <body class="w3-white">
+    <nav class="w3-sidebar w3-bar-block w3-light-grey w3-text-dark-grey w3-collapse w3-top" style="z-index:3;width:300px;font-weight:bold" id="app-sidebar"><br>
+      <a href="/"><img src="/assets/img/logo.png" class="w3-image" style="max-width:260px;padding-left:40px;padding-bottom:10px;"/></a>
+      <hr style="margin:10px 0 0 0;">
+      <a href="/" class="w3-bar-item w3-button {% if page.url == '/' %}w3-theme{% endif %}" style="padding-left:40px;">Home</a>
+      <a href="/conference" class="w3-bar-item w3-button {% if page.url == '/conference/' or page.collection == 'conferences' %}w3-theme{% endif %}"" style="padding-left:40px;">Conference</a>
+      <a href="/newsletter" class="w3-bar-item w3-button {% if page.url == '/newsletter/' or page.collection == 'newsletters' %}w3-theme{% endif %}"" style="padding-left:40px;">Newsletter</a>
+      <a href="/membership" class="w3-bar-item w3-button {% if page.url == '/membership/' %}w3-theme{% endif %}"" style="padding-left:40px;">Membership</a>
+      <a href="/contact" class="w3-bar-item w3-button {% if page.url == '/contact/' %}w3-theme{% endif %}"" style="padding-left:40px;">Contact</a>
+    </nav>
+    <header class="w3-container w3-top w3-hide-large w3-white w3-border-bottom w3-xlarge w3-padding">
+      <a href="/"><img src="/assets/img/ascsa.png" class="w3-image w3-left" style="max-height:50px"/></a>
+      <a href="javascript:void(0)" class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
+    </header>
+    <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="app-overlay"></div>
+    <div class="content w3-main w3-container w3-padding-16">
+      {{ content }}
+    </div>
+    <script>
+      function w3_open() {
+        document.getElementById("app-sidebar").style.display = "block";
+        document.getElementById("app-overlay").style.display = "block";
+      };
+      function w3_close() {
+        document.getElementById("app-sidebar").style.display = "none";
+        document.getElementById("app-overlay").style.display = "none";
+      };
+    </script>
+  </body>
+</html>

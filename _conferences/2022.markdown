@@ -1,0 +1,68 @@
+---
+title: ASSC 2022
+date: 2022-05-26
+location: Melbourne, Vic
+theme: "Assurance of Artificial Intelligence"
+---
+
+## Submit a Paper
+The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society. ​
+
+The theme for the 2022 conference is “Assurance of Artificial Intelligence”. With systems incorporating more and more artificial intelligence (AI) in automation and autonomy application, the assurance of these systems becomes more challenging. 
+
+Topics of interest in relation to AI include, but not limited to, safety assurance, security assurance, human factors, collaboration, teamwork, trust, agent-based adaptive systems, assurance standards.
+
+The 2022 ASSC would like to examine and share the latest thinking on the state of the art and its fitness for purpose.
+We invite research papers and project experience to present and engage.
+
+### ​Topics of Interest
+
+The conference invites original and unpublished works that advance the state-of-the-art in safety and security considerations for the development and operation of safety and security critical systems. We are particularly interested in cross-industry and cross-pollenisation, and looking for papers in:
+- Medicine and health (medical devices, e-health systems, etc.)
+- Transport
+- Defence and Aviation
+- Telecommunications
+- Energy
+- Security
+- Resource and process industries
+- Emergency services
+
+Delegates have the option of submitting two types of papers:
+1. Refereed Papers by the conference program committee
+2. Industry Presentations/Papers (not subject to peer review)
+
+Both types of papers are published on the conference website, and if sufficient papers are submitted, published in the Journal of Safety and Reliability Society.
+
+### Submission
+- Abstracts should be approximately 250 words.
+- For delegates who optionally submit a full paper - papers should be no more than 10 pages.
+- Paper submissions can be emailed to [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au)
+
+### Important Dates
+- Abstract: **28th Feb 2022** (text, rtf, MS-Word or pdf) 
+- Submission: **16th Apr 2022** (rtf, MS-Word or pdf) 
+- Camera-ready copy: **22nd May 2022** (pdf only)
+
+### Best Paper Award (New)
+The purpose of this award is to encourage research in the science of software/system engineering or the application of that science for safety and/or mission critical software-intensive systems.
+
+The award is an individual award consisting of $1000 (Australian), with a certificate, and up to $1000 for travel. For papers with multiple authors, the award will be given to the lead author.
+
+## Registration
+Conference registration fees (except as noted) includes attendance at all technical sessions on Thursday and Friday, special Thursday evening social event, and the conference proceedings.
+
+|  | Registration |
+|-------|--------|
+| **Presenter's Rate** | FREE |
+| **aSCSa, ACS Member** | $1155.00 |
+| **All Others** | $1275.00 |
+
+All fees as listed above are in AUS Dollars and GST inclusive. For questions about registration, contact George Nikandros at [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
+
+## Venues
+
+### Conference Venue
+This years conference will be held at the **Rendezvous Hotel** at 328 Flinders St, Melbourne VIC 3000.
+
+### Social Event
+Attendees are welcome to attend canapés and drinks at the Rendezvous on Thursday evening, 6-8pm.
