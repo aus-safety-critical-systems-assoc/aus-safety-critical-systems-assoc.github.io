@@ -37,6 +37,8 @@ plugins:
 
 future: true
 
+permalink: pretty
+
 collections:
   conferences:
     output: true

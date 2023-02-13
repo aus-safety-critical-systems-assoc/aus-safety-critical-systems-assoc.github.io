@@ -10,22 +10,48 @@ title: aSCSa
 <div>
   <p>The Australian Safety Critical Systems Association (aSCSa) promotes co-operation among academic, industrial, commercial, and governmental communities surrounding the practice and advancement in the production and operation of safety-related systems in Australia. The ASCSa is a National Special Interest Group of the <a href="https://www.acs.org.au" class="w3-text-theme">Australian Computer Society.</a></p>
 </div>
-<div class="w3-center w3-padding-32">
+<div class="w3-row w3-center w3-padding-32">
   {% assign next_conference = site.conferences[-1] %}
-  <a href="{{ next_conference.url }}" class="w3-third w3-padding">
+  <a href="{{ next_conference.url }}" class="w3-col w3-third w3-padding">
     <i class="fa fa-calendar w3-jumbo w3-text-theme"></i>
     <p class="w3-large w3-text-theme">Next Conference</p>
     <p><b class="w3-text-theme-dark">{{ next_conference.title }}</b><br>{{ next_conference.date | date_to_long_string }} | {{ next_conference.location }}</p>
   </a>
   {% assign last_conference = site.conferences[-2] %}
-  <a href="{{ last_conference.url }}" class="w3-third w3-padding">
+  <a href="{{ last_conference.url }}" class="w3-col w3-third w3-padding">
     <i class="fa fa-history w3-jumbo w3-text-theme"></i>
     <p class="w3-large w3-text-theme">Last Conference</p>
     <p><b class="w3-text-theme-dark">{{ last_conference.title }}</b><br>{{ last_conference.date | date_to_long_string }} | {{ last_conference.location }}</p>
   </a>
-  <a href="/newsletter" class="w3-third w3-padding">
+  {% assign latest_newsletter = site.newsletters[-1] %}
+  <a href="{{ latest_newsletter.url }}" class="w3-col w3-third w3-padding">
     <i class="fa fa-book w3-jumbo w3-text-theme"></i>
     <p class="w3-large w3-text-theme">Latest Newsletter</p>
     <p>Click here to view the latest newsletter.</p>
   </a>
+</div>
+<div>
+  <h2 class="w3-text-theme w3-border-bottom">Purpose</h3>
+  <p>
+    Computer systems and embedded computers pervade all aspects of modern daily life, and many implement functions that have the potential to cause death or injury if they do not operate correctly. Included among today's safety-critical systems are: emergency service dispatch, car braking, aircraft flight controls, railway control, telecommunications, and hospital dispensing and surgical-aid systems. These systems all require safety (and security) to be designed into them. Professionals (of more than one type) are needed for the production of such important systems.
+  </p>
+  <p>
+    Our purpose is to raise the awareness among, and provide leadership and guidance to, all communities regarding all aspects of safety surrounding systems that must be produced and operated safely and securely - especially software-intensive systems.
+  </p>
+  <p>
+    The aSCSa's constitution is <a href="/assets/constitution.pdf" class="w3-text-theme" target="_blank">available here</a>.
+  </p>
+  <h2 class="w3-text-theme w3-border-bottom">History</h3>
+  <p>
+    The <span class="w3-text-theme">Australian Computer Society (ACS)</span> was established in 1966 as a result of the merger of then separate State-based computer societies.  It is now recognised as Australia's association for IT professionals, attracting a large and active membership from all levels of the IT industry, and providing a wide range of services and opportunities for networking and career enhancement.
+  </p>
+  <p>
+    The <span class="w3-text-theme">Technical Committee on Safety Critical Systems</span> was established in 1992 to provide policy and technical advice to the ACS in matters of safety for computer-based systems, and since 1996 has conducted an annual workshop enabling the dissemination of industrial experience as well as presentation of the results of new research concerning safety-critical systems and software.
+  </p>
+  <p>
+    In October 2002, in conjunction with the annual workshop (held in Adelaide that year) the Technical Committee on Safety Critical Systems launched the <span class="w3-text-theme">Australian Safety Critical Systems Club (aSCSc)</span> as a means to help sustain and develop greater awareness of many of the issues being presented at workshops.
+  </p>
+  <p>
+    Finally, at the annual general meeting (AGM) in 2005, a name change, from the Australian Safety Critical Systems Club (aSCSc) to the <span class="w3-text-theme">Australian Safety Critical Systems Association (aSCSa)</span>, was agreed. aSCSa has continued to mature as an association, and in 2011 joined forces with the Australian Chapter of the United States System Safety Society (ACSSS) to jointly host the first <span class="w3-text-theme">Australian Systems Safety Conference (ASSC)</span> which attracted nearly 100 delegates.  aSCSa and the ACSSS also jointly hosted the national conferences in 2012, 2013 and 2014.  In 2015 and 2016 the ASSC was co-hosted.  Since 2017 aSCSa has managed the ASSC alone.
+  </p>
 </div>

@@ -68,4 +68,8 @@ a {
   a {
     @extend .w3-text-theme;
   }
+  img {
+    @extend .w3-card;
+    width: 100%;
+  }
 }

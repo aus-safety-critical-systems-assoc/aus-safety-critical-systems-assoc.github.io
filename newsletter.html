@@ -6,14 +6,15 @@ permalink: /newsletter/
 
 <div>
   <div>
-    <h1 class="w3-text-theme w3-hide-small w3-hide-medium">ASSC Newsletter</h1>
-    <h3 class="w3-text-theme w3-hide-large">ASSC Newsletter</h3>
+    <h1 class="w3-text-theme w3-hide-small w3-hide-medium">aSCSa Newsletter</h1>
+    <h3 class="w3-text-theme w3-hide-large">aSCSa Newsletter</h3>
   </div>
   <ul class="w3-ul w3-hoverable">
     {% for newsletter in site.newsletters %}
       <li class="w3-padding-small">
         <a href="{{ newsletter.url }}" class="expand">
-          test
+          <b class="w3-text-theme">{{ newsletter.title }}</b> {{ newsletter.date | date_to_long_string}}<br>
+          {{ newsletter.summary }}
         </a>
       </li>
     {% endfor %}

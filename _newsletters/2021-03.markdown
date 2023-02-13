@@ -1,0 +1,143 @@
+---
+title: March 2021
+date: 2021-03-01
+summary: "B737 Return to Service, Post Office IT Destroys Lives, & Streamlining Space Launch Safety."
+---
+
+## Contents
+- [Article: B737 Return to Service](#b737-max-return-to-service)
+- [Association Matters](#association-matters)
+- [From the Chair](#from-the-chair)
+- [ASSC 2020 > 21](#assc-2020--21)
+- [Upcoming Events](#upcoming-events)
+- [Research Award](#research-award)
+- [Bulletin Board](#bulletin-board)
+- [Post Office IT System Scandal ‘Destroys Lives’](#post-office-it-system-scandal-destroys-lives)
+
+## B737 Max Return to Service
+**Pathways Various and Ongoing**
+
+Folks – We’ve covered this a bit over the evolution of the accidents, removal from service, commentary and inquiries various. The aviation world has moved through this one slowly and methodically and independently via each operationg nation’s airworthiness regulators - as it should. Much has been published and without trying to reprise it all we’ve found a sound compendium of references and reading for your professional interest and questions - [b737.org.uk](www.b737.org.uk/mcas.htm).
+
+There is a very recent (Feb2021) Royal Aero Society Brief from the site author, B737 expert and most media friendly and interviewed former B737 Captain in this saga. There is also an Australian 60 Minutes episode and a BBC Panorama documentary link will not work unless you have a UK location or ….
+
+Look out for the EASA and Transport Canada independent positions and recommendations (above and beyond FAA’s Airworthiness Directive) and beyond the return to service minimum conditions. Design Changes have been requested ‘within a couple of years’. Not all have been agreed with Boeing or the FAA.
+
+![FAA Approved Santa](/assets/img/newsletters/2021-03/faa-approved-santa.png)
+
+## Association Matters
+
+### Annual General Meeting
+Next AGM is scheduled for Oct/Nov 2021.
+
+### National Committee for 2020/21
+
+| Derek Reinhardt | Chairman (ACT) |
+| Luke Wildman | (QLD) |
+| George Nikandros | Treasurer (QLD) |
+| Clive Boughton | (ACT) |
+| Holger Becht | (QLD) – Conference chair |
+| BJ Martin | (ACT), Newsletter editor |
+| Ed Kienast | (QLD) |
+| Vamsi Madasu | (VIC) |
+| Tim McComb | (QLD) – Conference Program Chair |
+| Simon Connelly | (QLD) - Secretary |
+
+## From the Chair
+
+With 2021 now well underway, I reflect on the challenges of last year. Our first year in many without a conference, internationally recognised training, and the associated network and visibility it brings our community of safety professionals. This outcome hasn’t been from lack of will or effort by members of our committees. Great amounts of planning and effort had gone into both preparation for our conference and course by both our committee members, and some of our speakers. For those efforts, I pass on our greatest thanks to all involved. Even though we didn’t see the benefits realised this year, I’m very confidence those efforts will not go to waste. Planning is well underway for this year’s events, and we are hoping that the pandemic situation is more accommodating in 2021.
+
+We have not been without success in 2020 though, and ran our first virtual webinar. Thanks go particularly to Tim McComb for running the Zoom session, and to Vamsi Madasu and Kevin Anderson for providing the presentation. The webinar was very successful, well attended and provides a great avenue for us to provide further presentations over the coming months. We now have our call for papers for this year’s conference out, and welcome abstracts and papers for consideration. So a reminder to all members to consider how you might share and contribute to next year’s event.
+
+While COVID-19 has dominated much of our attention this year, there have been some other interesting events from a system safety perspective. I recently saw the unsuccessful landings of the SpaceX Starship in the media. The testing being undertaken is incredibly challenging, and involved a number of critical design elements working flawlessly in order to achieve a successful landing. Open source reporting indicates that “fuel header tank pressure was low” during the first test descent, “causing touchdown velocity to be high”. The result was an explosion and destruction of the test vehicle. An explosion post landing of the 2nd test is also under investigation.
+
+Another activity of great interest is the resolution of the 737 MAX issues by Boeing and the FAA. In Nov 20 media reported that the 737 MAX had been cleared to commence operations again. Some insight into the steps that have been taken is available on the [Boeing website](https://www.boeing.com/737-max-updates/). Keep COVID safe.
+
+Kind regards\
+**Dr. Derek Reinhardt**\
+**Chairman aSCSa**
+
+## ASSC 2020 > 21
+
+**Virtual Event 02-04 June 2021**
+
+In 2020 2021, the aSCSa will/should host its 25th annual conference event. The theme for the 2020/21 conference is **“Complex Systems: Can We Keep It Safe Anymore?”**. With systems becoming more integrated, networked, and complex incorporating new/emerging technologies, automation, autonomy, and artificial intelligence – ‘system of systems’ challenges such as emergent behaviour, cybersecurity, and human factors become more prominent.
+- Are traditional Safety by Design programs and system review constructs sufficient?
+- How do we understand and analyse these complex systems and architectures?
+- How do we provide safety assurance for complex emergent behaviour, and potentially adaptive systems?
+- How do we ensure cybersecurity and human factors issues are adequately assessed and integrated with the safety program?
+
+The aSCSa invites representatives from Industry, project agencies and academia to participate at this conference to learn, discuss, debate and challenge on how we can rely, or should we rely on artificial intelligence technologies for safety.
+
+Invited keynote speakers are:
+- Chris Johnson, Queen’s University Belfast
+- Trish Willams, Flinders University at Tonsley
+
+Please visit the [conference website](/conference/2021) for more details about the conference. **[CPD 14 hours]**
+
+### Submission
+- Abstracts should be approximately 250 words.
+- For delegates who optionally submit a full paper - papers should be no more than 10 pages.
+- Paper submissions can be emailed to [program@ascsa.org.au](mailto:program@ascsa.org.au)
+
+### Important Dates
+- Abstract: Fri 12th Mar 2021 (text, rtf, MS-Word or pdf)
+- Submission: 16th Apr 2021 (rtf, MS-Word or pdf)
+- Camera-ready copy: 28th May 2021 (pdf only)
+
+## Upcoming Events
+
+- **Engineers Australia: Second Engineered Safety Symposium**. Physical and Online - Adelaide. 4-5th May 21.
+- **[MIL-STD-882F Draft](https://system-safety.org/page/MIL-STD-882F-draft)** is on the board for comment by 11 March21. This process will be going for many years so get in early or watch it evolve.
+- **[Remote Professional Development: MIT STAMP Workshop](http://psas.scripts.mit.edu/home/2021-stamp-workshop-information/)**. Online – US EDT Time Zones.
+
+## Research Award
+
+The purpose of this annual award is to encourage Australian research in the science of software/system engineering or the application of that science for safety and/or mission critical software-intensive systems. At **$5000**, it is a substantial award. The rules governing the award are available from the [aSCSa website](/).
+
+*The nominated closing date requirement has now been removed; nominations can now be made any time.*
+
+## Bulletin Board
+
+aSCSa is a non-denominational church for System Safety professionals, and we welcome engagement with all sister organisations, especially those with professional development and knowledge sharing opportunities.
+
+- [Safety Critical Systems Club](https://scsc.uk/), our twin sister and very busy organisation. Well worth tagging and joining for newsletters.
+- [Safety and Reliability Society UK](https://www.sars.org.uk/) has commissioned a new Asia Pacific branch, including Australia and will run on-line events. We are collaborating with them to mutually support both association’s objectives.
+- [International System Safety Society (ISSS)](https://system-safety.org/).
+- ACM Risk Forum on [Risks to the Public in Computers and Related Systems](http://catless.ncl.ac.uk/Risks).
+- [System Safety List](http://www.systemsafetylist.org/).
+- Safety-Critical Mailing List Forum formerly hosted by the University of York is now hosted by the University of Bielefeld. Need to join using the form located at [System Safety Info Page](https://lists.techfak.uni-bielefeld.de/mailman/listinfo/systemsafety) for access.
+- Aside from many mailing lists that aSCSa Committee members subscribe to, the following are typically monitored. If any members Identify news items of interest that they’d like to see comment on please send to aSCSa Committee [committee@ascsa.org.au](mailto:committee@ascsa.org.au).
+
+## Post Office IT System Scandal ‘Destroys Lives’
+
+Last Newsletter we mentioned therecord fine issued to Westpac for money laundering regulatory failures – potentially facilitating ruining peoples lives. This time around it’s a [little more direct](https://www.theguardian.com/business/2020/oct/02/post-office-apologises-in-false-accounting-scandalclimbdown).
+
+*“The Post Office has decided not to oppose 44 of the 47appeals lodged by former subpostmasters who were convicted of false accounting, theft, or fraud in a scandal that exposed severe flaws in its Horizon IT system.*
+
+*Acknowledging “historical failings”, the Post Office chairman, Tim Parker, said the organisation would cooperate with the Criminal Cases ReviewsCommission, which has referred the cases to the courtof appeal for re-examination.*
+
+*The admission is a further blow to the Post Office which wrongly accused large numbers of subpostmasters of criminal activity owing to inaccurate records in theHorizon IT system, which was introduced to Post Office branches in 1999.”*
+
+One of the few positives of this mess is the legal fraternity getting a lesson in fallibility of systems – in particular computers.
+
+*“In 1997, the Law Commission decided that writers of software code wrote perfect code, because it introduced the presumption, that included computers by implication(or more accurately, digital data), that, ‘In the absence of evidence to the contrary, the courts will presume that mechanical instruments were in order at the material time’. Politicians decided to replicate the presumption for criminal proceedings by passing section 129(2) of theCriminal Justice Act 2003.”*
+
+Leading safety critical software experts in the UK (for readers of the safety critical systems blog – the usuals uspects: Ladkin, Littelwood, Thimbleby, Thomas et al.) made submissions titled “Recommendations for the probity of computer evidence” to override the presumption of perfect code.
+
+**Abstract**
+
+*"There exists widespread misunderstanding about the nature of computers and how and why they are liable to fail. The present approach to the disclosure or discovery and evaluation of evidence produced by computers in legal proceedings is unsatisfactory. The central problem is the evidential presumption that computers are reliable.This presumption is not warranted. To this end,recommendations are proposed to rectify this problem with the aim of increasing the probability of a fair trial.”*
+
+**aSCSa Insights**
+
+The Horizon IT system appeared to have some defects with double-handling transactions, incomplete transactions (and the list goes on). This is not surprising or unexpected - all software of that scale has bugs – and any assumption of ‘perfect code’ doesn’t even pass the pub test. The core issue here in my opinion is transparency in the form of logging and juridical recording. If you use some tax accounting package to help you file your tax return, that software is not conventionally considered critical, and there is an expectation of potential errors. This is not because if it makes an error there are no serious consequences (I think we can all agree that the ATO can be quite fervent in the pursuit of such matters) it is because it is your responsibility to ensure that you file a correct return, whether you used the software or not. The tax software should show you the basis for its calculations in order for you to verify them, and give you the ability to rectify them – this is perhaps its only ‘critical’ function. The software should not be considered fit for purpose if it doesn’t permit this.
+
+We then enter the familiar territory of trust and reliance in the software increasing over time, such that it isn’t routinely checked, even if it can be, and in the safety critical systems domain there is a laundry list of accidents at least in part caused by this over-reliance. But what about when it is simply not possible to check? To use an example that is familiar to many of us in aSCSa, if you calculate the top-level rate in your favourite fault tree analysis tool, are you even able to inspect the basis upon which this figure was derived? How critical is that figure to the safety of the system being built? Are you the engineer responsible for signing-off on that figure?
+
+The Horizon system did not sufficiently permit the postmasters to verify the accounts, and in fact forced them to reconcile the accounts at the end of each day(out of their own pocket). It they suspected an error there was no recourse, save for a helpline, but the books needed to be balanced before trade could begin the following day. The helpline was staffed by systems administrators who had unbridled access to the relational database tables in the back-end servers. They could make any change to any transaction, and this was routinely done, and nothing was recorded except for the fact that they had logged in to the server. The ability to verify the correct operation of a system, both while it is running, and forensically, can be a critical function of a system that is not otherwise considered critical (in the manner that we at aSCSa tend to think of critical systems). Clearly with this perspective, the system should record all actions performed by users and administrators to modify accounts, and allow the users to challenge and rectify the accounts for which they are ultimately responsible. To do this requires transparency and sufficient detail in the records produced by the system.
+
+PS. Justice Fraser’s judgement on the “Horizon Issues” case is an [unexpectedly engaging read](https://www.judiciary.uk/wpcontent/uploads/2019/12/bates-v-post-officejudgment.pdf) on the subject of software safety. I found the section starting on page 249under the heading “Dr Worden” particularly illustrative of the use of statistical reasoning (even if unknowingly) for assessing the reliability of software that is in service or has a service history. According to Judge Fraser “I have reproduced extensive passages of Dr Worden’s explanation of his own methodology in order to allow his explanation to be available to any reader of this judgment. I consider this a wholly flawed methodology,and obviously so, and I reject it.” We too, as system safety professionals, must be careful to avoid making safety arguments of this nature.
+
+Finally, could we reflect on our own [Government designed and instituted employment of modern IT data analytics and AI potential that affected peoples lives](https://theconversation.com/robodebt-was-a-policyfiasco-with-a-human-cost-we-have-yet-to-fullyappreciate-150169)? A requirements problem or a socio-technical system design problem? Not apparently blamed on failure in the coding and implementation space.
+
