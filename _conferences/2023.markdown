@@ -5,6 +5,11 @@ location: Adelaide, SA
 theme: "Closing the Loop: Incorporating Humans into Systems"
 ---
 
+## Contents
+- [Submit a Paper](#submit-a-paper)
+- [Registration](#registration)
+- [Venues](#venues)
+
 ## Submit a Paper
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
 

@@ -64,12 +64,14 @@ a {
         @extend .w3-light-grey;
       }
     }
+    td {
+      vertical-align: middle;
+    }
   }
   a {
     @extend .w3-text-theme;
   }
   img {
-    @extend .w3-card;
-    width: 100%;
+    max-width: 100%;
   }
 }

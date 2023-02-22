@@ -1,0 +1,125 @@
+---
+title: ASSC 2021
+date: 2021-06-02
+location: Virtual
+theme: "Complex Systems: Can We Keep It Safe Anymore?"
+---
+
+## Contents
+- [Submit a Paper](#submit-a-paper)
+- [Registration](#registration)
+- [Keynotes](#keynotes)
+- [Technical Program](#technical-program)
+- [Sponsors](#sponsors)
+
+
+## Submit a Paper
+The Australian System Safety Virtual Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society. ​
+
+The theme for the 2021 virtual conference is “Complex Systems: Can We Keep It Safe Anymore?”. With systems becoming more integrated, networked, and complex – incorporating new/emerging technologies, automation, autonomy, and artificial intelligence – ‘system of systems’ challenges such as emergent behaviour, cybersecurity, and human factors become more prominent.
+- Are traditional Safety by Design programs and system review constructs sufficient?
+- How do we understand and analyse these complex systems and architectures?
+- How do we provide safety assurance for complex, emergent behaviour, and potentially adaptive systems?
+- How do we ensure cybersecurity and human factors issues are adequately assessed and integrated with the safety program?
+
+The 2021 ASSC would like to examine and share the latest thinking on the state of the art and its fitness for purpose. We invite research papers and project experience to present and engage.
+
+### ​Topics of Interest
+
+The conference invites original and unpublished works that advance the state-of-the-art in safety and security considerations for the development and operation of safety and security critical systems. We are particularly interested in cross-industry and cross-pollenisation, and looking for papers in:
+- Medicine and health (medical devices, e-health systems, etc.)
+- Transport
+- Defence and Aviation
+- Telecommunications
+- Energy
+- Security
+- Resource and process industries
+- Emergency services
+
+Delegates have the option of submitting two types of papers:
+1. Refereed Papers by the conference program committee
+2. Industry Presentations/Papers (not subject to peer review)
+
+Both types of papers are published on the conference website, and if sufficient papers are submitted, published in the Journal of Safety and Reliability Society.
+
+### Submission
+- Abstracts should be approximately 250 words.
+- For delegates who optionally submit a full paper - papers should be no more than 10 pages.
+- Paper submissions can be emailed to [program@ascsa.org.au](mailto:program@ascsa.org.au)
+
+### Important Dates
+- Abstract: **12th Mar 2021** (text, rtf, MS-Word or pdf)
+- Submission: **16th Apr 2021** (rtf, MS-Word or pdf)
+- Camera-ready copy: **28th May 2021** (pdf only)
+
+## Registration
+Conference registration fees (except as noted) includes attendance at all technical sessions on Wednesday, Thursday and Friday, special Thursday evening social event*, and the conference proceedings.
+*Note that there will be a small social event in Brisbane, Melbourne and Canberra for local conference delegates.*
+
+|  | Registration |
+|-------|--------|
+| **Presenter's Rate** | FREE |
+| **aSCSa, ACS Member** | $100.00 |
+| **All Others** | $125.00 |
+
+All fees as listed above are in AUS Dollars and GST inclusive. For questions about registration, contact George Nikandros at [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
+
+## Keynotes
+
+### Prof. Chris Johnson
+![Prof. Chris Johnson](/assets/img/conferences/2021/chris_johnson.png){:class="w3-circle w3-right"}
+*Pro-Vice-Chancellor (Engineering and Physical Sciences), Queen’s University Belfast*
+
+Chris Johnson leads the Faculty for Engineering and Physical Sciences at Queen’s University in Belfast. Prior to that he was Head of Computing Science in the University of Glasgow for six years. His research supports the engineering of complex systems; ranging from accident and incident investigation through to contingency planning and risk assessment for European critical infrastructures. The technical focus extends from mathematical reasoning to applied engineering. He has held fellowships from NASA and the US Air Force and has 250 peer-reviewed publications. He worked with the Ministry of Housing, Communities and Local Government on dynamic integrated risk management techniques to identify, measure and mitigate the social and economic impact that fire and other emergencies can be expected to have on individuals, communities, commerce, industry and the environment. He worked with the US (NIST) data to model different evacuation methods for large public buildings; following the 9/11 and 7/7 attacks. He has advised a range of other UK government departments including BEIS, DfT, DCMS, FCO and the Home Office. In 2020, he is expert witness to the Grenfell Tower inquiry focussing on communications and data issues in the response to the disaster.
+
+### Prof. Trish Williams
+![Prof. Trish Williams](/assets/img/conferences/2021/trish_williams.png){:class="w3-circle w3-right"}
+*Cisco Chair and Professor of Digital Health Systems at Flinders University*
+
+Professor Trish Williams is a leader in research and innovation in digital health. Trish is Cisco Chair and Professor of Digital Health Systems at Flinders University, Director of Flinders Digital Health Research Centre, and Director of Cisco-Flinders Digital Health Design Lab and Digital Health IOT Laboratory. Internationally recognised in her field, Trish applies 30 years’ experience in healthcare computing to research and practical outcomes in cybersecurity, health IoT, mobile health, medical devices, governance, patient safety, and health software safety. A passionate contributor and advocate for digital health informatics standards, Trish is co-chair HL7 International Security Workgroup and national expert on health informatics, security and medical device ISO standards. She has authored over 130 medical information security and safety publications.
+
+### Mike Hurd
+![Mike Hurd](/assets/img/conferences/2021/mike_hurd.png){:class="w3-circle w3-right"}
+*Director of Engineering. Systems. Management*
+
+Mike is an electrical engineer and engineering manager for high-integrity systems design and development with a reputation for thoroughness, quality and integrity. Mike has experience in nuclear reactors, nuclear and conventional submarines, control and power systems, propulsion systems, rail signalling and telecommunications, and electricity transmission and distribution. Mike has been lucky enough to work on research and development projects, standards development, and has lectured to master’s degree students on neutron detection and submarine control systems. Mike is currently focussed on consulting on and providing engineering management, systems engineering and management systems. With a strong focus on safety, Mike also consults on and delivers Safety in Design training for organisations and chairs Engineers Australia’s SA Division’s Engineered Safety Group.
+
+## Technical Program
+
+### Wednesday, 2nd June
+
+| **Start** | **End** | **Session** | **Title** |
+| 2:00 | 2:15pm | Welcome | |
+| 2:15 | 3:15pm | (**Keynote**) Mike Hurd | A lifecycle planning approach to managing complex programs |
+| 3:30 | 4:00pm | Andrew Hussey & Maria Hill | [On Taming Complexity in System Evolution](/assets/docs/conferences/2021/ASSC2021%20-%20Hussey%20and%20Hill%20-%20On%20Taming%20Complexity%20in%20System%20Evolution.pdf) |
+| 4:15 | 4:45pm | Steve Dawkins | Leveraging product innovation to deliver better safety arguments |
+| 4:50 | 4:55pm | *Nova Systems (Sponsor)* | |
+| 5:00 | 5:30pm | Tom Haskins | Introducing the Safety and Reliability Society Asia Pacific branch |
+
+### Thursday, 3rd June
+
+| **Start** | **End** | **Session** | **Title** |
+| 2:00 | 2:15pm | Welcome
+| 2:15 | 3:15pm | (**Keynote**) Trish Williams | Cybersecurity in healthcare: Cascading failure and the need for new perspectives on old challenges |
+| 3:30 | 4:00pm | Kristian Cruickshank | UTM and System Safety – A Rock and a Hard Place |
+| 4:15 | 4:45pm | Daniel Grivicic | Is a safety system that has never failed, safe? |
+| 4:50 | 4:55pm | *Dedicated Systems (Sponsor)* | |
+| 5:00 | 5:30pm | Jens Braband | Machine Learning from a Safety Assessor’s Perspective |
+
+### Friday, 4th June
+
+| **Start** | **End** | **Session** | **Title** |
+| 2:00 | 2:30pm | Vamsi Madasu & Kevin Anderson | A novel method for calculating risk-based TLOS for driverless cars |
+| 2:45 | 3:15pm | Owen Traynor | Industry Presentation: Challenges for Australian Rail Transport Operators in supporting the delivery of major Infrastructure projects |
+| 3:20 | 3:25pm | *RGB Assurance (Sponsor)* | |
+| 3:30 | 4:30pm | (**Keynote**) Chris Johnson | Overcoming Regulatory Barriers to the Application of Machine Learning in Safety and Security Critical Applications |
+
+## Sponsors
+
+{:class="w3-center"}
+![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}
+![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}
+
+{:class="w3-center"}
+![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}
+![ACS](/assets/img/sponsors/acs.png){:width="25%"}

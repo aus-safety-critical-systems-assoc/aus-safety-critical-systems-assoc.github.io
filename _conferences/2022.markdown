@@ -1,9 +1,18 @@
 ---
 title: ASSC 2022
 date: 2022-05-26
-location: Melbourne, Vic
+location: Melbourne, VIC
 theme: "Assurance of Artificial Intelligence"
 ---
+
+## Contents
+- [Submit a Paper](#submit-a-paper)
+- [Registration](#registration)
+- [Venues](#venues)
+- [Keynotes](#keynotes)
+- [Technical Program](#technical-program)
+- [Sponsors](#sponsors)
+
 
 ## Submit a Paper
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society. ​
@@ -66,3 +75,86 @@ This years conference will be held at the **Rendezvous Hotel** at 328 Flinders S
 
 ### Social Event
 Attendees are welcome to attend canapés and drinks at the Rendezvous on Thursday evening, 6-8pm.
+
+## Keynotes
+
+###  Dr. Kelvin Ross
+![Dr Kelvin Ross](/assets/img/conferences/2022/kelvin_ross.png){:class="w3-circle w3-right"}
+*CEO, KJR & CTO, Datarwe*
+
+Dr Kelvin Ross has over 30 years of experience in software engineering and enterprise IT applications.  Kelvin started his IT career in safety critical software engineering in defence, working on FA-18 airborne radar systems.  After completing his PhD in safety critical systems engineering and several years in consulting in defence and transportation systems, he moved over to the commercial sector and founded KJR, specializing in software testing and assurance, which now has over 80 consultants in Sydney, Canberra, Melbourne and Brisbane.  
+
+Kelvin is recognized as expert in testing and assurance of software applications across a broad range of industry domains, including e-health, public administration, finance, insurance, retail and telecommunications.  In addition to Kelvin’s role as Chairman of KJR, Kelvin is a Director of non-profit Healthcare AI Innovation Hub, IntelliHQ, and broadly engages in technology advisory roles, including director roles AI innovative startups.  He has broad interests in Machine Learning, which he sees as the dominant technology driver for the next several decades, particularly within the Healthcare sector. 
+
+Kelvin is an Associate Adjunct Professor at the Institute for Intelligent and Integrated Systems (IIIS), Griffith University, and organiser of Young Women Leaders in AI, Gold Coast AI and Machine Learning meetup group, member of ACS AI Ethics national committee, has held several roles in national technical working groups (NATA and ACS), and held several board positions.
+
+### Prof. John McDermid
+![Prof John McDermid](/assets/img/conferences/2022/john_mcdermid.png){:class="w3-circle w3-right"}
+*Department of Computer Science at the University of York*
+
+John McDermid became Professor of Software Engineering at the University of York in 1987.  His work covers a broad range of issues in systems, software and safety engineering.  He became Director of the Lloyd’s Register Foundation funded Assuring Autonomy International Programme in January 2018, focusing on safety of robotics and autonomous systems.  He has acted as an advisor to government and industry for several decades, including advising Five, the UK MoD and Rolls-Royce.  He was appointed as a Non-Executive Director of the HSE in October 2019.  He became a Fellow of the Royal Academy of Engineering in 2002 and was awarded an OBE in 2010.
+
+### Kristian Cruickshank & Terrence Martin
+![Kristian Cruickshank](/assets/img/conferences/2022/kristain_cruickshank.png){:class="w3-circle w3-right"}
+![Terrence Martin](/assets/img/conferences/2022/terrence_martin.png){:class="w3-circle w3-right"}
+*Revolution Aerospace*
+
+Systems thinker, safety focused, innovator, and technology fanatic, Kristian is an aerospace engineer with a genuine belief that technology holds the solution to many large societal problems. Kristian’s experience exists at the nexus of structured, rigorous engineering and innovative, agile approaches. With a wealth of practiced skills in systems engineering, software safety, assurance of autonomous systems, and a passion for advanced and complex technologies, Kristian leads technical teams to the most pragmatic and innovative solutions for difficult problems.
+
+​Kristian co-founded Revolution Aerospace with Terry Martin, fulfilling a career ambition of becoming a CTO of a small, highly impactful, team.
+
+​Dr Terrence Martin is CEO for Revolution Aerospace. An aerospace/electrical engineer for 35 years including time in Air Force and Army, he has significant experience on fixed & rotary-wing manned and unmanned platforms. He is an Adjunct Professor at QUT with a PhD in Signal Processing & Machine Learning. Terry has a deep interest in UAV technologies and in 2018 was named by Engineers Australia as one of the 30 most innovative engineers. His longstanding commitment to the domestic and international UAV regulatory community was acknowledged in 2021 by Australia’s peak UAV body, AAUS, with the award for Leadership.
+
+### Prof. James Bailey
+![Prof James Bailey](/assets/img/conferences/2022/james_bailey.png){:class="w3-circle w3-right"}
+*Engineering and Information Technology at The University of Melbourne and Program Lead for Artificial Intelligence*
+
+James Bailey is a Professor in the Faculty of Engineering and Information Technology at The University of Melbourne and Program Lead for Artificial Intelligence. He was previously an Australian Research Council Future Fellow and is a researcher in the field of machine learning and artificial intelligence, including interdisciplinary applications and operational frameworks.
+
+​His interests particularly relate to the assurance, certification and safety of systems based on machine learning and artificial intelligence. He contributes to the AI research community through roles such as membership of Editorial Boards including the Journal of Artificial of Artificial Intelligence Research and ACM Transactions on Intelligent Systems and Technology. He was co-Program Chair of the Australasian Joint Conference in Artificial Intelligence in 2019 and IEEE International Conference on Data Mining in 2021. He works on the deployment of AI systems in collaboration with a wide range of industry and government partners.
+
+## Technical Program
+
+### Thursday, 26th May
+
+| **Start** | **End** | **Session** | **Title** |
+| 08:45 | 09:00 | Welcome | |
+| 09:00 | 10:00 | (**Keynote**) Dr. Kelvin Ross | [Evaluating production robustness of deep learning models](/assets/docs/conferences/2022/ASSC2022%20-%20Dr%20Kelvin%20Ross%20-%20Evaluating%20production%20robustness%20of%20deep%20learning%20models.pdf) |
+| 10:00 | 10:40 | Campbell Sims (Acmena) | [Regulatory approaches to safety systems using artificial intelligence in autonomous vehicles](/assets/docs/conferences/2022/ASSC2022%20-%20Campbell%20Sims%20-%20Regulatory%20approaches%20to%20safety%20systems%20using%20artificial%20intelligence%20in%20autonomous%20vehicles.pdf) |
+| 10:40 | 11:00 | *Break* | |
+| 11:00 | 11:40 | Vamsi K. Madasu & Kevin J. Anderson (Systra) | [Assuring safety of AI-based automated driving systems](/assets/docs/conferences/2022/ASSC2022%20-%20Madasu%20and%20Anderson%20-%20Assuring%20safety%20of%20AI-based%20automated%20driving%20systems.pdf) |
+| 11:40 | 12:20 | Marceline Overduin (Frazer-Nash) | Assuring autonomy – An examination of the literature and directions for applied research |
+| 12:20 | 12:30 | *Sponsors - Dedicated Systems* | |
+| 12:30 | 13:30 | *Lunch* | |
+| 13:30 | 14:10 | Ben Luther (Nova Systems) | [Concepts in assuring AI](/assets/docs/conferences/2022/ASSC2022%20-%20Ben%20Luther%20-%20Concepts%20in%20assuring%20AI.pdf) |
+| 14:10 | 14:50 | Ganesh Pai (KBR / NASA Ames Research Center) | Navigating the Assurance Landscape for Certification of Machine Learning in Civil Aviation |
+| 14:50 | 15:20 | *Break* | |
+| 15:20 | 16:00 | Murray Bailes | Operational Hazard Analysis |
+| 16:00 | 17:00 | (**Keynote**) Prof. John McDermid (remote) | [Assurance of Machine Learning: Challenges and Approaches](/assets/docs/conferences/2022/ASSC2022%20-%20Prov%20John%20McDermid%20-%20Assurance%20of%20Machine%20Learning%20-%20Challenges%20and%20Approaches.pdf) |
+
+### Friday, 27th May
+
+| **Start** | **End** | **Session** | **Title** |
+| 08:30 | 08:35 | Welcome | |
+| 08:35 | 08:45 | *Sponsors - Nova* | |
+| 08:45 | 09:45 | (**Keynote**) Prof. James Bailey | Assurance of AI |
+| 09:45 | 10:25 | Ben Marsh (Nova Systems) | Conducting STPA in an MBSE Environment |
+| 10:25 | 10:35 | *Sponsors - KJR* | |
+| 10:35 | 11:00 | *Break* | |
+| 11:00 | 11:40 | Dr. Phil Cook & Dr. Neil Robinson (RGB Assurance) | Precision and objectivity in the expression of hazard controls |
+| 11:40 | 12:20 | Dr. Andrew Hussey & Maria Hill (Hitachi Rail) (remote) | System and Software Assurance for AI Applications |
+| 12:20 | 12:30 | *Sponsors - RGB* | |
+| 12:30 | 13:30 | *Lunch* | |
+| 13:30 | 13:40 | *Sponsors - ACS* | |
+| 13:40 | 14:40 | (**Keynote**) Kristian Cruickshank & Terrence Martin (remote) |
+| 14:40 | 15:00 | Closing | |
+
+## Sponsors
+
+![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}
+![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}
+![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}
+
+{:class="w3-center"}
+![KJR](/assets/img/sponsors/kjr.png){:width="20%"}
+![ACS](/assets/img/sponsors/acs.png){:width="25%"}

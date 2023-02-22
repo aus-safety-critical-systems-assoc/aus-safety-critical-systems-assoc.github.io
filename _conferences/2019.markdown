@@ -1,0 +1,179 @@
+---
+title: ASSC 2019
+date: 2019-05-22
+location: Brisbane, QLD
+theme: "How can we be Artificially Safe?"
+---
+
+## Contents
+- [Submit a Paper](#submit-a-paper)
+- [Registration](#registration)
+- [Conference Venue](#conference-venue)
+- [Keynotes](#keynotes)
+- [Tutorials](#tutorials)
+- [Technical Program](#technical-program)
+- [Sponsors](#sponsors)
+
+## Submit a Paper
+The Australian System Safety Conference is hosted by the Australian Safety Critical Systems Association (aSCSa) and is a meeting place for scholars, scientists, educators, students, engineers, entrepreneurs, and managers to engage with like minded people. The ASSC 2018 Conference Committee encourages you to participate in this unique event and is calling for abstracts from delegates who are interested in presenting.
+
+Delegates have the option of submit two types of papers:
+1. Refereed Papers by the conference program committee
+2. Industry Presentations/Papers (not subject to peer review, and not published in conference proceedings, available by conference CD only)
+
+All accepted abstracts and submitted papers will form part of the Conference Proceedings provided to authors and conference attendees at the end of the conference. ​The presentations can cover a wide range of safety and security related topics and applications, and should be relevant to "**How can we be artificially safe?**".
+
+### ​Topics of Interest
+
+Today there are many applications of artificial intelligence (AI) and machine learning (ML) to all sorts of systems involving human interaction and changing contexts.  The general assumption is that including AI and/or ML within various systems will improve interactions/reactions with/of systems.  Safety systems may benefit from appropriate application of AI and/or ML.  The safety critical areas of interest include:
+- Medicine and Health (medical device and e-health systems etc.)
+- Transport
+- Defence and Aviation
+- Telecommunications
+- Energy
+- Resource and Process industries
+- Emergency services
+
+What research has been done to show the benefits (or dis-benefits) of AI in safety systems?  What good/bad experiences have occurred when safety systems rely on AI/ML?  How well skilled is industry and responsible agencies to manage the system safety challenges that come with these technology advances? How should we, as professionals, rise to the challenge?  
+
+### Submission
+- Abstracts should be approximately 200 words.
+- For delegates who optionally submit a full paper - papers should be no more than 10 pages.
+- Presentations are to be supplied in Micorsoft PowerPoint format.
+- Paper submissions can be emailed to [program@ascsa.org.au](mailto:program@ascsa.org.au)
+
+## Registration
+ASSC 2019 comprises TWO separate events:
+1. A conference event for 23 - 24 May 2019. [Click here](https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000001eWBp) for registration details.
+2. A tutorial event for 22 May 2019.  [Click here](https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000001eWBz) for registration details.
+
+You may register for either or both events.
+
+### Conference Registration
+
+|  | Registration by March 1, 2019 | Registration after March 1, 2019 |
+|-------|--------|--------|
+| **Presenter's Rate** | $650 | $950 |
+| **aSCSa, ACS Member** | $750 | $1100 |
+| **Students** | $350 | $500 |
+| **Others** | $800 | $1100 |
+
+### Tutorial Registration
+
+|  | Registration by March 1, 2019 | Registration after March 1, 2019 |
+|-------|--------|--------|
+| **aSCSa, ACS Member** | $350 | $550 |
+| **Students** | $350 | $400 |
+| **Others** | $400 | $600 |
+
+Presenters, aSCSa members and students who are not ACS members need to use a promotion code. There are different codes for Presenters, aSCSa members and students who are not ACS members. If this is you please contact the aSCSa. There are a separate set of codes for registering by March 01, 2019 and after March 01, 2019. There are separate sets of codes for the Conference and the Tutorial. ACS members and students who are members of the ACS do not require promotion codes.
+
+## Conference Venue
+This years conference will be held at the **Customs House** at 299 Queen St, Brisbane QLD.
+
+## Keynotes
+
+### Dr. Ganesh Pai
+![Dr. Ganesh Pai](/assets/img/conferences/2019/ganesh_pai.png){:class="w3-circle w3-right"}
+*NASA*
+
+Dr Pai is a Senior Research Engineer with SGT Inc. (a KBRWyle business unit), and a contractor member of the scientific staff in the Intelligent Systems Division at the National Aeronautics and Space Administration (NASA), Ames Research Center, California. His research addresses the broad area of safety and mission assurance, as applied to aerospace systems and software, while his professional practice has supported the safe engineering and operations of Unmanned Aircraft Systems (UAS).
+
+Ganesh was a principal member of the team that created the safety case for a ground-based detect and avoid solution that demonstrated the capability to conduct safe beyond visual line of sight UAS operations in civil airspace, an achievement for which he was recognized by a 2014 NASA honor award. More recently, his research focus has expanded to include dependability analysis and assurance technologies for assured autonomy to support both NASA's Airspace Operations and Safety Program, and the Quantifiable Assurance Cases for Trusted Autonomy (QUASAR) project funded by the US Defense Advanced Research Projects Agency (DARPA), on which he is co-investigator. 
+
+Dr. Pai holds a doctorate degree in Computer Engineering, and a Master of Science degree in Electrical Engineering, both from the University of Virginia. He has authored more than 40 articles spanning the broad areas of systems and software engineering, with a focus on dependability and safety. He has also served on the program committees of numerous workshops and conferences in those areas, including as co-chair of the ongoing workshop series on Assurance Cases for Software-intensive Systems (ASSURE). He is a senior member of the IEEE and the AIAA, and a member of the IEEE Computer Society, and Eta Kappa Nu, the international honor society of the IEEE.
+
+### Prof. Philip Koopman
+![Prof. Philip Koopman](/assets/img/conferences/2019/philip_koopman.png){:class="w3-circle w3-right"}
+*Carnegie-Mellon University*
+
+Prof. Philip Koopman started working on autonomous vehicle safety over 20 years ago with the Carnegie Mellon University NavLab project. Recently he has done stress testing and run time monitoring of robots and autonomous vehicles. He currently works on technical, policy, and regulation issues regarding self-driving car safety and perception validation. Other areas of interest include software safety in a wide variety of industrial applications, robustness testing, and embedded system software quality. His pre-university career includes experience as a US Navy submarine officer, embedded CPU designer at Harris Semiconductor, and embedded system architect at United Technologies. He is co-founder of Edge Case Research, which provides tools and services for autonomous vehicle testing and safety validation.
+
+​Professor Koopman recently became only the twelfth person in 40 years to receive the IEEE SSIT Carl Barus Award for Outstanding Service in the Public Interest. [Read about it here!](https://newsletters.ieee.org/society/SIT/2018/dec/SIT_Nltr_Dec_18_html_ONLII.html)
+
+### Pamela Melroy
+![Pamela Melroy](/assets/img/conferences/2019/pamela_melroy.png){:class="w3-circle w3-right"}
+*Director of Space Technology and Policy, Nova Systems*
+
+Pam Melroy is a retired Air Force test pilot and former NASA astronaut and Space Shuttle commander. She was commissioned in the United States Air Force and served as a KC-10 copilot, aircraft commander, and instructor pilot. Melroy is a veteran of Operation Just Cause and Operation Desert Shield/Desert Storm, with over 200 combat and combat support hours. She went on to attend the Air Force Test Pilot School at Edwards Air Force Base, California. Upon her graduation, she was assigned to the C-17 Combined Test Force, where she served as a test pilot until her selection for the Astronaut Program. She has logged more than 6,000 hours flight time in more than 50 different aircraft.
+
+Selected as an astronaut candidate by NASA in December 1994, Melroy reported to the Johnson Space Center, Texas, in March 1995. She flew three missions in space: as Space Shuttle pilot during STS-92 in 2000 and STS-112 in 2002, and as Space Shuttle Commander during STS-120 in 2007. All three missions were assembly missions to build the International Space Station. She is one of only two women to command the Space Shuttle. While an astronaut, she held a variety of positions to include performing astronaut support duties for launch and landing and Capsule Communicator (CAPCOM) duties in mission control. Melroy served on the Columbia Reconstruction Team as the lead for the crew module and served as Deputy Project Manager for the Columbia Crew Survival Investigation Team. In her final position, she served as Branch Chief for the Orion branch of the Astronaut Office. She has logged more than 924 hours (more than 38 days) in space.
+
+Colonel Melroy retired from the Air Force in 2007, and left NASA in August 2009. After NASA, she served as Deputy Program manager for the Lockheed Martin Orion Space Exploration Initiatives program and as Director of Field Operations and acting Deputy Associate Administrator for Commercial Space Transportation at the Federal Aviation Administration. She went on to serve as Deputy Director, Tactical Technology Office at the Defense Advanced Research Projects Agency (DARPA). Pam Melroy now is Director, Space Technology and Policy at Nova Systems.
+
+### Bijan Elahi
+![Bijan Elahi](/assets/img/conferences/2019/bijan_elahi.png){:class="w3-circle w3-right"}
+*Award winning, international educator, consultant and author*
+
+Bijan Elahi has worked in risk management for medical devices for over 25 years at the largest medical device companies in the world, as well as small startups. He is currently employed at Medtronic as a Technical Fellow where he serves as the corporate expert on safety risk management of medical devices. In this capacity, he offers education and consulting on risk management to all Medtronic business units, worldwide. Bijan is also a lecturer at Delft University of Technology, and Eindhoven University of Technology in the Netherlands, where he teaches risk management to doctoral students in engineering. Bijan is a frequently invited speaker at professional conferences, and is also a contributor to ISO 14971, the international standard on the application risk management to medical devices. He is the author of the book Safety Risk Management for Medical Devices.
+
+Note that Project Performance International (PPI) is sponsoring Bijan Elahi to run a tutorial on 22 May titled *Introduction to Medical Device Safety Risk Management*. [You can register here](https://www.linkedin.com/feed/update/urn:li:activity:6528880204302073856).
+
+### Dr Kelvin Ross
+![Dr Kelvin Ross](/assets/img/conferences/2019/kelvin_ross.png){:class="w3-circle w3-right"}
+*IntelliHQ*
+
+Dr Kelvin Ross has over 30 years of experience in software engineering and enterprise IT applications.  Kelvin started his IT career in safety critical software engineering in defence, working on FA-18 airborne radar systems.  After completing his PhD in safety critical systems engineering and several years in consulting in defence and transportation systems, he moved over to the commercial sector and founded KJR, specializing in software testing and assurance, which now has over 80 consultants in Sydney, Canberra, Melbourne and Brisbane.  
+
+Kelvin is recognized as expert in testing and assurance of software applications across a broad range of industry domains, including e-health, public administration, finance, insurance, retail and telecommunications.  In addition to Kelvin’s role as Chairman of KJR, Kelvin is a Director of non-profit Healthcare AI Innovation Hub, IntelliHQ, and broadly engages in technology advisory roles, including director roles AI innovative startups.  He has broad interests in Machine Learning, which he sees as the dominant technology driver for the next several decades, particularly within the Healthcare sector.  
+
+Kelvin is an Associate Adjunct Professor at the Institute for Intelligent and Integrated Systems (IIIS), Griffith University, and organiser of Young Women Leaders in AI, Gold Coast AI and Machine Learning meetup group, member of ACS AI Ethics national committee, has held several roles in national technical working groups (NATA and ACS), and held several board positions.
+
+### Dr David Ward
+![Dr David Ward](/assets/img/conferences/2019/david_ward.png){:class="w3-circle w3-right"}
+*HORIBA MIRA Limited*
+
+Dr David Ward is General Manager, Functional Safety at HORIBA MIRA Limited, a leading independent provider of automotive engineering services.  Dr Ward is a recognized international expert in automotive functional safety with 25 years' experience in safety and reliability of embedded electronic systems in automotive and other industries.  Within his role at HORIBA MIRA, David is responsible for training, consultancy and independent safety assessment in the functional safety standard ISO 26262 and other related standards. He is involved in automotive cybersecurity as well as technology development in functional safety, connected and autonomous vehicles, and vehicle electrification.
+
+He is the UK Principal Expert to ISO/TC22/SC32/WG8 “Road vehicles – Functional safety” which has developed ISO 26262 and ISO/PAS 21448 “safety of the intended functionality”; a member of the ISO/SAE joint working group developing ISO/SAE 21434 “Road vehicles – Cybersecurity engineering”; as well as contributing extensively to the UK’s MISRA initiative. 
+
+David was presented with the IMechE Prestige Award for Risk Reduction in Mechanical Engineering following 20 years of work leading automotive industry efforts to develop international safety standards. These efforts began with MISRA (The Motor Industry Software Reliability Association) and have continued with the development of the international standard ISO 26262, which Dr Ward and his team at MIRA continue to influence as work considers how to extend its scope to highly automated vehicles.
+
+David is also Visiting Professor of Functional Safety at Coventry University, UK and RAE Visiting Professor of Industrial Design at the University of Leicester, UK.
+
+## Tutorials
+
+### Introduction to Critical Systems & Automotive Software Safety Issues
+*Prof. Philip Koopman - Carnegie-Mellon University*
+
+Over the past two decades the automotive industry has dramatically increased the use of life-critical computer based control systems. However, because there are no regulatory requirements that mandate the use of software safety standards and good practices, the results have been uneven. This tutorial will discuss a case study of vehicles that did not conform to many accepted safety practices and how that eventually lead to an adverse legal verdict and costs of well over a billion dollars.  That case study motivates a discussion of critical system practices and safety requirement techniques that are applicable to both conventional vehicles and autonomous vehicles. Finally, a discussion of the role of attribution to driver error reveals that autonomous vehicles will not only change how people drive, but also require a significant overhaul of the US automotive safety regulatory system.  Tutorial modules are selected from material in a graduate-level course on embedded system safety taught at Carnegie Mellon University, and include:
+- A first-hand account of what really happened in the Toyota Unintended Acceleration cases (both legal & technical)
+- Critical system assurance principles applied to large automotive fleets
+- A safety envelope based approach to safety requirements
+- Historical perspective on blaming the driver and how that will affect future regulation in potentially surprising ways
+
+### Machine learning for dependable decision-making
+*Zhe Hou, Hadrien Bride & Jim Song Dong - Griffith University*
+
+Machine learning (ML) has been very successful in prediction, classification, regression, anomaly detection and other forms of data analytics.  ML is becoming an integrated part of automated decision-making for critical systems.  However, most existing ML techniques are used as black-boxes and they do not provide a high level of trustworthiness. In fact, there have been numerous cases where ML-based applications failed and caused tremendous damage.  To address the security and safety concerns of critical systems, advances in trust-related aspects of machine learning are important.  Explainable artificial inteligence (XAI) is one way to improve trustworthiness and it has attracted much attention recently.  Machine learning approaches that are capable of explaining the rationale behind the predictions are more relatable and transparent.  Another way to improve trustworthiness is to develop ML techniques that can produce auditable predictive models.  The verification of these models provides formal guarantee that the models are correct, safe and secure with respect to user's requirements.
+
+In this tutorial we will cover recent developments in the domain of transparent and auditable machine learning techniques.  We will introduce our latest research combining advanced machine learning, high performance computing and automated reasoning techniques.  We will also present the fruit of our work:  Silas -- a state of the art ML toolkit for dependable machine learning.
+
+### Safety of the intended functionality (SOTIF; ISO/PAS 21448) in road vehicle automation
+*David Ward - Horiba Mira Ltd*
+
+Since original publication of the road vehicle functional safety standard ISO 26262 in 2011 it was quickly noted that due to wider system safety issues not being in scope, guidance was needed on addressing additional factors which could influence safe operation of automated driving features.  The concept of SOTIF was originally conceived to address failures in driver assistance systems (ADAS or Level 1 / Level 2 automation) associated with sensor performance limitations, for example “false positive” triggering of automatic emergency braking caused by a vehicle radar acquiring an incorrect target.  The first iteration of this guidance was recently published as ISO/PAS 21448.
+
+In this tutorial we will examine:
+- Background and context of automated driving features in road vehicles
+- Functional safety, SOTIF and the wider system safety context
+- Brief overview of ISO/PAS 21448
+- SOTIF “area” concept for managing complexity and unknowns of automated driving scenarios
+- Introduction to SOTIF approach to different “areas” of scenarios
+- Case studies
+- Conclusions and future outlook towards Level 3 and higher levels of automation.
+
+## Technical Program
+
+[Click here](/assets/docs/conferences/2019/ASSC2019%20Conference%20Program.pdf) to download the conference program.
+
+## Sponsors
+
+{:class="w3-center"}
+![Department of Defence](/assets/img/sponsors/dod.png){:width="30%"}
+![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="35%"}
+![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}
+
+{:class="w3-center"}
+![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}
+![ACS](/assets/img/sponsors/acs.png){:width="25%"}
