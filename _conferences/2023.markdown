@@ -9,6 +9,8 @@ theme: "Closing the Loop: Incorporating Humans into Systems"
 - [Submit a Paper](#submit-a-paper)
 - [Registration](#registration)
 - [Venues](#venues)
+- [Keynotes](#keynotes)
+- [Sponsors](#sponsors)
 
 ## Submit a Paper
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
@@ -70,3 +72,41 @@ This years conference will be held at the **Crowne Plaza** at 27 Frome St, Adela
 
 ### Social Event
 Conference dinner is planned for Wednesday evening, 6pm.
+
+## Keynotes
+
+### Associate Professor Robyn Clay-Williams
+![Associate Professor Robyn Clay-Williams](/assets/img/conferences/2023/robyn_clay_williams.png){:class="w3-circle w3-right"}
+*Centre for Healthcare Resilience & Implementation Science (CHRIS), Macquarie University*
+
+Associate Professor Robyn Clay-Williams is an internationally regarded health services researcher and a leading exponent of human factors and resilient systems. Her expertise is in creating health services and systems that can function effectively in the presence of complexity and uncertainty. Her research bridges the gap between theory and practice, by developing products and processes that are usable and ready for implementation. Robyn has published extensively, with over 240 peer-reviewed academic outputs. At the Australian Institute of Health and Innovation, Macquarie University, Robyn leads a research program in developing new models of care to improve hospital Emergency Department performance, and patient experience and outcomes.
+
+### Professor Jill Slay
+![Professor Jill Slay](/assets/img/conferences/2023/jill_slay.png){:class="w3-circle w3-right"}
+*UniSA SmartSat Professorial Chair in Cyber Security*
+
+Professor Jill Slay is currently the University of South Australia SmartSat Professorial Chair in Cybersecurity and researches in  the SmartSat Australian Co-operative Research Centre (CRC). Her current work focuses on the context of satellite cybersecurity and resilience.  She has been an Affiliate Faculty member with Professor Corey Schou at Idaho State University for nearly twenty years.  She has published  more than 140 outputs in information assurance, critical infrastructure protection, security and forensic computing.  She has completed the supervision of 20 PhDs and many Masters and Honours theses and has been awarded over AUD 5 million in research income.has established an international research reputation in cyber security (particularly Digital Forensics, Cyber Intelligence and Cyberwarfare) and has worked in collaboration with the Australian Federal and State governments and with many industry partners.  
+
+Jill is a Board Member of ISC2 . She is a Member of the Defence Employment Partnering Network Advisory Committee and was a Director of the Oceania Cyber Security Centre, the Australian Victorian Government's Cyber Research Centre  and has many years of experience of governance through University Boards and Committees and government collaboration.
+
+Jill was in 2017-2019 Director of Cyber Resilience Initiatives for the Australian Computer Society (ACS) and led ACS work on the development of Professional Standards in Cyber Security with ISC2 and ISACA.  Jill works closely with the Australian Defence industry and several smaller cyber security start-ups in cyber risk and resilience research, development and training.
+
+Jill was made a Member of the Order of Australia (AM) for service to the information technology industry through contributions in the areas of forensic computer science, security, protection of infrastructure and cyber-terrorism.  She a Fellow of ISC2 awarded for her service to the information security industry.
+
+### Len Neist
+![Len Neist](/assets/img/conferences/2023/len_neist.png){:class="w3-circle w3-right"}
+*Design Acceptance Principal Advisor, OneSKY CMATS Program, Airservices Australia*
+
+Len is a capable executive leader and trusted advisor with experience locally and internationally for both private and public enterprises. His career has prepared him to identify, understand and manage the risks associated with major change, whether it is planned or unexpected. Len’s key skill set is in providing assurance and resilience advice and services. He has relevant assurance experience in system safety, safety assurance, asset integrity and permissioning systems. In regards to resilience experience he has had successful assignments in determining appropriate prevention strategies, and developing preparedness concepts through gaming and simulation, preparing targeted response strategies and facilitating reduction in uncertainty.
+
+Len has worked as a mechanical engineer, aerospace systems engineer, regulator, policy officer, safety assurance specialist, lead incident investigator, project director, project manager, capability definition and procurement specialist, Chief Executive, Board risk specialist, executive coach and trusted advisor to government. He has worked directly for senior leaders such as the Chief of Air Force, Deputy Premier NSW, Minister for Transport NSW, Executive Director Surface Transport Abu Dhabi.
+
+Len has experience and training in enterprise and strategic risk management, integrated logistic support, best regulatory practice, systems engineering, safety management system maturity assessment, aerospace engineering, systems analysis and definition, major incident investigation and executive coaching. He has gained this experience working in aerospace, defence, national security, surface transport (rail, bus, light rail) and workplace health and safety environments. His career has spanned all segments of the capability life cycle from needs analysis, capability definition, requirements specification, acquisition, sustainment and disposal.
+
+## Sponsors
+
+{:class="w3-center"}
+![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}
+
+{:class="w3-center"}
+![ACS](/assets/img/sponsors/acs.png){:width="25%"}
