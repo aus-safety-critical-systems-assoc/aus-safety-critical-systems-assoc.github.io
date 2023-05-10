@@ -5,13 +5,6 @@ location: Adelaide, SA
 theme: "Closing the Loop: Incorporating Humans into Systems"
 ---
 
-## Contents
-- [Submit a Paper](#submit-a-paper)
-- [Registration](#registration)
-- [Venues](#venues)
-- [Keynotes](#keynotes)
-- [Sponsors](#sponsors)
-
 ## Submit a Paper
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
 
@@ -102,6 +95,9 @@ Len is a capable executive leader and trusted advisor with experience locally an
 Len has worked as a mechanical engineer, aerospace systems engineer, regulator, policy officer, safety assurance specialist, lead incident investigator, project director, project manager, capability definition and procurement specialist, Chief Executive, Board risk specialist, executive coach and trusted advisor to government. He has worked directly for senior leaders such as the Chief of Air Force, Deputy Premier NSW, Minister for Transport NSW, Executive Director Surface Transport Abu Dhabi.
 
 Len has experience and training in enterprise and strategic risk management, integrated logistic support, best regulatory practice, systems engineering, safety management system maturity assessment, aerospace engineering, systems analysis and definition, major incident investigation and executive coaching. He has gained this experience working in aerospace, defence, national security, surface transport (rail, bus, light rail) and workplace health and safety environments. His career has spanned all segments of the capability life cycle from needs analysis, capability definition, requirements specification, acquisition, sustainment and disposal.
+
+## Technical Program
+TBD.
 
 ## Sponsors
 

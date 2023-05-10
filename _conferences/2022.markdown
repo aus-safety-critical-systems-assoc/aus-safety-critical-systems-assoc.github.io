@@ -5,15 +5,6 @@ location: Melbourne, VIC
 theme: "Assurance of Artificial Intelligence"
 ---
 
-## Contents
-- [Submit a Paper](#submit-a-paper)
-- [Registration](#registration)
-- [Venues](#venues)
-- [Keynotes](#keynotes)
-- [Technical Program](#technical-program)
-- [Sponsors](#sponsors)
-
-
 ## Submit a Paper
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society. ​
 

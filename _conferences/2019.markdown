@@ -5,15 +5,6 @@ location: Brisbane, QLD
 theme: "How can we be Artificially Safe?"
 ---
 
-## Contents
-- [Submit a Paper](#submit-a-paper)
-- [Registration](#registration)
-- [Conference Venue](#conference-venue)
-- [Keynotes](#keynotes)
-- [Tutorials](#tutorials)
-- [Technical Program](#technical-program)
-- [Sponsors](#sponsors)
-
 ## Submit a Paper
 The Australian System Safety Conference is hosted by the Australian Safety Critical Systems Association (aSCSa) and is a meeting place for scholars, scientists, educators, students, engineers, entrepreneurs, and managers to engage with like minded people. The ASSC 2018 Conference Committee encourages you to participate in this unique event and is calling for abstracts from delegates who are interested in presenting.
 
