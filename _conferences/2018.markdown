@@ -1,0 +1,89 @@
+---
+title: ASSC 2018
+date: 2018-05-23
+location: Melbourne, VIC
+theme: "Strengthening and Integrating System Safety Engineering for Australia's future"
+---
+
+## Submit a Paper
+The Australian System Safety Conference is hosted by the Australian Safety Critical Systems Association (aSCSa) and is a meeting place for scholars, scientists, educators, students, engineers, entrepreneurs, and managers to engage with like minded people. The ASSC Conference Committee encourages you to participate in this unique event and is calling for abstracts from delegates who are interested in presenting.
+
+Delegates have the option of submit two types of papers:
+1. Refereed Papers by the conference program committee
+2. Industry Presentations/Papers (not subject to peer review, and not published in conference proceedings, available by conference CD only)
+
+All accepted abstracts and submitted papers will form part of the Conference Proceedings provided to authors and conference attendees at the end of the conference. ​The presentations can cover a wide range of safety and security related topics and applications, and should be relevant to "**Strengthening and Integrating System Safety Engineering for Australia's future**".
+
+### ​Topics of Interest
+
+Today there are many applications of artificial intelligence (AI) and machine learning (ML) to all sorts of systems involving human interaction and changing contexts.  The general assumption is that including AI and/or ML within various systems will improve interactions/reactions with/of systems.  Safety systems may benefit from appropriate application of AI and/or ML.  The safety critical areas of interest include:
+- Medicine and Health (medical device and e-health systems etc.)
+- Transport
+- Defence and Aviation
+- Telecommunications
+- Energy
+- Resource and Process industries
+- Emergency services
+
+What research has been done to show the benefits (or dis-benefits) of AI in safety systems?  What good/bad experiences have occurred when safety systems rely on AI/ML?  How well skilled is industry and responsible agencies to manage the system safety challenges that come with these technology advances? How should we, as professionals, rise to the challenge?  
+
+### Submission
+- Abstracts should be approximately 200 words.
+- For delegates who optionally submit a full paper - papers should be no more than 10 pages.
+- Presentations are to be supplied in Micorsoft PowerPoint format.
+- Paper submissions can be emailed to [program@ascsa.org.au](mailto:program@ascsa.org.au)
+
+## Registration
+Registration has now closed.
+
+## Conference Venue
+This years conference will be held at **Rendezvous Hotel Melbourne** at 328 Flinders Street, Melbourne VIC.
+
+## Keynotes
+
+- **Paul Caseley** (UK MOD Defence Science and Technologies Laboratory)
+- **Bruce Hunter** (CISA/CISM) - Understanding Risk in an Entangled World
+- **Len Neist** (Chief Engineer for Public Transport Victoria)
+- **Julian Robins** (Northrup-Grumman Australia) - From Scepticism to Strength?
+- **Andy Webb** (Office of the National Rail Safety Regulator) - Rail Systems Safety: The challenges for industry
+- **Dr Luke Wildman** (Siemens Mobility) - Safety and Security for the Digital Railway
+
+## Technical Program
+
+### Keynotes
+
+| **Speaker** | **Title** |
+| Paul Caseley (UK MOD Defence Science and Technologies Laboratory) | |
+| Bruce Hunter (CISA/CISM) | [Understanding Risk in an Entangled World](/assets/docs/conferences/2018/ASSC2018%20-%20Bruce%20Hunter%20-%20Understanding%20Risk%20in%20an%20Entangled%20World.pdf) |
+| Len Neist (Chief Engineer for Public Transport Victoria) | |
+| Julian Robins (Northrup-Grumman Australia) | [From Scepticism to Strength?](/assets/docs/conferences/2018/ASSC2018%20-%20Julian%20Robins%20-%20From%20Scepticism%20to%20Strength.pdf) |
+| Andy Webb (Office of the National Rail Safety Regulator) | [Rail Systems Safety: The challenges for industry](/assets/docs/conferences/2018/ASSC2018%20-%20Andy%20Webb%20-%20Rail%20Systems%20Safety%20-%20The%20challenges%20for%20industry.pdf) |
+| Dr Luke Wildman (Siemens Mobility) | [Safety and Security for the Digital Railway](/assets/docs/conferences/2018/ASSC2018%20-%20Dr%20Luke%20Wildman%20-%20Safety%20and%20Security%20for%20the%20Digital%20Railway.pdf) |
+
+### Presentations and Papers
+
+| **Speaker** | **Title** |
+| R. Feodoroff | Back to the Future: Pollock versus Toulmin ([Presentation](/assets/docs/conferences/2018/ASSC2018%20-%20R%20Feodoroff%20-%20Back%20to%20the%20Future%20-%20Pollock%20versus%20Toulmin%20(Presentation).pdf) & [Paper](/assets/docs/conferences/2018/ASSC2018%20-%20R%20Feodoroff%20-%20Back%20to%20the%20Future%20-%20Pollock%20versus%20Toulmin%20(Paper).pdf)) |
+| D. Grivicic | Tensions between Safety Cases and STAMP ([Presentation](/assets/docs/conferences/2018/ASSC2018%20-%20D%20Grivicic%20-%20Tensions%20between%20Safety%20Cases%20and%20STAMP%20(Presentation).pdf) & [Paper](/assets/docs/conferences/2018/ASSC2018%20-%20D%20Grivicic%20-%20Tensions%20between%20Safety%20Cases%20and%20STAMP%20-%20Why%20do%20they%20disagree%20and%20who%20is%20right%20(Paper).pdf)) |
+| A. Hussey | A Lean Approach to CENELEC Compliance ([Presentation](/assets/docs/conferences/2018/ASSC2018%20-%20A%20Hussey%20-%20A%20Lean%20Approach%20to%20CENELEC%20Compliance%20(Presentation).pdf) & [Paper](/assets/docs/conferences/2018/ASSC2018%20-%20A%20Hussey%20-%20A%20Lean%20Approach%20to%20CENELEC%20Compliance%20(Paper).pdf)) |
+| B. Hutchinson, S. Dekker, & A. Rae | Fantasy Planning: The gap between systems of safety and safety of systems ([Presentation](/assets/docs/conferences/2018/ASSC2018%20-%20B%20Hutchinson%2C%20S%20Dekker%2C%20%26%20A%20Rae%20-%20Fantasy%20Planning%20-%20The%20gap%20between%20systems%20of%20safety%20and%20safety%20of%20systems%20(Presentation).pdf) & [Paper](/assets/docs/conferences/2018/ASSC2018%20-%20B%20Hutchinson%2C%20S%20Dekker%2C%20%26%20A%20Rae%20-%20Fantasy%20Planning%20-%20The%20gap%20between%20systems%20of%20safety%20and%20safety%20of%20systems%20(Paper).pdf)) |
+| V. Madasu & K. Anderson | [Autonomous Vehicles for Public Transportation in Australia](/assets/docs/conferences/2018/ASSC2018%20-%20V%20Madasu%20and%20K%20Anderson%20-%20Autonomous%20Vehicles%20for%20Public%20Transportation%20in%20Australia.pdf) |
+| D. Reinhardt | ["Strengthening and Integrating System Safety Engineering for Australia's Future" - OneSky](/assets/docs/conferences/2018/ASSC2018%20-%20D%20Reinhardt%20-%20Strengthening%20and%20Integrating%20System%20Safety%20Engineering%20for%20Australia's%20Future.pdf) |
+| J.Sciortino & M. Shadbolt | [Safe Autonomous Systems Require Changes in Business Relationships](/assets/docs/conferences/2018/ASSC2018%20-%20J%20Sciortino%20and%20M%20Shadbolt%20-%20Safe%20Autonomous%20Systems%20Require%20Changes%20in%20Business%20Relationships.pdf) |
+| P. Telfer | [System Safety and Defence Aviation Safety Authority Competencies](/assets/docs/conferences/2018/ASSC2018%20-%20P%20Telfer%20-%20System%20Safety%20and%20Defence%20Aviation%20Safety%20Authority%20Competencies.pdf) |
+
+### Tutorials
+
+| **Speaker** | **Title** |
+| Bruce Hunter | [Applying Cybersecurity to Protect Functional Safety](/assets/docs/conferences/2018/ASSC2018%20-%20Bruce%20Hunter%20-%20Applying%20Cybersecurity%20to%20Protect%20Functional%20Safety.pdf) |
+
+## Sponsors
+
+{:class="w3-center"}
+[![Department of Defence](/assets/img/sponsors/dod.png){:width="30%"}](https://www.defence.gov.au/)
+[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="35%"}](https://rgbassurance.com.au/)
+[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}](https://www.novasystems.com/)
+
+{:class="w3-center"}
+[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}](https://dedicatedsystems.com.au/)
+[![ACS](/assets/img/sponsors/acs.png){:width="25%"}](https://www.acs.org.au/)

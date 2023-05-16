@@ -98,13 +98,23 @@ Len has worked as a mechanical engineer, aerospace systems engineer, regulator, 
 
 Len has experience and training in enterprise and strategic risk management, integrated logistic support, best regulatory practice, systems engineering, safety management system maturity assessment, aerospace engineering, systems analysis and definition, major incident investigation and executive coaching. He has gained this experience working in aerospace, defence, national security, surface transport (rail, bus, light rail) and workplace health and safety environments. His career has spanned all segments of the capability life cycle from needs analysis, capability definition, requirements specification, acquisition, sustainment and disposal.
 
+### Professor Anjum Naweed
+![Professor Anjum Naweed](/assets/img/conferences/2023/anjum_naweed.png){:class="w3-circle w3-right"}
+*School of Health, Medical and Applied Sciences, Appleton Institute, CQUniversity*
+
+Professor Anjum Naweed is an applied researcher and Certified Professional Ergonomist. He is internationally regarded for his applied and theoretical advancements in transport human factors. Anjum’s research interests include complex decision-making and knowledge representation in skilled work, job design, creative and cultural applications of simulation, safety science, and systems thinking. His expertise is in understanding the relationship between people, technologies, tools, environments, and systems, and practically translating this across the complex domains.
+
+​Anjum has co-edited books, written over 150 peer reviewed articles and secured over $6 million in research funding. At the Appleton Institute—CQUniversity Adelaide, Anjum leads the Human Factors and Operational Readiness research cluster. He currently serves as a Scientific Editor for Applied Ergonomics, an international journal aimed at all those interested in applying ergonomics and human factors in the design, planning and management of technical and social systems. Anjum has been a Scientific Convenor for the Australasian Simulation Congress on five consecutive occasions, and for the Annual Conference of the Human Factors and Ergonomics Society of Australia twice.
+
+​Anjum’s research has received numerous accolades. In 2012, he was awarded the Body of Knowledge prize from Simulation Australasia and the John Lane Award from the Human Factors and Ergonomics Society of Australia (HFESA). He has twice been a recipient of Vice-Chancellor’s Award for Outstanding Researcher of the Year (2013; 2018), recognising his excellence in research activity, publication, and engagement. In 2022, he received the Simulation Achievement Award for clear and unambiguous, outstanding contributions to science, technology, and education, and Simulation Australia’s Lifetime Membership Award.
+
 ## Technical Program
 TBD.
 
 ## Sponsors
 
 {:class="w3-center"}
-![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}{:style="min-width:250px;"}
+[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}{:style="min-width:250px;"}](https://rgbassurance.com.au/)
 
 {:class="w3-center"}
-![ACS](/assets/img/sponsors/acs.png){:width="25%"}{:style="min-width:200px;"}
+[![ACS](/assets/img/sponsors/acs.png){:width="25%"}{:style="min-width:200px;"}](https://www.acs.org.au/)

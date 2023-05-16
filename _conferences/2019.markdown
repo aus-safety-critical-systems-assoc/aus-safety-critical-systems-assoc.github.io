@@ -6,7 +6,7 @@ theme: "How can we be Artificially Safe?"
 ---
 
 ## Submit a Paper
-The Australian System Safety Conference is hosted by the Australian Safety Critical Systems Association (aSCSa) and is a meeting place for scholars, scientists, educators, students, engineers, entrepreneurs, and managers to engage with like minded people. The ASSC 2018 Conference Committee encourages you to participate in this unique event and is calling for abstracts from delegates who are interested in presenting.
+The Australian System Safety Conference is hosted by the Australian Safety Critical Systems Association (aSCSa) and is a meeting place for scholars, scientists, educators, students, engineers, entrepreneurs, and managers to engage with like minded people. The ASSC Conference Committee encourages you to participate in this unique event and is calling for abstracts from delegates who are interested in presenting.
 
 Delegates have the option of submit two types of papers:
 1. Refereed Papers by the conference program committee
@@ -158,13 +158,44 @@ In this tutorial we will examine:
 
 [Click here](/assets/docs/conferences/2019/ASSC2019%20Conference%20Program.pdf) to download the conference program.
 
+### 22nd May (Tutorials)
+
+| **Speaker** | **Title** |
+| Jin-Song Dong, Zhe Hou, & Hadrien Bride (Griffith University) | [Machine learning for dependable decision-making](/assets/docs/conferences/2019/ASSC2019%20-%20Jin-Song%20Dong%2C%20Zhe%20Hou%2C%20%26%20Hadrien%20Bride%20-%20Machine%20learning%20for%20dependable%20decision-making.pdf) |
+| David Ward | [Safety of the intended functionality (SOTIF; ISO/PAS 21448) in road vehicle automation](/assets/docs/conferences/2019/ASSC2019%20-%20David%20Ward%20-%20Standards%20for%20road%20vehicle%20automation.pdf) |
+| Phil Koopman | Introduction to Critical Systems & Automotive Software Safety Issues ([Part 1](/assets/docs/conferences/2019/ASSC2019%20-%20Phil%20Koopman%20-%20Introduction%20to%20Critical%20Systems%20%26%20Automotive%20Software%20Safety%20Issues%20-%20Part%201.pdf), [Part 2](/assets/docs/conferences/2019/ASSC2019%20-%20Phil%20Koopman%20-%20Introduction%20to%20Critical%20Systems%20%26%20Automotive%20Software%20Safety%20Issues%20-%20Part%202.pdf), [Part 3](/assets/docs/conferences/2019/ASSC2019%20-%20Phil%20Koopman%20-%20Introduction%20to%20Critical%20Systems%20%26%20Automotive%20Software%20Safety%20Issues%20-%20Part%203.pdf), & [Part 4](/assets/docs/conferences/2019/ASSC2019%20-%20Phil%20Koopman%20-%20Introduction%20to%20Critical%20Systems%20%26%20Automotive%20Software%20Safety%20Issues%20-%20Part%204.pdf)) |
+
+### 23rd May
+
+| **Speaker** | **Title** |
+| (**Keynote**) Prof. Phil Koopman (Carnegie Mellon University) | [Autonomous Vehicle Safety and Perception Robustness Testing](/assets/docs/conferences/2019/ASSC2019%20-%20Phil%20Koopman%20-%20Autonomous%20Vehicle%20Safety%20and%20Perception%20Robustness%20Testing.pdf) |
+| (*Paper*) Eryn Grant (Acmena Group Pty Ltd) | More than meets the AI: can systems thinking leading indicators assist proactive safety in artificially intelligent systems? ([Presentation](/assets/docs/conferences/2019/ASSC2019%20-%20Eryn%20Grant%20-%20More%20than%20meets%20the%20AI.pdf) & [Paper](/assets/docs/conferences/2019/ASSC2019%20-%20Eryn%20Grant%20-%20More%20than%20meets%20the%20AI%20(paper).pdf)) |
+| (**Keynote**) Kelvin Ross (Chairman KJR) | [Can We Trust Artificial Intelligence?](/assets/docs/conferences/2019/ASSC2019%20-%20Kelvin%20Ross%20-%20Can%20We%20Trust%20Artificial%20Intelligence.pdf) |
+| (*Presentation*) Ben Merange (RGB Assurance) | [Machine Learning for Rail Safety Incident Classification](/assets/docs/conferences/2019/ASSC2019%20-%20Ben%20Merange%20-%20Machine%20Learning%20for%20Rail%20Safety%20Incident%20Classification.pdf) |
+| (*Invited Speaker*) Bijan Elahi (Medtronic Technical Fellow) | [Is Artificial Intelligence in healthcare doomed, or destined for greatness?](/assets/docs/conferences/2019/ASSC2019%20-%20Bijan%20Elahi%20-%20Is%20Artificial%20Intelligence%20in%20healthcare%20doomed%20or%20destined%20for%20greatness.pdf) |
+| (*Paper*) Kevin Anderson (Systra Scott Lister) | [Functional Safety Assessment of Train Management Control System](/assets/docs/conferences/2019/ASSC2019%20-%20Kevin%20Anderson%20-%20Functional%20Safety%20Assessment%20of%20Train%20Management%20Control%20System.pdf) |
+| (*Presentation*) Drew Rae (Griffith University) | [Safety Assurance for Artificial Intelligence is Futile (and that’s okay)](/assets/docs/conferences/2019/ASSC2019%20-%20Drew%20Rae%20-%20Safety%20Assurance%20for%20Artificial%20Intelligence%20is%20Futile%20(and%20that%E2%80%99s%20okay).pdf) |
+| (*Paper*) Graham Hjort (4Tel Pty Ltd) | Next-Generation Rail Systems using Artificial Intelligence and Machine Learning |
+
+### 24th May
+
+| **Speaker** | **Title** |
+| (**Keynote**) Pam Melroy (Director of Space Technology and Policy) | [Acceptable Risk in Human Space Flight – An Astronaut’s Perspective](/assets/docs/conferences/2019/ASSC2019%20-%20Pam%20Melroy%20-%20Acceptable%20Risk%20in%20Human%20Space%20Flight%20%E2%80%93%20An%20Astronaut%E2%80%99s%20Perspective.pdf) |
+| (*Presentation*) Dr. Holger Becht (RGB Assurance) | [The Ironies of Automation with AI](/assets/docs/conferences/2019/ASSC2019%20-%20Holger%20Becht%20%26%20Simon%20Connelly%20-%20The%20Ironies%20of%20Automation%20with%20AI.pdf) |
+| (**Keynote**) Ganesh J. Pai (NASA Research Park, SGT Inc) | Dynamic Assurance Cases: A Pathway Towards Trusted Autonomy |
+| (*Presentation*) Achim Washington (RMIT) | [Research Summary – Application of Bayesian methods and normative decision theory to aviation safety regulatory process](/assets/docs/conferences/2019/ASSC2019%20-%20Achim%20Washington%20-%20Application%20of%20Bayesian%20methods%20and%20normative%20decision%20theory%20to%20aviation%20safety%20regulatory%20process.pdf) |
+| (**Keynote**) David Ward (Horiba-Mira) | [Standards for road vehicle automation: Are we nearly there yet?](/assets/docs/conferences/2019/ASSC2019%20-%20David%20Ward%20-%20Standards%20for%20road%20vehicle%20automation.pdf) |
+| (*Presentation*) Dr. Tim McComb (RGB Assurance) | [Artificial Intelligence and Safety Standard Compliance: Challenges](/assets/docs/conferences/2019/ASSC2019%20-%20Tim%20McComb%20-%20Artificial%20Intelligence%20and%20Safety%20Standard%20Compliance.pdf) |
+| (*Presentation*) Jon Sciortino (Nova Systems) | [Autonomy: Is It Really As Safe As We Think? – Practical Examples from the Real World](/assets/docs/conferences/2019/ASSC2019%20-%20J%20Sciortino%20and%20M%20Shadbolt%20-%20Autonomy%20-%20Is%20It%20Really%20As%20Safe%20As%20We%20Think%20-%20Practical%20Examples%20from%20the%20Real%20World.pdf) |
+| **Keynote Panel Session** | “How can we be artificially safe?” |
+
 ## Sponsors
 
 {:class="w3-center"}
-![Department of Defence](/assets/img/sponsors/dod.png){:width="30%"}
-![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="35%"}
-![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}
+[![Department of Defence](/assets/img/sponsors/dod.png){:width="30%"}](https://www.defence.gov.au/)
+[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="35%"}](https://rgbassurance.com.au/)
+[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}](https://www.novasystems.com/)
 
 {:class="w3-center"}
-![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}
-![ACS](/assets/img/sponsors/acs.png){:width="25%"}
+[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}](https://dedicatedsystems.com.au/)
+[![ACS](/assets/img/sponsors/acs.png){:width="25%"}](https://www.acs.org.au/)

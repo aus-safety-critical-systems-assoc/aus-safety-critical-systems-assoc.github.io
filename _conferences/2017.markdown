@@ -1,0 +1,82 @@
+---
+title: ASSC 2017
+date: 2017-06-01
+location: Sydney, NSW
+theme: "Celebrating 25 Years"
+---
+
+## Celebrating 25 Years at ASSC 2017
+In 2017 aSCSa celebrates 25 years of association with industries that are concerned with building, using, and maintaining safety-critical systems. [Read more about the history of aSCSa here](/assets/docs/conferences/2017/AASC2017%20-%2025%20Year%20Celebration.pdf).
+
+## Submit a Paper
+The Australian System Safety Conference is hosted by the Australian Safety Critical Systems Association (aSCSa) and is a meeting place for scholars, scientists, educators, students, engineers, entrepreneurs, and managers to engage with like minded people. The ASSC Conference Committee encourages you to participate in this unique event and is calling for abstracts from delegates who are interested in presenting.
+
+Delegates have the option of submit two types of papers:
+1. Refereed Papers by the conference program committee
+2. Industry Presentations/Papers (not subject to peer review, and not published in conference proceedings, available by conference CD only)
+
+All accepted abstracts and submitted papers will form part of the Conference Proceedings provided to authors and conference attendees at the end of the conference. ​The presentations can cover a wide range of safety and security related topics and applications.
+
+### ​Topics of Interest
+
+Today there are many applications of artificial intelligence (AI) and machine learning (ML) to all sorts of systems involving human interaction and changing contexts.  The general assumption is that including AI and/or ML within various systems will improve interactions/reactions with/of systems.  Safety systems may benefit from appropriate application of AI and/or ML.  The safety critical areas of interest include:
+- Medicine and Health (medical device and e-health systems etc.)
+- Transport
+- Defence and Aviation
+- Telecommunications
+- Energy
+- Resource and Process industries
+- Emergency services
+
+What research has been done to show the benefits (or dis-benefits) of AI in safety systems?  What good/bad experiences have occurred when safety systems rely on AI/ML?  How well skilled is industry and responsible agencies to manage the system safety challenges that come with these technology advances? How should we, as professionals, rise to the challenge?  
+
+### Submission
+- Abstracts should be approximately 200 words.
+- For delegates who optionally submit a full paper - papers should be no more than 10 pages.
+- Presentations are to be supplied in Micorsoft PowerPoint format.
+- Paper submissions can be emailed to [program@ascsa.org.au](mailto:program@ascsa.org.au)
+
+## Registration
+Registration has now closed.
+
+## Conference Venue
+This years conference will be held at **SMC Conference & Function Centre** at 66 Goulburn Street, Sydney NSW.
+
+## Keynotes
+
+- **Professor Jin Song Dong** (National University of Singapore) - Event Strategy Analytics
+- **Dr Carl Sandom** (iSys Integrity Ltd) - Specifying and Assessing Safety Competence
+- **Dr Angela Tuffley** (Redbay Consulting Pty Ltd) and Dr Elizabeth Clark (Software Metrics Inc) - SCRAM for Safety
+- **Les Chambers** (Chambers and Associates) - Integrity
+
+## Technical Program
+
+### Keynotes
+
+| **Speaker** | **Title** |
+| Professor Jin Song Dong (National University of Singapore) | [Event Strategy Analytics](/assets/docs/conferences/2017/AASC2017%20-%20Professor%20Jin%20Song%20Dong%20-%20Event%20Strategy%20Analytics.pdf) |
+| Dr Carl Sandom (iSys Integrity Ltd) | [Specifying and Assessing Safety Competence](/assets/docs/conferences/2017/AASC2017%20-%20Dr%20Carl%20Sandom%20-%20Specifying%20and%20Assessing%20Safety%20Competence.pdf) |
+| Dr Angela Tuffley (Redbay Consulting Pty Ltd) and Dr Elizabeth Clark (Software Metrics Inc) | [SCRAM for Safety](/assets/docs/conferences/2017/AASC2017%20-%20Dr%20Angela%20Tuffley%20%26%20Dr%20Elizabeth%20Clark%20-%20SCRAM%20for%20Safety.pdf) |
+| Les Chambers (Chambers and Associates) | [Integrity](/assets/docs/conferences/2017/ASSC2017%20-%20Les%20Chambers%20-%20Integrity.pdf) |
+
+### Papers
+
+| **Speaker** | **Title** |
+| A. Tuffley and E. Clark | [From Waterfall to Agile: Lessons in Safety Assurance and Cyber Security from the Trenches](/assets/docs/conferences/2017/ASSC2017%20-%20A%20Tuffley%20%26%20E%20Clark%20-%20From%20Waterfall%20to%20Agile%20-%20Lessons%20in%20Safety%20Assurance%20and%20Cyber%20Security%20from%20the%20Trenches.pdf) |
+| V. Madasu and K. Anderson | [Deriving Risk Based Target Levels of Safety (TLOS) for Autonomous Vehicles](/assets/docs/conferences/2017/ASSC2017%20-%20V%20Madasu%20and%20K%20Anderson%20-%20Deriving%20Risk%20Based%20Target%20Levels%20of%20Safety%20(TLOS)%20for%20Autonomous%20Vehicles.pdf) |
+
+### Tutorials
+
+| **Speaker** | **Title** |
+| Dr Carl Sandom (iSys Integrity Ltd) | [An Introduction to Human Factors and System Safety](/assets/docs/conferences/2017/ASSC2017%20-%20Dr%20Carl%20Sandom%20-%20An%20Introduction%20to%20Human%20Factors%20and%20System%20Safety.pdf) |
+| Professor Jin Song Dong (National University of Singapore) | [Pervasive Model Checking: PAT Approach](/assets/docs/conferences/2017/ASSC2017%20-%20Professor%20Jin%20Song%20Dong%20-%20Pervasive%20Model%20Checking%20-%20PAT%20Approach.pdf) |
+
+## Sponsors
+
+{:class="w3-center"}
+[![Department of Defence](/assets/img/sponsors/dod.png){:width="30%"}](https://www.defence.gov.au/)
+[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="35%"}](https://rgbassurance.com.au/)
+[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}](https://www.novasystems.com/)
+
+{:class="w3-center"}
+[![ACS](/assets/img/sponsors/acs.png){:width="25%"}](https://www.acs.org.au/)
