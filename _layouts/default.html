@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta data-hid="description" name="description" content="Australian Safety Critical Systems Association">
+    <meta property="og:image" content="/assets/img/logo.png">
+    <meta property="og:type" content="website">
     <link rel="icon" type="image/x-icon" href="/assets/favicon.png">
     <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway&amp;display=swap">
@@ -12,7 +14,7 @@
   </head>
   <body class="w3-white" style="background-image:url('/assets/img/background.png');background-position:center;background-size:cover;background-repeat:repeat-y;">
     <nav class="w3-sidebar w3-bar-block w3-light-grey w3-text-dark-grey w3-collapse w3-top" style="z-index:3;width:300px;font-weight:bold" id="app-sidebar"><br>
-      <a href="/"><img src="/assets/img/logo.png" class="w3-image" style="max-width:260px;padding-left:40px;padding-bottom:10px;"/></a>
+      <a href="/" aria-label="Home"><img src="/assets/img/logo.png" alt="aSCSa" class="w3-image" style="max-width:260px;padding-left:40px;padding-bottom:10px;"/></a>
       <hr style="margin:10px 0 0 0;">
       <a href="/" class="w3-bar-item w3-button {% if page.url == '/' %}w3-theme{% endif %}" style="padding-left:40px;">Home</a>
       <a href="/conferences" class="w3-bar-item w3-button {% if page.url == '/conferences/' or page.collection == 'conferences' %}w3-theme{% endif %}"" style="padding-left:40px;">Conference</a>
@@ -22,7 +24,7 @@
     </nav>
     <header class="w3-container w3-top w3-hide-large w3-white w3-border-bottom w3-xlarge w3-padding">
       <a href="/"><img src="/assets/img/ascsa.png" class="w3-image w3-left" style="max-height:50px"/></a>
-      <a href="javascript:void(0)" class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
+      <button class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
     </header>
     <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="app-overlay"></div>
     <div class="content w3-main w3-container w3-padding-16">

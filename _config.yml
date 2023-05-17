@@ -20,13 +20,9 @@
 
 title: aSCSa
 email: secretary@ascsa.org.au
-description: >- # this means to ignore newlines until "baseurl:"
-  The Australian Safety Critical Systems Association (aSCSa) promotes 
-  co-operation among academic, industrial, commercial, and governmental 
-  communities surrounding the practice and advancement in the production 
-  and operation of safety-related systems in Australia.
+description: Australian Safety Critical Systems Association
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ascsa.org.au" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
@@ -34,6 +30,7 @@ github_username:
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 future: true
 
@@ -60,6 +57,10 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: "assets/*"
+    values:
+      sitemap: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

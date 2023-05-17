@@ -142,10 +142,10 @@ James Bailey is a Professor in the Faculty of Engineering and Information Techno
 
 ## Sponsors
 
-[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}](https://rgbassurance.com.au/)
-[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}](https://www.novasystems.com/)
-[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}](https://dedicatedsystems.com.au/)
+[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}](https://rgbassurance.com.au/){:target="_blank"}
+[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}](https://www.novasystems.com/){:target="_blank"}
+[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}](https://dedicatedsystems.com.au/){:target="_blank"}
 
 {:class="w3-center"}
-[![KJR](/assets/img/sponsors/kjr.png){:width="20%"}](https://kjr.com.au/)
-[![ACS](/assets/img/sponsors/acs.png){:width="25%"}](https://www.acs.org.au/)
+[![KJR](/assets/img/sponsors/kjr.png){:width="20%"}](https://kjr.com.au/){:target="_blank"}
+[![ACS](/assets/img/sponsors/acs.png){:width="25%"}](https://www.acs.org.au/){:target="_blank"}

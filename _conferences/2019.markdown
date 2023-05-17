@@ -192,10 +192,10 @@ In this tutorial we will examine:
 ## Sponsors
 
 {:class="w3-center"}
-[![Department of Defence](/assets/img/sponsors/dod.png){:width="30%"}](https://www.defence.gov.au/)
-[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="35%"}](https://rgbassurance.com.au/)
-[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}](https://www.novasystems.com/)
+[![Department of Defence](/assets/img/sponsors/dod.png){:width="30%"}](https://www.defence.gov.au/){:target="_blank"}
+[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="35%"}](https://rgbassurance.com.au/){:target="_blank"}
+[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}](https://www.novasystems.com/){:target="_blank"}
 
 {:class="w3-center"}
-[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}](https://dedicatedsystems.com.au/)
-[![ACS](/assets/img/sponsors/acs.png){:width="25%"}](https://www.acs.org.au/)
+[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}](https://dedicatedsystems.com.au/){:target="_blank"}
+[![ACS](/assets/img/sponsors/acs.png){:width="25%"}](https://www.acs.org.au/){:target="_blank"}

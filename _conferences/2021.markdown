@@ -109,9 +109,9 @@ Mike is an electrical engineer and engineering manager for high-integrity system
 ## Sponsors
 
 {:class="w3-center"}
-[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}](https://rgbassurance.com.au/)
-[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}](https://www.novasystems.com/)
+[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}](https://rgbassurance.com.au/){:target="_blank"}
+[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}](https://www.novasystems.com/){:target="_blank"}
 
 {:class="w3-center"}
-[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}](https://dedicatedsystems.com.au/)
-[![ACS](/assets/img/sponsors/acs.png){:width="25%"}](https://www.acs.org.au/)
+[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}](https://dedicatedsystems.com.au/){:target="_blank"}
+[![ACS](/assets/img/sponsors/acs.png){:width="25%"}](https://www.acs.org.au/){:target="_blank"}

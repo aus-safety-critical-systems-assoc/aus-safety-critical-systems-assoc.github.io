@@ -3,6 +3,7 @@ title: ASSC 2023
 date: 2023-10-18
 location: Adelaide, SA
 theme: "Closing the Loop: Incorporating Humans into Systems"
+description: "Australian System Safety Conference 2023 | Adelaide, SA | Closing the Loop: Incorporating Humans into Systems"
 ---
 
 ## Submit a Paper
@@ -114,7 +115,7 @@ TBD.
 ## Sponsors
 
 {:class="w3-center"}
-[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}{:style="min-width:250px;"}](https://rgbassurance.com.au/)
+[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}{:style="min-width:250px;"}](https://rgbassurance.com.au/){:target="_blank"}
 
 {:class="w3-center"}
-[![ACS](/assets/img/sponsors/acs.png){:width="25%"}{:style="min-width:200px;"}](https://www.acs.org.au/)
+[![ACS](/assets/img/sponsors/acs.png){:width="25%"}{:style="min-width:200px;"}](https://www.acs.org.au/){:target="_blank"}

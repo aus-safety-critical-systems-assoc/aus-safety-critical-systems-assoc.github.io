@@ -17,7 +17,7 @@ summary: "B737 Return to Service, Post Office IT Destroys Lives, & Streamlining 
 ## B737 Max Return to Service
 **Pathways Various and Ongoing**
 
-Folks – We’ve covered this a bit over the evolution of the accidents, removal from service, commentary and inquiries various. The aviation world has moved through this one slowly and methodically and independently via each operationg nation’s airworthiness regulators - as it should. Much has been published and without trying to reprise it all we’ve found a sound compendium of references and reading for your professional interest and questions - [b737.org.uk](www.b737.org.uk/mcas.htm).
+Folks – We’ve covered this a bit over the evolution of the accidents, removal from service, commentary and inquiries various. The aviation world has moved through this one slowly and methodically and independently via each operationg nation’s airworthiness regulators - as it should. Much has been published and without trying to reprise it all we’ve found a sound compendium of references and reading for your professional interest and questions - [b737.org.uk](www.b737.org.uk/mcas.htm){:target="_blank"}.
 
 There is a very recent (Feb2021) Royal Aero Society Brief from the site author, B737 expert and most media friendly and interviewed former B737 Captain in this saga. There is also an Australian 60 Minutes episode and a BBC Panorama documentary link will not work unless you have a UK location or ….
 
@@ -51,7 +51,7 @@ We have not been without success in 2020 though, and ran our first virtual webin
 
 While COVID-19 has dominated much of our attention this year, there have been some other interesting events from a system safety perspective. I recently saw the unsuccessful landings of the SpaceX Starship in the media. The testing being undertaken is incredibly challenging, and involved a number of critical design elements working flawlessly in order to achieve a successful landing. Open source reporting indicates that “fuel header tank pressure was low” during the first test descent, “causing touchdown velocity to be high”. The result was an explosion and destruction of the test vehicle. An explosion post landing of the 2nd test is also under investigation.
 
-Another activity of great interest is the resolution of the 737 MAX issues by Boeing and the FAA. In Nov 20 media reported that the 737 MAX had been cleared to commence operations again. Some insight into the steps that have been taken is available on the [Boeing website](https://www.boeing.com/737-max-updates/). Keep COVID safe.
+Another activity of great interest is the resolution of the 737 MAX issues by Boeing and the FAA. In Nov 20 media reported that the 737 MAX had been cleared to commence operations again. Some insight into the steps that have been taken is available on the [Boeing website](https://www.boeing.com/737-max-updates/){:target="_blank"}. Keep COVID safe.
 
 Kind regards\
 **Dr. Derek Reinhardt**\
@@ -88,8 +88,8 @@ Please visit the [conference website](/conference/2021) for more details about t
 ## Upcoming Events
 
 - **Engineers Australia: Second Engineered Safety Symposium**. Physical and Online - Adelaide. 4-5th May 21.
-- **[MIL-STD-882F Draft](https://system-safety.org/page/MIL-STD-882F-draft)** is on the board for comment by 11 March21. This process will be going for many years so get in early or watch it evolve.
-- **[Remote Professional Development: MIT STAMP Workshop](http://psas.scripts.mit.edu/home/2021-stamp-workshop-information/)**. Online – US EDT Time Zones.
+- **[MIL-STD-882F Draft](https://system-safety.org/page/MIL-STD-882F-draft){:target="_blank"}** is on the board for comment by 11 March21. This process will be going for many years so get in early or watch it evolve.
+- **[Remote Professional Development: MIT STAMP Workshop](http://psas.scripts.mit.edu/home/2021-stamp-workshop-information/){:target="_blank"}**. Online – US EDT Time Zones.
 
 ## Research Award
 
@@ -101,17 +101,17 @@ The purpose of this annual award is to encourage Australian research in the scie
 
 aSCSa is a non-denominational church for System Safety professionals, and we welcome engagement with all sister organisations, especially those with professional development and knowledge sharing opportunities.
 
-- [Safety Critical Systems Club](https://scsc.uk/), our twin sister and very busy organisation. Well worth tagging and joining for newsletters.
-- [Safety and Reliability Society UK](https://www.sars.org.uk/) has commissioned a new Asia Pacific branch, including Australia and will run on-line events. We are collaborating with them to mutually support both association’s objectives.
-- [International System Safety Society (ISSS)](https://system-safety.org/).
-- ACM Risk Forum on [Risks to the Public in Computers and Related Systems](http://catless.ncl.ac.uk/Risks).
-- [System Safety List](http://www.systemsafetylist.org/).
+- [Safety Critical Systems Club](https://scsc.uk/){:target="_blank"}, our twin sister and very busy organisation. Well worth tagging and joining for newsletters.
+- [Safety and Reliability Society UK](https://www.sars.org.uk/){:target="_blank"} has commissioned a new Asia Pacific branch, including Australia and will run on-line events. We are collaborating with them to mutually support both association’s objectives.
+- [International System Safety Society (ISSS)](https://system-safety.org/){:target="_blank"}.
+- ACM Risk Forum on [Risks to the Public in Computers and Related Systems](http://catless.ncl.ac.uk/Risks){:target="_blank"}.
+- [System Safety List](http://www.systemsafetylist.org/){:target="_blank"}.
 - Safety-Critical Mailing List Forum formerly hosted by the University of York is now hosted by the University of Bielefeld. Need to join using the form located at [System Safety Info Page](https://lists.techfak.uni-bielefeld.de/mailman/listinfo/systemsafety) for access.
 - Aside from many mailing lists that aSCSa Committee members subscribe to, the following are typically monitored. If any members Identify news items of interest that they’d like to see comment on please send to aSCSa Committee [committee@ascsa.org.au](mailto:committee@ascsa.org.au).
 
 ## Post Office IT System Scandal ‘Destroys Lives’
 
-Last Newsletter we mentioned therecord fine issued to Westpac for money laundering regulatory failures – potentially facilitating ruining peoples lives. This time around it’s a [little more direct](https://www.theguardian.com/business/2020/oct/02/post-office-apologises-in-false-accounting-scandalclimbdown).
+Last Newsletter we mentioned therecord fine issued to Westpac for money laundering regulatory failures – potentially facilitating ruining peoples lives. This time around it’s a [little more direct](https://www.theguardian.com/business/2020/oct/02/post-office-apologises-in-false-accounting-scandalclimbdown){:target="_blank"}.
 
 *“The Post Office has decided not to oppose 44 of the 47appeals lodged by former subpostmasters who were convicted of false accounting, theft, or fraud in a scandal that exposed severe flaws in its Horizon IT system.*
 
@@ -137,7 +137,7 @@ We then enter the familiar territory of trust and reliance in the software incre
 
 The Horizon system did not sufficiently permit the postmasters to verify the accounts, and in fact forced them to reconcile the accounts at the end of each day(out of their own pocket). It they suspected an error there was no recourse, save for a helpline, but the books needed to be balanced before trade could begin the following day. The helpline was staffed by systems administrators who had unbridled access to the relational database tables in the back-end servers. They could make any change to any transaction, and this was routinely done, and nothing was recorded except for the fact that they had logged in to the server. The ability to verify the correct operation of a system, both while it is running, and forensically, can be a critical function of a system that is not otherwise considered critical (in the manner that we at aSCSa tend to think of critical systems). Clearly with this perspective, the system should record all actions performed by users and administrators to modify accounts, and allow the users to challenge and rectify the accounts for which they are ultimately responsible. To do this requires transparency and sufficient detail in the records produced by the system.
 
-PS. Justice Fraser’s judgement on the “Horizon Issues” case is an [unexpectedly engaging read](https://www.judiciary.uk/wpcontent/uploads/2019/12/bates-v-post-officejudgment.pdf) on the subject of software safety. I found the section starting on page 249under the heading “Dr Worden” particularly illustrative of the use of statistical reasoning (even if unknowingly) for assessing the reliability of software that is in service or has a service history. According to Judge Fraser “I have reproduced extensive passages of Dr Worden’s explanation of his own methodology in order to allow his explanation to be available to any reader of this judgment. I consider this a wholly flawed methodology,and obviously so, and I reject it.” We too, as system safety professionals, must be careful to avoid making safety arguments of this nature.
+PS. Justice Fraser’s judgement on the “Horizon Issues” case is an [unexpectedly engaging read](https://www.judiciary.uk/wpcontent/uploads/2019/12/bates-v-post-officejudgment.pdf){:target="_blank"} on the subject of software safety. I found the section starting on page 249under the heading “Dr Worden” particularly illustrative of the use of statistical reasoning (even if unknowingly) for assessing the reliability of software that is in service or has a service history. According to Judge Fraser “I have reproduced extensive passages of Dr Worden’s explanation of his own methodology in order to allow his explanation to be available to any reader of this judgment. I consider this a wholly flawed methodology,and obviously so, and I reject it.” We too, as system safety professionals, must be careful to avoid making safety arguments of this nature.
 
-Finally, could we reflect on our own [Government designed and instituted employment of modern IT data analytics and AI potential that affected peoples lives](https://theconversation.com/robodebt-was-a-policyfiasco-with-a-human-cost-we-have-yet-to-fullyappreciate-150169)? A requirements problem or a socio-technical system design problem? Not apparently blamed on failure in the coding and implementation space.
+Finally, could we reflect on our own [Government designed and instituted employment of modern IT data analytics and AI potential that affected peoples lives](https://theconversation.com/robodebt-was-a-policyfiasco-with-a-human-cost-we-have-yet-to-fullyappreciate-150169){:target="_blank"}? A requirements problem or a socio-technical system design problem? Not apparently blamed on failure in the coding and implementation space.
 
