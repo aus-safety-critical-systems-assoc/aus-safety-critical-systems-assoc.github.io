@@ -24,6 +24,7 @@ There is a very recent (Feb2021) Royal Aero Society Brief from the site author, 
 Look out for the EASA and Transport Canada independent positions and recommendations (above and beyond FAA’s Airworthiness Directive) and beyond the return to service minimum conditions. Design Changes have been requested ‘within a couple of years’. Not all have been agreed with Boeing or the FAA.
 
 ![FAA Approved Santa](/assets/img/newsletters/2021-03/faa-approved-santa.png){:width="100%"}
+*Source: [Robert Novell](https://www.robertnovell.com/twas-the-night-before-christmas-december-24-2016/){:target="_blank"}*
 
 ## Association Matters
 
@@ -106,7 +107,7 @@ aSCSa is a non-denominational church for System Safety professionals, and we wel
 - [International System Safety Society (ISSS)](https://system-safety.org/){:target="_blank"}.
 - ACM Risk Forum on [Risks to the Public in Computers and Related Systems](http://catless.ncl.ac.uk/Risks){:target="_blank"}.
 - [System Safety List](http://www.systemsafetylist.org/){:target="_blank"}.
-- Safety-Critical Mailing List Forum formerly hosted by the University of York is now hosted by the University of Bielefeld. Need to join using the form located at [System Safety Info Page](https://lists.techfak.uni-bielefeld.de/mailman/listinfo/systemsafety) for access.
+- Safety-Critical Mailing List Forum formerly hosted by the University of York is now hosted by the University of Bielefeld. Need to join using the form located at [System Safety Info Page](https://lists.techfak.uni-bielefeld.de/mailman/listinfo/systemsafety){:target="_blank"} for access.
 - Aside from many mailing lists that aSCSa Committee members subscribe to, the following are typically monitored. If any members Identify news items of interest that they’d like to see comment on please send to aSCSa Committee [committee@ascsa.org.au](mailto:committee@ascsa.org.au).
 
 ## Post Office IT System Scandal ‘Destroys Lives’
@@ -140,4 +141,3 @@ The Horizon system did not sufficiently permit the postmasters to verify the acc
 PS. Justice Fraser’s judgement on the “Horizon Issues” case is an [unexpectedly engaging read](https://www.judiciary.uk/wpcontent/uploads/2019/12/bates-v-post-officejudgment.pdf){:target="_blank"} on the subject of software safety. I found the section starting on page 249under the heading “Dr Worden” particularly illustrative of the use of statistical reasoning (even if unknowingly) for assessing the reliability of software that is in service or has a service history. According to Judge Fraser “I have reproduced extensive passages of Dr Worden’s explanation of his own methodology in order to allow his explanation to be available to any reader of this judgment. I consider this a wholly flawed methodology,and obviously so, and I reject it.” We too, as system safety professionals, must be careful to avoid making safety arguments of this nature.
 
 Finally, could we reflect on our own [Government designed and instituted employment of modern IT data analytics and AI potential that affected peoples lives](https://theconversation.com/robodebt-was-a-policyfiasco-with-a-human-cost-we-have-yet-to-fullyappreciate-150169){:target="_blank"}? A requirements problem or a socio-technical system design problem? Not apparently blamed on failure in the coding and implementation space.
-

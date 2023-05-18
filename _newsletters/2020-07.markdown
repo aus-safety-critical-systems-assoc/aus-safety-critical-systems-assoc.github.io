@@ -1,0 +1,191 @@
+---
+title: July 2020
+date: 2020-07-01
+summary: "Dreamworld Thunder River Rapids, & More Strides in Engineering Competence and Regulation?"
+---
+
+## Contents
+- [Dreamworld Thunder River Rapids](#dreamworld-thunder-river-rapids)
+- [Association Matters](#association-matters)
+- [From the Chair](#from-the-chair)
+- [ASSC 2020 > 21](#assc-2020--21)
+- [Upcoming Events](#upcoming-events)
+- [Bulletin Board](#bulletin-board)
+- [More Strides in Engineering Competence and Regulation?](#more-strides-in-engineering-competence-and-regulation)
+
+## Dreamworld Thunder River Rapids
+**Coronial Inquest Findings**
+
+First story in the Newsletter inbox after our January Newsletter was [this tale of woe](https://www.abc.net.au/news/2020-02-24/dreamworldaccident-inquest-coroner-findings/11993742){:target="_blank"}.
+
+What does this say about safety critical systems awareness in all walks of engineering? Understanding systems, failures modes, safety systems, competencies and training of staff?
+
+"The coroner said there was no proper engineering oversight, nor were any holistic risk assessments ever conducted."
+
+“As delivered safety is as maintained safety”” is a maxim taught to young airworthiness engineers in the air force. But if there are no qualified engineers in the process – this is an academic notion.
+
+Were the safework australia guidelines previously too obtuse? [They were certainly lengthy](https://www.safeworkaustralia.gov.au/system/files/documents/1705/amusement-devices-general-guide-v3.pdf){:target="_blank"}.
+
+Theme parks are most likely unconsciously incompetent and ill-equipped for the safety critical technology they employ. Are the industry standards in need of an overhaul? It's not merry-go-rounds any more. Will the more pithy regulations and external regulator satisfaction requirements make it clearer?
+
+The [licensing system will now apply](https://www.worksafe.qld.gov.au/laws-and-compliance/workplace-health-and-safety-laws/laws-and-legislation/work-health-and-safety-amusement-devices-public-safety-amendment-regulation-2019/major-amusement-parks){:target="_blank"} to any new major amusement parks in Queensland, which meet the criteria for a major amusement park. From 1 May 2019, major amusement parks will have:
+- six months to provide the regulator with a [safety case outline](https://www.worksafe.qld.gov.au/__data/assets/pdf_file/0017/180134/major-amusement-parks-safety-case-outline.pdf){:target="_blank"}.
+- two years to provide the regulator with a safety case and apply for a major amusement park licence. A park can continue to operate amusement devices during this period.
+
+The Australian commercial aviation industry is seen as a benchmark for safety management, and Dreamworld is committed to adopting relevant learnings, developments and safety systems from this industry with the aim of becoming the global benchmark for theme park safety."
+
+Not suggestion theme parks will be run like (now cash strapped) airlines, but the ICAO (International Civil Aviation Organisation – UN) Aviation Safety Management System model is an oft used reference in workplace health and safety. However that industry does not use the Safety Case model named in the new legislation and is highly prescriptive in standards and requirements for design, operations and maintenance, including responsibility holder competencies. We are hopeful this conflict is able to be rationally resolved for a good sense and effective safety regime for theme parks in the future. The safety wheel does not need to be reinvented in Australia, but the accountabilities and responsibilities need to be clear and as ever is the financial challenge - compliance monitored.
+
+## Association Matters
+
+### National Committee for 2019/20
+
+| Derek Reinhardt | Chairman (ACT) |
+| Luke Wildman | (QLD) |
+| George Nikandros | Treasurer (QLD) |
+| Clive Boughton | (ACT) |
+| Holger Becht | (QLD) – Conference chair |
+| BJ Martin | (ACT), Newsletter editor |
+| Ed Kienast | (QLD) |
+| Vamsi Madasu | (VIC) |
+| Tim McComb | (QLD) – Conference Program Chair |
+| Simon Connelly | (QLD) - Secretary |
+
+## From the Chair
+
+Since my most recent message as chair, we have seen the difficult COVID-19 pandemic impact many people all over the world, including us here in Australia. Many have experienced hardship, and many have changed the way they go about their daily lives, from social distancing, working from home, and supermarket shortages. Our thoughts and support are with our many members here in Australia, and across the world, and those many people impact by this crisis.
+
+In my last message, I was aspiring to make our 2020 conference, course offering and newsletter successful. In keeping with the values of our association and to not expose people to unreasonable risk, we made the call to reschedule the 2020 conference and course offering due to COVID-19. We continue to evaluate when another conference and course might be possible, acknowledging that these are usually well supported by international visitors and presenters. At this stage we are planning to schedule the next conference for 02-04 Jun 21 in Melbourne. We will continue to monitor the COVID-19 situation and adjust our plans where necessary based on the circumstances likely to exist near to that date. We will keep you updated. In the meantime we continue to look at virtual ways to deliver some value to our members in 2020. The committee has a number of ideas and are exploring several means of offering some networking events or individual presentations by this means. Look out for updates on our mailing list and website. I’m also aware that the University of York have made substantial progress at moving their course offering onto virtual delivery. So for those of you wishing to access some course material this year in lieu of our course offering, you may find your needs can be met through the University’s offering.
+
+I read recently of early investigation results of the A320 aircraft crash in Pakistan, killing 98 people, that the pilots were preoccupied by the COVID-19 crisis and tried to land with the aircraft’s wheels retracted. A series of errors, including being at the incorrect altitude during approach, and having after raised the landing gear for a go-around, attempted to land anyway, landing on the engines before attempting a go-around which ended fatally. A reminder of the many tragic ways COVID-19 is impacting people’s lives, the impact of distraction in a safety critical systems environment, and the importance of training and human factors disciplines in our domain to consider the social/cultural environment beyond the cockpit. The discipline of system safety is special amongst engineering disciplines in that is intersects so many other disciplines, include those less mathematical and more social and behavioural. This makes it challenging, but it also makes it very compelling as a career for both specialised safety engineers as well as a foundation for every well rounded engineer.
+
+Despite these difficult times, and the impact to our normal tempo of events, please do continue to engage or help where you can, to make aSCSa beneficial to all the members. We will keep you updated on our progress for events.
+
+Kind regards
+
+**Dr. Derek Reinhardt Chairman aSCSa**
+
+## ASSC 2020 > 21
+
+**Rendezvous Hotel, Melbourne Australia 02-04 June 2021**
+
+In 2021, the aSCSa will host its 25th annual conference event. The theme for the 2020 conference is “Complex Systems: Can We Keep It Safe Anymore?”. With systems becoming more integrated, networked, and complex incorporating new/emerging technologies, automation, autonomy, and artificial intelligence –– ‘system of systems’ challenges such as emergent behaviour, cybersecurity, and human factors become more prominent.
+
+- Are traditional Safety by Design programs and system review constructs sufficient?
+- How do we understand and analyse these complex systems and architectures?
+- How do we provide safety assurance for complex emergent behaviour, and potentially adaptive systems?
+- How do we ensure cybersecurity and human factors issues are adequately assessed and integrated with the safety program?
+
+The aSCSa invites representatives from Industry, project agencies and academia to participate at this conference to learn, discuss, debate and challenge on how we can rely, or should we rely on artificial intelligence technologies for safety.
+
+## Upcoming Events
+
+### MIT STAMP Workshop - Online – US EDT Time Zones
+
+Week 1: Interactive Hands-on Tutorials
+- July 20 – July 24
+- 10:00am EDT to 2:00pm EDT each day (with breaks)
+
+Week 2: Main Presentations
+- July 27 – July 31
+- 10:20am EDT to 1:00pm EDT each day (with breaks)
+
+Week 3: Main Presentations
+- Aug 3 – Aug 6
+- 10:20am EDT to 1:00pm EDT each day (with breaks)
+
+The virtual workshop is free and open to the public, but you’ll need to register in advance to attend. Post workshop content access may take some time to be available. [You can register here](http://psas.scripts.mit.edu/home/2020-stamp-workshop-registration/){:target="_blank"}.
+
+## Bulletin Board
+
+Aside from many mailing lists that aSCSa Committee members subscribe to, the following are typicallyaccess monitored. If any members Identify news items of interest that they’d like to see comment on please send to aSCSa Committee <committee@ascsa.org.au>.
+
+- [ACM Risk Forum on Risks to the Public in Computers and Related Systems](http://catless.ncl.ac.uk/Risks){:target="_blank"}.
+- [System Safety List](http://www.systemsafetylist.org/){:target="_blank"} - Safety-Critical Mailing List Forum formerly hosted by the University of York is now hosted by the University of Bielefeld. Need to join using the form located at [System Safety Info Page](https://lists.techfak.uni-bielefeld.de/mailman/listinfo/systemsafety){:target="_blank"} for access.
+
+### Medical Device Fault Reporting
+
+Another catch-up article from the ABC reporting in January 2020 of [Pacemaker-defibrillators giving repeated electric shocks to patients](https://www.abc.net.au/news/2020-01-16/pacemaker-electric-shocks-woman-60-times-sparks-regulation-call/11855532){:target="_blank"}, without acknowledgement of problems from the manufacturer. Our resident aSCSa Committee ehealth and medical devices subject matter expert, Ed Kienast, provides some insight and system safety management perspective:
+
+The article published by the ABC about pacemaker problems manufactured by a German company lacks sufficient details to ascertain if a problem exists or not. The article reports on two cases which occurred in 2011 and 2015 and comments made by the treating cardiologist of one of the patients. The article airs the concern of one cardiologist assuming a systematic product fault and provides some information which may back up the concerns. The article continues to describe the lack of implant registries and discusses some issue with its operations in Australia.
+
+What is context missing the article? The regulatory requirements in Australia for marketing and distributing such product is controlled by the [Therapeutic Goods Agency (TGA)](http://www.tga.gov.au/){:target="_blank"}, and a check on their website covering product relating issues does not list the manufacturer or the specific product as a product of concern. As the responsible regulator, TGA can request data from the manufacturer outlining the survival rates of registered products, returned product evaluation reports, statistics per hospital and can perform inspections of manufacturing sites to establish compliance with applicable Australian legislation. The provided reference to a single-centre experience is helpful but not sufficient to make claims of systematic product failure. Still, the paper is incomplete in reporting all relevant aspects of the product failures, which makes it difficult to extrapolate an overall product performance. Also, other conflicting studies have not been mentioned like a multicentre study reported in the US clinical [trial register](https://www.biotronik.com/en-au/healthcare-professionals/clinical-trials/galaxy){:target="_blank"}. Such studies are manufacturer-sponsored with hospital Ethics Committee and Regulator involvement and intend to evaluate clinical performance over time. Finally - it is unclear if the TGA was contacted to comment and if further research into failures of this specific device prior article publication were done or if the information was omitted in the published article version.
+
+The lack of product registers where all surgeries and implants are registered, in conjunction with incomplete reporting by hospitals regarding device failures are the actual safety management impediments for the regulator and the manufacturer to report better on device failure rates. As mentioned in the article, different failure modes can have lasting impressions for the individual. The value of explanation to patients of such devices is questionable, as stated in the report by the interviewed cardiologist "… if they did have a Linox lead they did not need to be worried" as well as "The failure rate is still relatively low and in most instances the patients won't know that there is a lead issue". However, this leaves affected individuals alone what to do. It is unclear which patient population has been used for this statement and did not state what the expected failure rate for this device or other brands is to make a comparison.
+
+The main take away: The article highlights current gaps in some aspects of medical implant surveillance and reporting but choosing a single product and cases from 5 and 9 years ago may reflect already outdated practices and does not substantiate the assumed systematic product problem. The interested reader may want to refer to the Department of Health for [progress updates](https://www1.health.gov.au/internet/main/publishing.nsf/Content/F092FB9BBFDA4CBACA2583CB000505FE/$File/Draft%20National%20CQR%20Strategy%20May%202019%20-%20Consultation.pdf){:target="_blank"}.
+
+The challenging balance in this field is the judgement of doing substantially more good than harm, and all implant devices carry some risk. Investigative Journalism can help keep the accountability in the public eye, and the International Consortium of Investigative Journalists has been building and maintaining their own [Implant Files](https://www.icij.org/investigations/implant-files/safety-data-from-20-countries-added-to-implant-files-database/){:target="_blank"} to help with the data mining deficit.
+
+### MIT System Safety – STAMP Techniques
+
+The above advertised on-line STAMP workshop link is worth a look, if only to access past years Presentations and the freely available methodology [Handbooks](http://psas.scripts.mit.edu/home/materials/){:target="_blank"}, as well as some You Tube tutorials can be found. Professor Nancy Leveson has created and been promoting these techniques for several years as a scalable means of improving analysis of complex socio-technical systems. Including at past aSCSa conferences.
+
+The STAMP Workshops have had a growing popularity with 2020 heading for 500 attendees before CoViD pandemic. The encouraging thing about the workshops is that they fill with presentations of industrial application experience and allow for shared experience.
+
+The aSCSa understands that the techniques are also gaining regulator acceptance in aviation certification. particularly in the wake of 737Max disasters, and via NASA as space vehicle design becomes an outsourced and regulated business.
+
+### The University of York
+
+The current status of University of York education options are summarised in the communication below. The aSCSa hope to be able to facilitate Australian Timezone courses.
+
+We are working hard to move a lot of our teaching online and this has included formatting the 'live session' element of the provision.
+
+Our current default model for online delivery is 2 weeks self study + 1 week live sessions. This is proving to work very well. However, we can look to tailor this model in terms of live v recorded material.
+
+In terms of the timings of live sessions for Australia. We can run live sessions first thing in the morning (UK time) which would correspond to early evening in Australia. E.g. 8am start in the UK would be 5pm in Canberra/Sydney, 4.30pm in Adelaide and 3pm in Perth.
+
+During the live week we run exercises. An attendee needs to come to about 2-3 hours a day max. But we run parallel sessions (not necessarily at the same time) to accommodate more attendees while maintaining the small group working characteristic of our courses. Attendees are required to do quite a lot of self study work (pre-recorded lectures, review of materials, individual exercises) though-out the whole course.
+
+There are two routes of online attendance we could offer:
+1. We could offer an individual delivery of one of our courses (FSSE, HRAS, SSAS and SCDR) from late January 2021 onwards.
+2. Attendees can register and attend one of our current scheduled MSc modules (indeed one of our other Australian clients registered several candidates to SCDR which is currently running)
+
+*Attendance at this course will provide for 40 hours CPD.*
+
+### A320 Crash in Pakistan with Pandemic Causal Factors?
+
+A terrible confluence of tragedies resulted in the loss of 97 lives when a [Pakistan International Airlines Airbus 320 crashed](https://www.theguardian.com/world/2020/jun/25/pakistan-plane-crashed-after-pilots-distracted-by-coronavirus-fears){:target="_blank"} 1 km short of the runway, into a township, on second attempt at landing, following landing on it’s engines during the first attempt. The initial investigations have identified that both pilots were preoccupied discussing the pandemic and various aspects of corona virus, ignoring air traffic control directions and various audible and visible warnings from the aircraft systems.
+
+No formal accident reports have been released, but this would appear to be an extreme human factors event, that no known aircraft design feature could defeat. Consuming the attention of both crew, despite all understood safety sciences of checklists, sensors and alerting functions. The global corona virus pandemic could be greatest common cause factor in the worlds most complex Bow-Tie model.
+
+![FAA Approved Santa](/assets/img/newsletters/2020-07/A320-crash-pakistan.png){:width="100%"}
+*Source: Fareed Khan*
+
+[Subsequent reports](https://www.abc.net.au/news/2020-06-26/pakistan-pilots-accused-of-cheating-on-exams/12394828){:target="_blank"} have identified a scandal in the Pakistan aviation industry pilot licensing system – with exam cheating and fake licenses. [EASA has now blacklisted the PIA airline](https://www.voanews.com/south-central-asia/pakistan-fires-28-pilots-holding-dubious-licenses){:target="_blank"}, and the airline has sacked 28 pilots. Nonetheless the crew of the crashed A320, are claimed to have been fully qualified. Only formal crash investigation reports will explain the inexplicable behaviour of the specific crew.
+
+### Assurance and Code that Took Man to the Moon
+
+For the software safety engineer, it is well worth the time to explore the Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules:
+- <https://lnkd.in/gZPnvtQ>
+- <http://www.ibiblio.org/apollo/>
+
+It was truly a marvel for its time, a tribute to M.I.T.'s designers, and it accomplished a most complex mission. Not to be understated is the contribution and leadership of one of computer science’s pioneers Margaret Hamilton.
+
+At the time, the computers were being invented at the same time as the software was being developed. What software engineers today refer to as programming “close to the metal” was at its most extreme in the AGC. The reliability of the hardware and the dependability of the software were equal partners.
+
+Let’s consider some trivia:
+- The on-board Apollo Guidance Computer (AGC) was about 1 cubic foot with 2K of 16-bit RAM and 36K of hard-wired core-rope memory with copper wires threaded or not threaded through tiny magnetic cores.
+- The 16-bit words were generally 14 bits of data (or two op-codes), 1 sign bit, and 1 parity bit. The cycle time was 11.7 micro-seconds. Programming was done in assembly language and in an interpretive language, in reverse Polish. Scaling was fixed point fractional.
+- An assembly language ADD took about 23.4 micro-seconds. The operating system featured a multi-programmed, priority/event driven asynchronous executive packed into 2K of memory.
+- The Mean Time to Failure (MTBF) of the machine in a space environment was calculated at 50,000 hours -- almost 6 years, and it never failed in flight operations.
+
+Consider also that this remarkable feat was achieved before the advent of software safety standards. It emphasises the importance of competence, expertise, and judgement in the field of software engineering. Software safety standards are not prescriptive – it is not particularly difficult for anyone to tick every box, produce every document, plan, and report, and appear to apply every technique, and produce software that is not dependable. The standards have value in demonstrating good engineering practice when it is there, but their blind application certainly doesn’t guarantee anything of the sort. Like any non-prescriptive standard, they are susceptible to the “cargo cult” way of thinking that was made famous by the great Richard Feynman. (If you have time, it can be entertaining to read about the cargo cults with software engineering in mind.)
+
+In today’s context, with the size and complexity of modern software systems, it is not so easy to draw a parallel between software engineering today and the development of the AGC. But it does remind us that the standards are useful and certainly have a place, but are no replacement for competent practice.
+
+### Westpac blames IT for $11 billion failure
+
+Another side of safety - anti money laundering technology is a finance and crime risk control. When that is solely relied upon and doesn’t perform due to poor engineering and project management. The ACS reported that Westpac is set for being issued a record fine of ($900M) for a “small IT project”. Software and IT are powerful tools for automation, that can make the highly expensive process faster and cheaper. But the assurance effort should be calibrated by the criticality of function, not by the price tag on the project.
+
+This is not a surprising observation to system safety professionals but still seems to be for IT project management.
+
+## More Strides in Engineering Competence and Regulation?
+
+Engineers Australia have published “The Case for Statutory Registration” in May 2020, as a significant risk reduction factor for Public Health, Safety and Economic welfare. The case is built on the currency of public failures of regulation in the building and construction industry, recommendation by expert reports and an overwhelming result in public opinion survey commission by EA. Finally the case is made by comparison to International western world jurisdictions that require a national register of professional engineers.
+
+Engineers Australia and the Professional Engineers Act of Queensland (soon to adopted by Victoria and the ACT) define an Engineering Service is a service that involving engineering principles and data over the system life cycle including design, construction, production, operation, maintenance or disposal. Despite the oft apparent fixation of Engineers Australia on building and construction industries - by definition, Engineering Services involves application of system safety and systems engineering methodologies, including test, human factors and certainly does not exclude mediums such as software or electronics.
+
+It seems an unfortunate missed opportunity not to include reference to the findings of the Dreamworld  Thunder Rapids Ride accident, transport technologies and costly failures in business and safety critical software systems and infrastructure often presented in this Newsletter.
+
+Nonetheless, EA recognises that registration is not a panacea, but a vital first step. Thereafter specialty Competency Frameworks such as the ACS Safety Critical Systems Certification must pick up the load.
