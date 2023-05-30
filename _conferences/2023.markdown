@@ -89,16 +89,6 @@ Jill was in 2017-2019 Director of Cyber Resilience Initiatives for the Australia
 
 Jill was made a Member of the Order of Australia (AM) for service to the information technology industry through contributions in the areas of forensic computer science, security, protection of infrastructure and cyber-terrorism.  She a Fellow of ISC2 awarded for her service to the information security industry.
 
-### Len Neist
-![Len Neist](/assets/img/conferences/2023/len_neist.png){:class="w3-circle w3-right"}
-*Design Acceptance Principal Advisor, OneSKY CMATS Program, Airservices Australia*
-
-Len is a capable executive leader and trusted advisor with experience locally and internationally for both private and public enterprises. His career has prepared him to identify, understand and manage the risks associated with major change, whether it is planned or unexpected. Len’s key skill set is in providing assurance and resilience advice and services. He has relevant assurance experience in system safety, safety assurance, asset integrity and permissioning systems. In regards to resilience experience he has had successful assignments in determining appropriate prevention strategies, and developing preparedness concepts through gaming and simulation, preparing targeted response strategies and facilitating reduction in uncertainty.
-
-Len has worked as a mechanical engineer, aerospace systems engineer, regulator, policy officer, safety assurance specialist, lead incident investigator, project director, project manager, capability definition and procurement specialist, Chief Executive, Board risk specialist, executive coach and trusted advisor to government. He has worked directly for senior leaders such as the Chief of Air Force, Deputy Premier NSW, Minister for Transport NSW, Executive Director Surface Transport Abu Dhabi.
-
-Len has experience and training in enterprise and strategic risk management, integrated logistic support, best regulatory practice, systems engineering, safety management system maturity assessment, aerospace engineering, systems analysis and definition, major incident investigation and executive coaching. He has gained this experience working in aerospace, defence, national security, surface transport (rail, bus, light rail) and workplace health and safety environments. His career has spanned all segments of the capability life cycle from needs analysis, capability definition, requirements specification, acquisition, sustainment and disposal.
-
 ### Professor Anjum Naweed
 ![Professor Anjum Naweed](/assets/img/conferences/2023/anjum_naweed.png){:class="w3-circle w3-right"}
 *School of Health, Medical and Applied Sciences, Appleton Institute, CQUniversity*
