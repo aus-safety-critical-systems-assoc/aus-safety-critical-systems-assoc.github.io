@@ -59,16 +59,6 @@ All fees as listed above are in Australian Dollars and GST inclusive. For questi
 | **aSCSa, ACS Member** | $1250.00 |
 | **All Others** | $1375.00 |
 
-## Venues
-
-### Conference Venue
-This years conference will be held at the **Crowne Plaza** at 27 Frome St, Adelaide SA.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4626.510721547496!2d138.60641038123043!3d-34.92057305780993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ab0cf0baf64f6b5%3A0x9a19d553cf957f72!2sCrowne%20Plaza%20Adelaide%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sau!4v1683845976687!5m2!1sen!2sau" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-### Social Event
-Conference dinner is planned for Wednesday evening, 6pm.
-
 ## Keynotes
 
 ### Associate Professor Robyn Clay-Williams
@@ -101,6 +91,16 @@ Professor Anjum Naweed is an applied researcher and Certified Professional Ergon
 
 ## Technical Program
 TBD.
+
+## Venues
+
+### Conference Venue
+This years conference will be held at the **Crowne Plaza** at 27 Frome St, Adelaide SA.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4626.510721547496!2d138.60641038123043!3d-34.92057305780993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ab0cf0baf64f6b5%3A0x9a19d553cf957f72!2sCrowne%20Plaza%20Adelaide%2C%20an%20IHG%20Hotel!5e0!3m2!1sen!2sau!4v1683845976687!5m2!1sen!2sau" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### Social Event
+Conference dinner is planned for Wednesday evening, 6pm.
 
 ## Sponsors
 
