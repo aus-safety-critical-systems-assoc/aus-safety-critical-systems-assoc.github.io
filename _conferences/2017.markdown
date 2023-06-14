@@ -3,6 +3,8 @@ title: ASSC 2017
 date: 2017-06-01
 location: Sydney, NSW
 theme: "Celebrating 25 Years"
+redirect_from:
+  - /assc-2017
 ---
 
 ## Celebrating 25 Years at ASSC 2017

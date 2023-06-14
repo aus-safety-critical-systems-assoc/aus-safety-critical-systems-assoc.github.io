@@ -3,6 +3,8 @@ title: ASSC 2022
 date: 2022-05-26
 location: Melbourne, VIC
 theme: "Assurance of Artificial Intelligence"
+redirect_from:
+  - /assc-2022
 ---
 
 ## Submit a Paper

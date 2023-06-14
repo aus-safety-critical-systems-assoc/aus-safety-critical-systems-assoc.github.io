@@ -3,6 +3,8 @@ title: ASSC 2019
 date: 2019-05-22
 location: Brisbane, QLD
 theme: "How can we be Artificially Safe?"
+redirect_from:
+  - /assc-2019
 ---
 
 ## Submit a Paper

@@ -3,6 +3,8 @@ title: ASSC 2018
 date: 2018-05-23
 location: Melbourne, VIC
 theme: "Strengthening and Integrating System Safety Engineering for Australia's future"
+redirect_from:
+  - /assc-2018
 ---
 
 ## Submit a Paper

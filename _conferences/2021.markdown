@@ -3,6 +3,8 @@ title: ASSC 2021
 date: 2021-06-02
 location: Virtual
 theme: "Complex Systems: Can We Keep It Safe Anymore?"
+redirect_from:
+  - /assc-2021
 ---
 
 ## Submit a Paper
