@@ -12,7 +12,7 @@ permalink: /newsletters/
     {% for newsletter in site.newsletters reversed %}
       <li class="w3-padding-small">
         <a href="{{ newsletter.url }}" class="expand">
-          <b class="w3-text-theme">{{ newsletter.title }}</b> {{ newsletter.date | date_to_long_string}}<br>
+          <b class="w3-text-theme">{{ newsletter.title }}</b><br>
           {{ newsletter.summary }}
         </a>
       </li>

@@ -32,6 +32,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-toc
 
 future: true
 
@@ -54,6 +55,7 @@ defaults:
       type: "newsletters"
     values:
       layout: "newsletter"
+      toc: true
   - scope:
       path: ""
     values:
@@ -62,6 +64,10 @@ defaults:
       path: "assets/*"
     values:
       sitemap: false
+
+toc:
+  min_level: 1
+  max_level: 2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
