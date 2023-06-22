@@ -4,6 +4,10 @@ date: 2019-07-01
 summary: "Boeing 737 Max, Drone Delivery, Safety Regulation of New Technology, & the Amtrak Accident."
 ---
 
+**Contents:**
+* toc
+{:toc}
+
 ## Learning the hard way: the Boeing 737 MAX
 
 **aSCSa Chair's Note:**

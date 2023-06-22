@@ -4,6 +4,10 @@ date: 2020-07-01
 summary: "Dreamworld Thunder River Rapids, & More Strides in Engineering Competence and Regulation?"
 ---
 
+**Contents:**
+* toc
+{:toc}
+
 ## Dreamworld Thunder River Rapids
 **Coronial Inquest Findings**
 

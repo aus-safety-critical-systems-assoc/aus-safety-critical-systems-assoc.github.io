@@ -4,4 +4,4 @@
     bundle install
 
 ## Serve
-    jekyll serve
+    bundle exec jekyll serve
