@@ -61,6 +61,9 @@ All fees as listed above are in Australian Dollars and GST inclusive. For questi
 | **aSCSa, ACS Member** | $1250.00 |
 | **All Others** | $1375.00 |
 
+{:class="w3-center"}
+[Register Here](https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000002CRsf){:class="w3-button w3-theme"}
+
 ## Keynotes
 
 ### Associate Professor Robyn Clay-Williams

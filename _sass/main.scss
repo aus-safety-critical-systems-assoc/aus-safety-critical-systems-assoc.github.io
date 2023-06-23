@@ -74,7 +74,9 @@ a {
     }
   }
   a {
-    @extend .w3-text-theme;
+    :not(.w3-button) {
+      @extend .w3-text-theme;
+    }
   }
   img {
     max-width: 100%;
