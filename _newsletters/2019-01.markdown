@@ -1,0 +1,397 @@
+---
+title: January 2019
+date: 2019-01-01
+summary: "Medical Device Safety, Lion Air, Automated Driving Regulation, Deliberate Derailment, & Upcoming Courses."
+---
+
+**Contents:**
+* toc
+{:toc}
+
+## Medical Device Safety
+
+Medical therapeutic devices are increasingly being used to maintain and improve the quality of life for people suffering with life-threatening ailments. Developers and manufacturers of these devices in adopting state-of-the-art technology don't always consider the limitations.
+
+At the Black Hat USA 2018 conference held in Los Angeles, [vulnerabilities](https://arstechnica.com/information-technology/2018/08/lack-of-encryption-makes-hacks-on-life-saving-pacemakers-shockingly-easy/) of two Medtronic devices were publicly demonstrated.
+
+The life-saving pacemakers manufactured by Medtronic don't rely on encryption to safeguard firmware updates, a failing that makes it possible for hackers to remotely install malicious wares. One of the vulnerabilities demonstrated compromised a CareLink 2090 programmer, a device doctors use to control pacemakers after they're implanted in patients.
+
+Because updates for the programmer aren't delivered over an encrypted HTTPS connection and firmware isn't digitally signed, the "hackers" were able to force it to run malicious firmware that would be hard for most doctors to detect. From there, the compromised machine could cause implanted pacemakers to make life-threatening changes in therapies, such as increasing the number of shocks delivered to patients. This vulnerability was sufficient for ICS-CERT to issue an [Advisory](https://ics-cert.us-cert.gov/advisories/ICSMA-18-058-01) (ICSMA-18-058-01) on February 27,2018 for the CareLink 2090.
+
+Also demonstrated was a vulnerability of a Medtronic-made insulin pump. Using a \$200 [HackRF](https://greatscottgadgets.com/hackrf/) software-defined radio, the "hackers" sent the pump instructions to withhold a scheduled dose of insulin. Communications between the pump and wireless accessories are transmitted in cleartext. A sufficiently skilled attacker could capture these transmissions and extract sensitive information, such as device serial numbers. This may allow an attacker to replay captured wireless communications and cause an insulin (bolus) delivery. This vulnerability was sufficient for ICS-CERT to issue ICS-CERT issued an [Advisory](https://ics-cert.us-cert.gov/advisories/ICSMA-18-219-02) (ICSMA-18-219-02) on August 07, 2018 for the Medtronic MiniMed 508 Insulin Pump.
+
+Whilst the vulnerabilities demonstrated at the Black Hat USA 2018 Conference were sufficient to warrant ICS-CERT advisories, there was no recommendation to suspend sales or require mandatory recall of the devices.
+
+Whether or not Medtronic foresaw these vulnerabilities and deemed them such low risk that it was not practicable to eliminate or mitigate further is unknown. However, it raises the question who decides that the residual risk is low enough, the vendor or the regulator? Vendors need to present the design and risk management files, including results of clinical trials, to a regulator/ certification body to gain market approval acceptance. The vendor's claim of achieving the lowest risks to patient possible is reviewed and, if agreed by the reviewing entity, products are listed on registers like the Australian Register for Therapeutic Goods. Information for clinicians and patients contain instructions for use and potential problems.
+
+Sensational [headlines](http://www.msn.com/en-au/news/australia/the-implant-files-the-hidden-human-toll-of-lax-controls-on-the-booming-medical-device-industry/ar-BBQ4obp?ocid=ientp) like "*The hidden human toll of lax controls on the booming medical device industry*" may raise public awareness, but not necessarily contribute to constructive debate. The article goes on to say that some 83,000 people have died around the world, including 170 in Australia in the past decade due to potentially dangerous medical devices -- that on average is less than two deaths per annum in Australia. That is less than the average number of deaths by lightning strike per year in Australia. Of more concern is the 8500-people injured in Australia alone (1.7 million in the 36 countries included in the survey).
+
+That is not to say that we should not be concerned about these 170 deaths and 8500 injuries and address the issue. It is important to note that the medical devices included in the [investigation](https://www.healthcareit.com.au/article/unsafe-medical-devices-harm-patients-globally-report) included pacemakers, contraceptives, artificial hips and breast implants grafted into patients' bodies i.e. it is not only software-based technology devices.
+
+The investigation identified a lack of regulatory control in some jurisdictions. However, even in the better regulated jurisdictions, more needs to be done.
+
+After receiving the International Consortium of Investigative Journalists' inquiries in September 2018, , the FDA issued an [alert](https://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm625789.htm) on November 14, 2018, 11 days before publication the investigation report, to doctors and patients about the risks of one of those devices, namely pain pumps; devices which deliver medication directly into the spinal fluid.
+
+The FDA analysis determined that the problem related to the use of medicines not approved for use in the pump, rather than failure of the pump itself.
+
+Lack of reporting of incidents to medical regulators appears to be the reason for the ever-increasing patient harm as more and more medical devices get deployed. A challenge for several countries besides the underreporting of problems is the lack of specific implant registers to know where and when which implant, incl. serial number, has been implanted. Such lack hinders effective post market controls and recall efforts. Whether this is because of the financial incentive to sell more devices or the fact that despite some harm, many more patients benefit from them.
+
+Whatever the reason, the [initial response](https://www.icij.org/blog/2018/11/implant-files-prompt-immediate-response-before-first-stories-published/) to the Implant Files Investigation, indicates that regulators intend to address this issue.
+
+## Association Matters
+
+### National Committee for 2018/19
+
+| Luke Wildman | Secretary (QLD) |
+| George Nikandros | Treasurer (QLD) |
+| Clive Boughton | (ACT) |
+| Holger Becht | (QLD) |
+| Tariq Mahmood | (VIC) |
+| Derek Reinhardt | (QLD) |
+| Ed Kienast | (QLD) |
+| Vamsi Madasu | (VIC) |
+
+Vera El-Bacha has shown interest in the aSCSa. Hopefully Vera will in time join the committee.
+
+### Annual General Meeting
+
+The 2018 Annual General Meeting was held on Monday, 4.00pm (Brisbane time) November 19, 2018 at RGB House, 236 Montague Rd West End QLD. Members were able to participate via teleconference. The meeting was chaired by BJ Martin, the aSCSa Chairman elected by the outgoing 2017/18 aSCSa committee. The purpose of the meeting is report on the activities, finances and to elect the committee for 2018/19 and office bearers.
+
+### Financial Performance
+
+Income (2017/18) - \$95 305<br>
+Expenses (2017/18) - \$56 990
+
+The expensed amount relates to the Apr-2018 System Safety Course at the ANU Canberra, 2018 Melbourne conference. Between July 01, 2017 and June 30, 2018, there was a profit of \$38 315. All amounts exclude GST.
+
+## From the Chair
+
+An enthusiastic welcome back to 2019 and hopefully exciting plans for this year to support our safety critical systems professionals. As well as providing a summary of the most topical safety critical systems news in recent history, this Newsletter provides the details for registration openings of both the second running of the University of York Safety Case Development and Review Course in Canberra 8-12Apr19, and the ASSC19 event in Brisbane 22-24May19. I hope your organisations professional development budgets can spread far enough around to service both events which are taking advantage of access timings to the experts presenting. I'd even suggest that both activities will contribute greatly to our society's ability to respond to better ways of managing the risks and challenges surfaced by the topical incidents.
+
+Our ASSC19 Keynote Speakers list has returned to a more internationally biased dragnet which I'm pleased to say was enthusiastically taken up when offered. I'm very excited to have finally included expertise from the increasingly important medical device industry, through our newer committee members influence (Thanks Ed!). Especially at a time when community interest has been piqued. From inner space, along the intelligent and autonomous transport systems route to our newest commercial industry -- outer space. What more could you ask for?
+
+At its heart though the conference theme is something that shouldn't be far from most of our community's reading lists or attention grabbers. Artificial Intelligence, in all its forms, is becoming literally common place in even the most mundane of transactions. Huge promise for improved quality of life and efficiency - yet there is no academic consensus, let alone recognised frameworks or tools, in place to certify or risk assess and manage systems with safety related functionality in operational contexts. I am sure it won't be long before we will be presented with systems of systems in our professional roles where this issue must be identified and rationalised. Something worthy of getting access to the latest research and leading-edge thinking -- we thought. If you look around, you'll see it's also a topic that is thick on the agenda of many northern hemisphere safety critical development industry symposia.
+
+So, we hope to see or hear from many of you (and/or your colleagues) through these events and engage more deeply on these topics. Any questions or ideas to <committee@ascsa.org.au>.
+
+**BJ Martin**<br>
+**Chairman aSCSa**
+
+## Research Award
+
+The purpose of this annual award is to encourage Australian research in the science of software/system engineering or the application of that science for safety and/or mission critical software-intensive systems. At \$5000, it is a substantial award. The rules governing the award are available from the [aSCSa website](http://www.safety-club.org.au/content/view/14/17/)
+
+*The nominated closing date requirement has now been removed; nominations can now be made any time.*
+
+### 2018 Award to Achim Washington
+
+The award was for Achim's research work in relation to his PhD thesis the *Treatment of Uncertainty in Aviation Risk Management with Application to the Regulation of Unmanned Aircraft Systems*. This is an emerging complex safety challenge of public concern the research offers techniques and new knowledge, for the identification and estimation of risk -- thus allowing for the safe advancement and employment of potentially beneficial technologies.
+
+Achim Washington completed his bachelor's degree in Aerospace Engineering at the Royal Melbourne Institute of Technology (RMIT) in 2014 with first class honours and completed his PhD in 2018.
+
+## Bulletin Board
+
+*ACM Risk Forum* on Risks to the Public in Computers and Related Systems -- <http://catless.ncl.ac.uk/Risks>.
+
+*System Safety List* - <http://www.systemsafetylist.org/>.
+
+*Safety-Critical Mailing List Forum* formerly hosted by the University of York is now hosted by the University of Bielefeld. Need to join using the form located at [System Safety Info Page](https://lists.techfak.uni-bielefeld.de/mailman/listinfo/systemsafety) for access.
+
+## Lion Air's deadly flight
+
+***A 13-minute struggle between man and machine!***
+
+On 29 October 2018, a Boeing 737-8 (MAX) aircraft registered PK-LQP was being operated by PT. Lion Mentari Airlines (Lion Air) as a scheduled passenger flight from Jakarta with intended destination of Pangkal Pinang. The scheduled time of departure from Jakarta was 0545 LT (2245 UTC on 28 October 2018) as LNI610[^1].
+
+At 2320 UTC, the aircraft departed from Jakarta using runway 25L and intended cruising altitude was 27,000 feet. On board the aircraft were two pilots, six flight attendants and 181 passengers. The Pilot-in-Command had 5176 hours on the aircraft type; the Second-in-Command had 4286 hours on the aircraft type. The aircraft had some 896 operating hours.
+
+Indonesian investigators released a [preliminary crash report](http://knkt.dephub.go.id/knkt/ntsc_aviation/baru/pre/2018/2018%20-%20035%20-%20PK-LQP%20Preliminary%20Report.pdf) on November 28, 2018 that described a battle between the pilots of Lion Air flight LNI610 and an automated anti-stall system on the Boeing 737 Max 8 aircraft that continually forced the plane downward in reaction to incorrect flight data. Less than 15 minutes after the flight took off from Jakarta on Oct. 29, the plane crashed in the Java Sea, killing all 189 people on board.
+
+The report doesn't offer a cause for the accident that killed all 189 on board but provides the most detailed look so far into the chaotic minutes before the crash and into the steps that were taken to address malfunctions that occurred on the plane the previous night. On both flights, pilots reported that they had difficulty figuring out basic information such as speed and altitude.
+
+![](/assets/img/newsletters/2019-01/image4.png){:width="100%"}
+
+The Boeing Co. 737 Max 8's angle-of-attack sensor, which measures how high or low the plane's nose was pointed relative to the oncoming air, had malfunctioned on the previous flight, as well as in the minutes before the crash, according to the report. The sensor erroneously concluded the nose was pointed too high and the aircraft was in danger of losing lift, prompting a stall warning in the cockpit and triggering safety software that attempted to put them into a dive.
+
+On the previous flight, the pilots were able to shut off the motor that was trying to push down the nose relatively soon after taking off. For reasons that haven't been explained, the pilots on Flight LNI610 didn't take that step \-- which is part of a long-standing emergency procedure.
+
+On the Oct. 28 flight that landed safely in Jakarta, the captain told investigators that he scanned cockpit instruments and determined that the co-pilot's readings matched a third standby system and were accurate. He turned over control of the plane to the co-pilot.
+
+By contrast, the captain on the flight that crashed radioed a controller about a minute before the plane disappeared from radar to say that all the plane's altitude gauges were different, and they couldn't determine how high they were.
+
+A malfunctioning sensor at the centre of the investigation into the Oct. 29 crash of a Lion Air jetliner into the Java Sea wasn't repaired before the fatal flight even though it had failed on the plane's previous trip, according to a preliminary investigative report.
+
+A mechanic worked on other sensors and equipment during a night shift before the early morning departure, but not on the so-called angle-of-attack vane, according to Indonesia's National Transportation Safety Committee.
+
+Following the issue of the preliminary report Boeing [responded](https://www.flightglobal.com/news/articles/boeing-posts-detailed-response-to-jt610-preliminary-453970/) by assuring passengers and operators that its 737 Max aircraft remain safe while in so doing also highlighting some points that the report did not address.
+
+It remains to be seen if the investigation concludes a cause for the crash. Given that Boeing 737 Max have not been grounded, it remains to be seen if the flight time experiences of both the Pilot-in-Command and the Second-in-Command and/or the training for such situations will be cited as factors.
+
+## First Certification for Safety Critical Systems Issued
+
+{:class="w3-center"}
+![](/assets/img/newsletters/2019-01/image5.png){:width="400px"}
+
+On Thursday May 24, 2018, the ACS launched a certification for professionals working in the system safety space to provide them with recognition of their specialist professional skills.
+
+Following the launch of the ACS Certified Professional Safety Critical Systems specialism certification on May 24, 2018 there has been much interest, including from the UK and some applications. The ACS expects to announce the first certification in the safety critical systems specialisation in February 2019. The recipient resides in the UK.
+
+## Course offering - Introduction to System Safety
+
+{:class="w3-center"}
+![](/assets/img/newsletters/2019-01/image6.png){:width="200px"}
+
+Course Ref: [7009LHS](https://degrees.griffith.edu.au/Course/7009LHS?courseListOrigin=C0000012890&programOfOrigin=3298)
+
+A 5-day course from Griffith University -- more details inside. Classroom and online options available.
+
+Online -- Nov-2019 to Jan-2020
+Classroom -- Nov-2019
+
+Dates for the 2019 course will be updated prior to 3rd Trimester (September 2019). Please check the Griffith University [course page](https://degrees.griffith.edu.au/Course/7009LHS?courseListOrigin=C0000012890&programOfOrigin=3298) for course dates.
+
+Venue: Nathan Campus, Griffith University, QLD.
+
+**To register you will need to use the [Single Course of Study Application Form](https://www.griffith.edu.au/__data/assets/pdf_file/0037/188776/STUD0030_Application-for-admission-to-a-single-course-of-study.pdf)**
+
+## Safety Case Development and Review Course
+
+{:class="w3-center"}
+![](/assets/img/newsletters/2019-01/image7.png){:width="80px"}
+
+{:class="w3-center"}
+![](/assets/img/newsletters/2019-01/image8.png){:width="300px"}
+
+### Overview
+
+This course is from the University of York and counts towards an MSc in Safety Critical Systems Engineering; the MSc is recognised by the British Computer Society, the Chartered Institute of IT and the Institution of Engineering and Technology.
+
+This course addresses the production and assessment of safety cases within safety projects. It covers:
+-   The role, purpose and typical content of safety cases;
+-   Explains how safety case arguments and evidence can be selected;
+-   Relates the development and maintenance of safety cases to the engineering lifecycle;
+-   Details how safety case arguments can be critically assessed;
+-   Explains the regulatory context for a safety case development regime.
+
+***By the end of the course, you will be able to:***
+-   Comprehend the role, purpose and typical content of a safety case;
+-   Devise and present clear safety arguments using both text and graphical notations (particularly the Goal Structuring Notation);
+-   Understand the risks, strengths and weaknesses of safety cases;
+-   Recognise and distinguish common forms of safety arguments;
+-   Understand how to review and evaluate a safety case;
+-   Understand how to undertake safety case maintenance throughout lifecycle;
+-   Understand the emerging concepts in safety cases.
+
+### Who is the course for?
+-   Practitioners across all domains including aerospace, military, railway, automotive, civil nuclear, civil maritime, medical devices, healthcare, and so on;
+-   Developers of equipment safety cases during design for software, hardware, procedures, systems and/or platforms;
+-   Developers of safety cases for operational safety and disposal;
+-   Reviewers of safety cases within an organisation or as an independent activity;
+-   Developers and reviewers of changes to existing safety-critical / safety-related equipment and operations;
+-   Project managers where development of a safety case is a significant element of projects they manage;
+-   Regulators of safety critical domains.
+
+### Prerequisites
+
+A basic understanding of system safety terminology and lifecycle via prior learning or industrial experience is assumed. It is useful for you to have taken our Introduction to System Safety course.
+
+### How is the course taught?
+
+The course takes place over a 5-day week. This week consists of a mixture of lectures and practical exercises.
+
+Over the week, there will be a series of lectures and several case studies. The case studies give you the chance to work through an example to reinforce your learning from the lectures. This is also a chance to gain other insights from the experience and knowledge of other delegates. You will also be able to call on the experience and knowledge of our specialised teaching staff during these sessions.
+
+### Presenters
+
+***Prof Tim Kelly, University of York, UK***
+
+*Tim Kelly is Professor of High Integrity Systems within the Department of Computer Science at the University of York. He is perhaps best known for his work on system and software safety case development, particularly his work on refining and extending the Goal Structuring Notation (GSN).*
+
+*His research interests include safety case management, software safety analysis and justification, software architecture safety, certification of adaptive and learning systems, and the dependability of \"Systems of Systems\". He has supervised many research projects in these areas with funding and support from the European Union, Airbus, BAE SYSTEMS, Data Systems and Solutions, DTI, EPSRC, ERA Technology, Ministry of Defence, QinetiQ and Rolls-Royce.*
+
+***Dr David Pumfrey, University of York, UK***
+
+*Dr David Pumfrey is a Lecturer in Safety Critical Systems Engineering in the Department of Computer Science, at the University of York. He began his career in the automotive industry; developing and assessing safety-critical software for in-vehicle and manufacturing control applications. He moved to the University in 1992 to take up a research post working with BAE Systems on developing new safety analysis techniques and worked with the company in support of the Eurofighter (now Typhoon) aircraft development programme.*
+
+*He was involved in the development of the Department's MSc in Safety Critical Systems Engineering (SCSE). As Continuing Professional Development Course Co-ordinator, David had overall responsibility for the content of over 200 tailored courses on System Safety.*
+
+### CPD
+
+Attendance at this course will provide for 40 hours CPD.
+
+### Where & When
+
+**Venue:** [Rydges Capital Hill Canberra](https://www.rydges.com/accommodation/canberra-act/capital-hill-canberra/), 17 Canberra Avenue, Forrest ACT 2603
+
+**Start time/date**: 0830 for 0900, Monday April 08, 2019
+
+**[Registration is now open!](https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000001JKZD)**
+
+**aSCSa Member Promo Code is:** acscaSCD2019
+
+**Price:** \$3850 (ACS and aSCSa members), \$4400 (non-members). Price includes GST.
+
+## Regulation impact issued for automated driving
+
+Transport ministers have paved the way for the commercial deployment of automated vehicles in Australia within the next few years, by endorsing a safety approach for approving vehicles at first supply.
+
+{:class="w3-center"}
+![](/assets/img/newsletters/2019-01/image9.jpeg){:width="300px"}
+
+The National Transport Commission's Council of Australian Governments' Decision Regulation Impact [Statement](https://www.ntc.gov.au/Media/Reports/(A7B4A10F-22A5-2832-1A11-6E23E1BB7762).pdf) outlines the approach for the introduction of automated vehicles which builds on the legal framework that currently exists for all vehicles in Australia when they are imported.
+
+Australian transport and infrastructure ministers have recognised that automated vehicles offer the possibility of fundamentally changing how transport is provided and unlocking a range of safety, productivity, environmental and mobility benefits.
+
+The aim is to develop a flexible and responsive regulatory environment for the commercial deployment of automated vehicles that supports both safety and innovation. The regulation adopted is a mandatory self-certification approach to safety to provide assurance to the community and government that companies developing automated driving technology are managing safety risks appropriately and allows for ongoing innovation by enabling different business models and mixes of technology to be brought to Australia.
+
+This decision considered four options, which relate to the future role of the Australian Government in assuring the safety of automated driving systems (ADSs):
+
+***Option 1***: Baseline approach -- Using existing legislation and regulatory instruments with no explicit safety assurance of ADSs
+
+***Option 2***: Safety assurance system in existing frameworks -- A safety assurance system based on mandatory self-certification that relies on the existing vehicle certification framework, namely the Australian Design Rules administered by the Commonwealth government.
+
+***Option 3***: New safety assurance system -- A safety assurance system based on mandatory self-certification. This would include new or amended legislation to allow for the inclusion of specific offences and compliance and enforcement options against entities bringing noncompliant automated diving systems to Australia.
+
+***Option 4***: New safety assurance system + primary safety duty -- A safety assurance system that includes all the elements of option 3, plus a primary safety duty on automated driving system entities to address risks not identified at first supply. The primary safety duty would place an overarching and positive general safety duty on entities to ensure the safety of their systems so far as reasonably practicable.
+
+NTC's assessment concluded that Option 4 could provide the greatest benefits, because it is the only option to address all assessment criteria under the road safety impact category. The assessment also shows it could provide large improvements to flexibility and responsiveness, and moderate improvements to the uptake of automated vehicles.
+
+However, after considering all submissions and holding further discussions between Commonwealth, state and territory governments, the NTC considered it appropriate to recommend a composite approach to address the safety of ADSs. The recommended approach is for safety at first supply as outlined by Option 2 at this time with in-service safety to be determined by a further stage of work to better assess the costs and benefits of potential approaches to in-service safety, including the safety benefits and regulatory costs.
+
+## Deliberately derailed!
+
+About 4.40am on Monday 5 November 2018, a loaded ore train operated by BHP on its Newman to Port Hedland railway, Western Australia, was deliberated derailed. The accident is being [investigated](https://www.atsb.gov.au/publications/investigation_reports/2018/rair/ro-2018-018/) by the Australian Transport Safety Bureau.
+
+The train carrying some 28000 metric tons was deliberately derailed after rolling away without a train driver on board. The driver alighted from the locomotive to inspect an issue with an ore car. While the driver was outside of the locomotive, the train commenced to run away. The train travelled some 92km in the 50 minutes from when it started to roll away and deliberately derailed 120km from the port at Port Hedland.
+
+![](/assets/img/newsletters/2019-01/image10.png){:width="100%"}
+
+There were no injuries, only significant damage to the rolling stock and the track, however this was small compared to the disruption of the iron ore supply chain. Analysts estimate the cost to be \$50 million.
+
+The train was utilising Electronically Controlled Pneumatic (ECP) braking. The train received a penalty brake application while operating in ECP braking mode because of a disconnected electrical connector between two wagons. The train came to a stand on a down gradient.
+
+The driver alighted from the cab to carry out an inspection. After one hour, the train rolled away down the gradient. The train was run through a low speed crossover to attempt to purposefully, and successfully, derail it.
+
+ECP braking allows for the brakes on each wagon in the consist to be applied at the same time, thus reducing the stopping distance and the buff forces. Non-ECP braked trains rely on the venting of air brake pipe from the locomotive at the front of which progressively applies the brakes of individual wagons in the consist. This means that that wagons towards the back will be travelling faster than the front of the train and hence generate buff forces. ECP is an overlay enhancement which uses the train's air brake system.
+
+As a result of the run away, the Office of the National Rail Safety Regulator (ONRSR) issued a [Safety Alert](https://www.onrsr.com.au/__data/assets/pdf_file/0020/22475/Safety-Alert-RSA-2018-002-ECP-Braking.pdf) notice to Rail Transport Operators on 20 November 2018
+
+According to the ONRSR notice, the ECP braking systems that comply with the American Association of Railroads standard AAR S-4200 have a software feature designed to preserve battery life on the ECP fitted wagons by releasing the electronic brakes on a train in circumstances where:
+-   An electronic brake is applied by the ECP system
+-   There is no communication between the ECP system on board the lead locomotive and the end of train; *and*
+-   Sixty minutes has elapsed from the last communication
+
+Where these conditions exist the ECP braking system will release creating the risk of a rollaway incident unless the air pressure within the braking system has been released to atmosphere.
+
+The issue of the safety notice infers that the sixty-minute time condition was satisfied during the driver's inspection releasing the brakes. As the train was stopped on down gradient, the train rolled away.
+
+![Image result for bhp runaway train](/assets/img/newsletters/2019-01/image11.jpeg){:width="100%"}
+
+## Late News - Another run-away!
+
+***Derailed Canadian Pacific freight train began moving on its own after emergency stop. Three train crew died.***
+
+The [derailment](https://www.theglobeandmail.com/business/article-derailed-canadian-pacific-freight-train-began-moving-on-its-own-after/) occurred at about 1 a.m. Mountain time, Monday February 04, 2019, between the Upper and Lower Spiral Tunnels just east of Field, British Columbia.
+
+The train, which had three locomotives and 112 cars, left the track while crossing a bridge over the Kicking Horse River and fell about 197 feet into the river below.
+
+![https://i.cbc.ca/1.5005329.1549311482!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cp-rail-crash-field-bc.jpg](/assets/img/newsletters/2019-01/image12.jpeg){:width="100%"}
+
+The train was proceeding west to Vancouver, when 99 cars and two locomotives derailed.
+
+A crew of three had arrived at the train to relieve the original crew, which is believed to have worked its maximum shift. The crew had just arrived and had boarded the train but were not yet ready to depart. The train had stationary on a hill after an emergency brake stop for two hours when the train began to move on its own. It is not clear why the train made an emergency stop, nor why it rolled away out of control and crashed.
+
+![](/assets/img/newsletters/2019-01/image13.png){:width="100%"}
+
+According to the [Transportation Safety Board](http://www.tsb.gc.ca/eng/enquetes-investigations/rail/2019/r19c0015/r19c0015.asp), the train had been stopped on the grade, with the air brakes in emergency for about two hours when the train started to move. There were no hand brakes applied on the train, which began to accelerate to a speed more than the maximum allowable track speed of 20 mph for the tight curves and steep mountain grade. The train then derailed.
+
+There is no mention of brake system being the ECP type as was involved in the BHP train derailment. Speculation is that the Canadian Pacific train being stationary for a relatively long time in icy conditions caused the seals in the train's air brake system to freeze and allow the air to leak away, thus releasing the brakes.
+
+## ASSC 2019
+
+![](/assets/img/newsletters/2019-01/image14.png){:width="100%"}
+
+**Customs House**
+**Brisbane Australia** **22 to 24 May 2018**
+
+In 2019, the aSCSa will host its 24th annual conference event. The theme for the 2019 conference is "***How can we be artificially safe?***" or how can we be safe with artificial intelligence technologies, including simulations, model-based systems engineering, auto code generation and checking, agile development, machine learning, perception systems and the Internet of Things.
+
+Are we able to derive safety requirements for such systems and achieve adequate assurance of compliance initially and continuously for a dynamic safety case? Are traditional safety-by-design programs and system review constructs sufficient?
+
+The aSCSa invites representatives from Industry, project agencies and academia to participate at this conference to learn, discuss, debate and challenge on how we can rely, or should we rely on artificial intelligence technologies for safety.
+
+***Invited keynote speakers are:***
+-   Pam Melroy, Ex NASA, Nova Systems, Australia
+-   Bijan Elahi, Medtronic, USA
+-   Ganesh Pai, SGT Inc, USA
+-   David Ward, HORIBA-MIRA, UK
+-   Phil Koopman, Carnegie Mellon, USA
+-   Kelvin Ross, KJR, Australia
+
+Please visit the [conference website](https://www.ascsa.org.au/conferences) for more details about the conference and the associated tutorials.<br>*\[Total CPD 21 hours for both conference and tutorials.\]*
+
+Please visit the [Customs House](https://customshouse.com.au/) website for details about the venue.
+
+**Registrations are now open** for the [conference](https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000001eWBp) and the [tutorial](https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000001eWBz). See inside for member discount promotion codes.
+
+### Sponsorship Packages
+
+Intending Sponsors need to request an invoice. Gold sponsors need to provide delegate names and contact details as these need to be manually registered to obtain the free registration and the three 20% discount registration.
+
+**Gold**
+- *One free full Conference registration (excluding tutorials)*
+- *20% discount on three additional registrations*
+- *Opportunity to provide 10 minute presentation*
+- *Display you company banner at the conference.*
+- **\$2500 by March 01, 2019, \$2750 after March 01, 2019**
+- **Prices inclusive of GST**
+
+**Silver**
+- *Display you company banner at the conference.*
+- *Company logo hyperlinked on the conference home page*
+- **\$1500 by March 01, 2019, \$1650 after March 01, 2019**
+- **Prices inclusive of GST**
+
+**Bronze**
+- *Company logo hyperlinked on the conference home page*
+- **\$500 by March 01, 2019, \$600 after March 01, 2019**
+- **Prices inclusive of GST**
+
+### ASSC2019 Conference Fees
+
+| **Category** | **Register by March 01** | **Register after March 01** |
+| Presenter's Rate | \$650.00 | \$950.00 |
+| aSCSa, ACS Member | \$750.00 | \$1050.00 |
+| Students | \$350.00 | \$500.00 |
+| Others | \$800.00 | \$1100.00 |
+
+*GST Inclusive*
+
+### ASSC2019 Tutorial Fees
+
+| **Category** | **Register by March 01** | **Register after March 01** |
+| aSCSa, ACS Member | \$350.00 | \$550.00 |
+| Students | \$350.00 | \$400.00 |
+| Others | \$400.00 | \$600.00 |
+
+*GST Inclusive*
+
+### ASSC2019 Discount Codes
+
+The discount codes are only for use by aSCSa members and students who are not ACS members. Students will be required to produce evidence of their student status.
+
+Conference promotion (discount) codes for aSCSa members and students who are **not** ACS members.
+
+| **Category** | **Register by March 01** | **Register after March 01** |
+| aSCSa Member | ASSC19MEM | ASSC19MEM2 |
+| Non-ACS Student | ASSC19STU | ASSC19STU2 |
+
+Tutorial promotion (discount) codes for aSCSa members and students who are **not** ACS members.
+
+| **Category** | **Register by March 01** | **Register after March 01** |
+| aSCSa Member | ASSC19MEM_T | ASSC19MEM_T2 |
+| Non-ACS Student | ASSC19STU_T | ASSC19STU2_T2 |
+
+### *Footnotes*
+
+[^1]: The flight number LNI610 is used in the official preliminary crash report. The media refers to flight number JT610.
