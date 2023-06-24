@@ -73,17 +73,15 @@ a {
       vertical-align: middle;
     }
   }
-  a {
-    :not(.w3-button) {
-      @extend .w3-text-theme;
-    }
+  a:not(.w3-button) {
+    @extend .w3-text-theme;
   }
   img {
     max-width: 100%;
   }
 }
 
-.toc-entry {
+#markdown-toc {
   a {
     @extend .w3-text-theme;
   }
