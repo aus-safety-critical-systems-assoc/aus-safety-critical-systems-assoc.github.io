@@ -1,0 +1,62 @@
+---
+layout: default
+title: Search
+permalink: /search/
+---
+
+<script src="/assets/js/lunr.js"></script>
+
+<script>
+  {% assign counter = 0 %}
+  var documents = [
+    {% for collection in site.collections -%}
+    {% for page in site[collection.label] -%}
+    {
+      "id": {{ counter }},
+      "url": "{{ site.url }}{{ page.url }}",
+      "title": "{{ page.title }}",
+      "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | replace: '<li>', '&bull; ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
+    },
+    {% endfor -%}
+    {% endfor -%}
+  ];
+
+  var idx = lunr(function () {
+    this.ref('id')
+    this.field('title')
+    this.field('body')
+
+    documents.forEach(function (doc) {
+      this.add(doc)
+    }, this)
+  });
+
+  function search(term) {
+    document.getElementById('searchresults').innerHTML = '<ul class="w3-ul w3-hoverable"></ul>';
+    if (term) {
+      document.getElementById('searchresults').innerHTML = "<p>Search results for <i>" + term + "</i>:</p>" + document.getElementById('searchresults').innerHTML;
+      var results = idx.search(term);
+      if (results.length > 0) {
+        for (var i = 0; i < results.length; i++) {
+          var ref = results[i]['ref'];
+          var url = documents[ref]['url'];
+          var title = documents[ref]['title'];
+          var body = documents[ref]['body'].substring(0, 360) + '...';
+          document.querySelectorAll('#searchresults ul')[0].innerHTML = document.querySelectorAll('#searchresults ul')[0].innerHTML + "<li style='padding-left:0;padding-right:0;'><a href='" + url + "' style='display:block;width:100%;'><b>" + title + "</b><br/><span>" + body + "</span></a></li>";
+        }
+      } else {
+        document.querySelectorAll('#searchresults ul')[0].innerHTML = "<li>No results found...</li>";
+      }
+    }
+    return false;
+  }
+</script>
+
+<form onSubmit="return search(document.getElementById('searchquery').value);" class="w3-center">
+  <p><input type="text" class="w3-input form-control w3-center" id="searchquery" name="q" maxlength="255" value="" placeholder="Type your query here..." required/></p>
+  <button type="submit" class="w3-button w3-theme">Search</button>
+</form>
+
+<div id="searchresults">
+  <ul></ul>
+</div>
