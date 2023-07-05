@@ -94,6 +94,26 @@ Professor Anjum Naweed is an applied researcher and Certified Professional Ergon
 
 ​Anjum’s research has received numerous accolades. In 2012, he was awarded the Body of Knowledge prize from Simulation Australasia and the John Lane Award from the Human Factors and Ergonomics Society of Australia (HFESA). He has twice been a recipient of Vice-Chancellor’s Award for Outstanding Researcher of the Year (2013; 2018), recognising his excellence in research activity, publication, and engagement. In 2022, he received the Simulation Achievement Award for clear and unambiguous, outstanding contributions to science, technology, and education, and Simulation Australia’s Lifetime Membership Award.
 
+### Dr Sanjay Mazumdar
+![Dr Sanjay Mazumdar](/assets/img/conferences/2023/sanjay_mazumdar.png){:class="w3-circle w3-right"}
+*Executive Director, Defence Trailblazer*
+
+Dr Sanjay Mazumdar is a proven chief executive and board director who has ~30 years of experience in the defence, national security and ICT sectors. Sanjay is the Executive Director of the Defence Trailblazer, a $240 million enterprise powered by the University of Adelaide and UNSW, with funding from the Australian Government through the Trailblazer Universities Program, as well as university and industry partners.
+ 
+Sanjay has previously held the following roles:
+- Partner, Technology and Defence Industry at KPMG Australia
+- CEO of the Data to Decisions Cooperative Research Centre and founding Board Director of its spinout companies - Fivecast and NQRY  
+- CEO of the Defence Systems Innovation Centre
+- Head of Engineering Operations at BAE Systems
+- Operations Manager at Motorola
+- Research Scientist at Defence
+
+### Dr Simon Ng
+![Dr Simon Ng](/assets/img/conferences/2023/simon_ng.png){:class="w3-circle w3-right"}
+*Chief Technology Officer, Trusted Autonomous Systems*
+
+Simon is Chief Technology Officer at TAS. Graduating from Monash University with a PhD in 1998, he completed a Post-Doctoral Fellowship at CSIRO before joining DSTG, where he developed techniques for military operations experimentation, and applied systems methods to surveillance and response, space operations and autonomous aerial systems. He was previously DSTG Group Leader for the Joint Systems Analysis and Aerial Autonomous Systems Groups, and Associate Director of the Defence Science Institute. He is Australia’s National Lead on The Technical Cooperation Program Technical Panel "UAS Integration into the Battlespace", and is a Graduate of the Australian Institute of Company Directors.
+
 ## Technical Program
 TBD.
 
@@ -110,7 +130,8 @@ Conference dinner is planned for Wednesday evening, 6pm.
 ## Sponsors
 
 {:class="w3-center"}
-[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}{:style="min-width:250px;"}](https://rgbassurance.com.au/){:target="_blank"}
+[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}{:class="w3-padding"}{:style="min-width:350px;"}](https://rgbassurance.com.au/){:target="_blank"}
+[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}{:class="w3-padding"}{:style="min-width:250px;"}](https://dedicatedsystems.com.au/){:target="_blank"}
 
 {:class="w3-center"}
 [![ACS](/assets/img/sponsors/acs.png){:width="25%"}{:style="min-width:200px;"}](https://www.acs.org.au/){:target="_blank"}
