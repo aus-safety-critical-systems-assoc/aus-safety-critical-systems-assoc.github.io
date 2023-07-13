@@ -115,7 +115,7 @@ Sanjay has previously held the following roles:
 Simon is Chief Technology Officer at TAS. Graduating from Monash University with a PhD in 1998, he completed a Post-Doctoral Fellowship at CSIRO before joining DSTG, where he developed techniques for military operations experimentation, and applied systems methods to surveillance and response, space operations and autonomous aerial systems. He was previously DSTG Group Leader for the Joint Systems Analysis and Aerial Autonomous Systems Groups, and Associate Director of the Defence Science Institute. He is Australia’s National Lead on The Technical Cooperation Program Technical Panel "UAS Integration into the Battlespace", and is a Graduate of the Australian Institute of Company Directors.
 
 ### Jane MacMaster
-![Jane MacMaster](/assets/img/conferences/2023/jane_macmaster.png){:class="w3-circle w3-right"}
+![Jane MacMaster](/assets/img/conferences/2023/jane_macmaster_sm.png){:class="w3-circle w3-right"}
 *Chief Engineer, Engineers Australia*
 
 Jane MacMaster has worked as an aerospace, mechanical and systems design engineer in Australia and internationally, focusing primarily on supersonic flight vehicle design, operations research and rapid prototyping in the Defence and cyber security sectors. 
