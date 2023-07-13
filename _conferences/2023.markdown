@@ -67,13 +67,13 @@ All fees as listed above are in Australian Dollars and GST inclusive. For questi
 ## Keynotes
 
 ### Associate Professor Robyn Clay-Williams
-![Associate Professor Robyn Clay-Williams](/assets/img/conferences/2023/robyn_clay_williams.png){:class="w3-circle w3-right"}
+![Associate Professor Robyn Clay-Williams](/assets/img/conferences/2023/robyn_clay_williams.png){:class="w3-circle w3-right w3-padding"}
 *Centre for Healthcare Resilience & Implementation Science (CHRIS), Macquarie University*
 
 Associate Professor Robyn Clay-Williams is an internationally regarded health services researcher and a leading exponent of human factors and resilient systems. Her expertise is in creating health services and systems that can function effectively in the presence of complexity and uncertainty. Her research bridges the gap between theory and practice, by developing products and processes that are usable and ready for implementation. Robyn has published extensively, with over 240 peer-reviewed academic outputs. At the Australian Institute of Health and Innovation, Macquarie University, Robyn leads a research program in developing new models of care to improve hospital Emergency Department performance, and patient experience and outcomes.
 
 ### Professor Jill Slay
-![Professor Jill Slay](/assets/img/conferences/2023/jill_slay.png){:class="w3-circle w3-right"}
+![Professor Jill Slay](/assets/img/conferences/2023/jill_slay.png){:class="w3-circle w3-right w3-padding"}
 *UniSA SmartSat Professorial Chair in Cyber Security*
 
 Professor Jill Slay is currently the University of South Australia SmartSat Professorial Chair in Cybersecurity and researches in  the SmartSat Australian Co-operative Research Centre (CRC). Her current work focuses on the context of satellite cybersecurity and resilience.  She has been an Affiliate Faculty member with Professor Corey Schou at Idaho State University for nearly twenty years.  She has published  more than 140 outputs in information assurance, critical infrastructure protection, security and forensic computing.  She has completed the supervision of 20 PhDs and many Masters and Honours theses and has been awarded over AUD 5 million in research income.has established an international research reputation in cyber security (particularly Digital Forensics, Cyber Intelligence and Cyberwarfare) and has worked in collaboration with the Australian Federal and State governments and with many industry partners.  
@@ -85,7 +85,7 @@ Jill was in 2017-2019 Director of Cyber Resilience Initiatives for the Australia
 Jill was made a Member of the Order of Australia (AM) for service to the information technology industry through contributions in the areas of forensic computer science, security, protection of infrastructure and cyber-terrorism.  She a Fellow of ISC2 awarded for her service to the information security industry.
 
 ### Professor Anjum Naweed
-![Professor Anjum Naweed](/assets/img/conferences/2023/anjum_naweed.png){:class="w3-circle w3-right"}
+![Professor Anjum Naweed](/assets/img/conferences/2023/anjum_naweed.png){:class="w3-circle w3-right w3-padding"}
 *School of Health, Medical and Applied Sciences, Appleton Institute, CQUniversity*
 
 Professor Anjum Naweed is an applied researcher and Certified Professional Ergonomist. He is internationally regarded for his applied and theoretical advancements in transport human factors. Anjum’s research interests include complex decision-making and knowledge representation in skilled work, job design, creative and cultural applications of simulation, safety science, and systems thinking. His expertise is in understanding the relationship between people, technologies, tools, environments, and systems, and practically translating this across the complex domains.
@@ -95,7 +95,7 @@ Professor Anjum Naweed is an applied researcher and Certified Professional Ergon
 ​Anjum’s research has received numerous accolades. In 2012, he was awarded the Body of Knowledge prize from Simulation Australasia and the John Lane Award from the Human Factors and Ergonomics Society of Australia (HFESA). He has twice been a recipient of Vice-Chancellor’s Award for Outstanding Researcher of the Year (2013; 2018), recognising his excellence in research activity, publication, and engagement. In 2022, he received the Simulation Achievement Award for clear and unambiguous, outstanding contributions to science, technology, and education, and Simulation Australia’s Lifetime Membership Award.
 
 ### Dr Sanjay Mazumdar
-![Dr Sanjay Mazumdar](/assets/img/conferences/2023/sanjay_mazumdar.png){:class="w3-circle w3-right"}
+![Dr Sanjay Mazumdar](/assets/img/conferences/2023/sanjay_mazumdar.png){:class="w3-circle w3-right w3-padding"}
 *Executive Director, Defence Trailblazer*
 
 Dr Sanjay Mazumdar is a proven chief executive and board director who has ~30 years of experience in the defence, national security and ICT sectors. Sanjay is the Executive Director of the Defence Trailblazer, a $240 million enterprise powered by the University of Adelaide and UNSW, with funding from the Australian Government through the Trailblazer Universities Program, as well as university and industry partners.
@@ -109,13 +109,13 @@ Sanjay has previously held the following roles:
 - Research Scientist at Defence
 
 ### Dr Simon Ng
-![Dr Simon Ng](/assets/img/conferences/2023/simon_ng.png){:class="w3-circle w3-right"}
+![Dr Simon Ng](/assets/img/conferences/2023/simon_ng.png){:class="w3-circle w3-right w3-padding"}
 *Chief Technology Officer, Trusted Autonomous Systems*
 
 Simon is Chief Technology Officer at TAS. Graduating from Monash University with a PhD in 1998, he completed a Post-Doctoral Fellowship at CSIRO before joining DSTG, where he developed techniques for military operations experimentation, and applied systems methods to surveillance and response, space operations and autonomous aerial systems. He was previously DSTG Group Leader for the Joint Systems Analysis and Aerial Autonomous Systems Groups, and Associate Director of the Defence Science Institute. He is Australia’s National Lead on The Technical Cooperation Program Technical Panel "UAS Integration into the Battlespace", and is a Graduate of the Australian Institute of Company Directors.
 
 ### Jane MacMaster
-![Jane MacMaster](/assets/img/conferences/2023/jane_macmaster_sm.png){:class="w3-circle w3-right"}
+![Jane MacMaster](/assets/img/conferences/2023/jane_macmaster_sm.png){:class="w3-circle w3-right w3-padding"}
 *Chief Engineer, Engineers Australia*
 
 Jane MacMaster has worked as an aerospace, mechanical and systems design engineer in Australia and internationally, focusing primarily on supersonic flight vehicle design, operations research and rapid prototyping in the Defence and cyber security sectors. 
