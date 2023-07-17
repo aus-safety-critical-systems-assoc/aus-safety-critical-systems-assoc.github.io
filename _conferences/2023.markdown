@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## Submit a Paper
+
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
 
 The theme for the 2023 conference is “Closing the Loop: Incorporating Humans into Systems”. With systems growing increasingly complex, we are exploring the role of Humans in modern systems, particularly the contribution of Humans to System Safety and Cybersecurity. As systems are starting to incorporate more artificial intelligence, machine learning, autonomous agents, etc., we are exploring the changing role of the human element: when should humans be in-the-loop, on-the-loop, or out-of-the-loop?
@@ -17,7 +18,10 @@ Topics of interest include, but are not limited to, systems engineering, safety 
 
 The 2023 ASSC would like to examine and share the latest thinking on the state of the art and its fitness for purpose. We invite research papers and project experience to present and engage.
 
-### ​Topics of Interest
+{:class="w3-center"}
+[View Call For Papers](/assets/docs/conferences/2023/ASSC%202023%20Call%20For%20Papers.pdf){:class="w3-button w3-theme"}
+
+### Topics of Interest
 
 The conference invites original and unpublished works that advance the state-of-the-art in safety and security considerations for the development and operation of safety and security critical systems. We are particularly interested in cross-industry and cross-pollenisation, and looking for papers in:
 - Medicine and health (medical devices, e-health systems, etc.)
@@ -38,11 +42,12 @@ Both types of papers are published on the conference website, and if sufficient 
 ### Submission
 - Abstracts should be approximately 250 words.
 - For delegates who optionally submit a full paper - papers should be no more than 10 pages.
-- Paper submissions can be emailed to [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au)
+- A paper template is [available here](/assets/docs/conferences/2023/ASSC%202023%20Template.rtf).
+- Paper submissions can be emailed to [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
 
 ### Important Dates
-- Abstract: **30th June 2023** (text, rtf, MS-Word or pdf) 
-- Submission: **25th Aug 2023** (rtf, MS-Word or pdf) 
+- Abstract: **30th June 2023** (text, rtf, MS-Word or pdf)
+- Submission: **25th Aug 2023** (rtf, MS-Word or pdf)
 - Camera-ready copy: **13th Oct 2023** (pdf only)
 
 ### Best Paper Award (New)
