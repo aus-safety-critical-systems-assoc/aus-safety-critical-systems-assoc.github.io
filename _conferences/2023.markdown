@@ -176,10 +176,12 @@ Conference dinner is planned for Wednesday evening, 6pm.
 
 {:class="w3-center"}
 [![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}{:class="w3-padding"}{:style="min-width:350px;"}](https://rgbassurance.com.au/){:target="_blank"}
+[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}{:class="w3-padding"}{:style="min-width:250px;"}](https://www.novasystems.com/){:target="_blank"}
 [![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}{:class="w3-padding"}{:style="min-width:250px;"}](https://dedicatedsystems.com.au/){:target="_blank"}
 
 {:class="w3-center"}
-[![ACS](/assets/img/sponsors/acs.png){:width="25%"}{:style="min-width:200px;"}](https://www.acs.org.au/){:target="_blank"}
+[![KJR](/assets/img/sponsors/kjr.png){:width="20%"}{:class="w3-padding"}{:style="min-width:250px;"}](https://kjr.com.au/){:target="_blank"}
+[![ACS](/assets/img/sponsors/acs.png){:width="25%"}{:class="w3-padding"}{:style="min-width:250px;"}](https://www.acs.org.au/){:target="_blank"}
 
 {:class="w3-center"}
 [Become a Sponsor](/sponsorship){:class="w3-button w3-theme"}
