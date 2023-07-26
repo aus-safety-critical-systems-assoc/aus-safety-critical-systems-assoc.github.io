@@ -139,11 +139,11 @@ She is a director on the Board of the Australian Council of Professions.
 | 09:00 | 10:00 | (**Keynote**) Professor Anjum Naweed |   |
 | 10:00 | 10:40 | Teddy Zvidza (Nova Systems) | *Ensuring Safety in Human Off the Loop (HOTL) Uncrewed Aircraft Systems (UAS)* |
 | 10:40 | 11:00 | *Break* | |
-| 11:00 | 12:00 | (**Keynote**) Associate Professor Robyn Clay-Williams | New technology and healthcare: is it safe? Can a human factors approach help to make it safer? |
+| 11:00 | 12:00 | (**Keynote**) Associate Professor Robyn Clay-Williams | *New technology and healthcare: is it safe? Can a human factors approach help to make it safer?* |
 | 12:00 | 13:00 | *Lunch* | |
-| 13:00 | 14:00 | (**Keynote**) Dr Simon Ng | Trusted Autonomous Systems |
+| 13:00 | 14:00 | (**Keynote**) Dr Simon Ng |  |
 | 14:00 | 14:40 | Drew Hammond & Mark Pedersen (KJR) | *Drones and merging AL and ML technologies* |
-| 14:40 | 14:50 | *Sponsors* | |
+| 14:40 | 14:50 | (*Sponsor*) Nova Systems | |
 | 14:50 | 15:10 | *Break* | |
 | 15:10 | 15:50 | Andrew Hussey (Hitachi Rail) | *Human factors in the context of EN50128* |
 | 15:50 | 16:30 | Andy Gabler (Acmena) | *Quantifying human reliability in safety analysis – How useful is it?* |
@@ -152,16 +152,18 @@ She is a director on the Board of the Australian Council of Professions.
 ### Thursday, 19th Oct
 
 | **Start** | **End** | **Session** | **Title** |
-| 08:45 | 09:00 | Welcome | |
-| 09:00 | 10:00 | (**Keynote**) Professor Jill Slay | Space Systems Cyber Security |
+| 08:45 | 08:50 | Welcome | |
+| 08:50 | 09:00 | (*Sponsor*) Dedicated Systems | |
+| 09:00 | 10:00 | (**Keynote**) Professor Jill Slay | *Space Systems Cyber Security* |
 | 10:00 | 10:40 | Ben Luther (Nova Systems) | *Scoping safety domains* |
 | 10:40 | 11:00 | *Break* | |
 | 11:00 | 12:00 | (**Keynote**) Dr Sanjay Mazumdar |   |
 | 12:00 | 13:00 | *Lunch* | |
 | 13:00 | 14:00 | (**Keynote**) Jane MacMaster |   |
-| 14:00 | 14:40 | Dr. Clive Boughton (Software Improvements), David McIver & John Salerno (Dedicated Systems) | *Electronic Voting & Counting System (eVACS)* |
-| 14:40 | 14:50 | *Sponsors* | |
-| 14:50 | 15:00 | Closing | |
+| 14:00 | 14:10 | (*Sponsor*) KJR | |
+| 14:10 | 14:50 | Dr. Clive Boughton<br>(Software Improvements), <br>David McIver & John Salerno<br>(Dedicated Systems) | *Electronic Voting & Counting System (eVACS)* |
+| 14:50 | 15:00 | (*Sponsor*) RGB Assurance | |
+| 15:00 | 15:00 | Closing | |
 
 ## Venues
 
