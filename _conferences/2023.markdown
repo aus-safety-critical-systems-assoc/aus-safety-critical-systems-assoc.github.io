@@ -1,6 +1,7 @@
 ---
 title: ASSC 2023
 date: 2023-10-18
+conference_date: 18-19 October 2023
 location: Adelaide, SA
 theme: "Closing the Loop: Incorporating Humans into Systems"
 description: "Australian System Safety Conference 2023 | Adelaide, SA | Closing the Loop: Incorporating Humans into Systems"

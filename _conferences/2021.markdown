@@ -1,6 +1,7 @@
 ---
 title: ASSC 2021
 date: 2021-06-02
+conference_date: 2-4 June 2021
 location: Virtual
 theme: "Complex Systems: Can We Keep It Safe Anymore?"
 redirect_from:

@@ -1,6 +1,7 @@
 ---
 title: ASSC 2022
 date: 2022-05-26
+conference_date: 26-27 May 2022
 location: Melbourne, VIC
 theme: "Assurance of Artificial Intelligence"
 redirect_from:

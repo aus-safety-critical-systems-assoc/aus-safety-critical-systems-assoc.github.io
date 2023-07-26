@@ -1,6 +1,7 @@
 ---
 title: ASSC 2018
 date: 2018-05-23
+conference_date: 23-24 May 2018
 location: Melbourne, VIC
 theme: "Strengthening and Integrating System Safety Engineering for Australia's future"
 redirect_from:
