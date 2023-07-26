@@ -21,13 +21,13 @@ title: aSCSa
   <a href="{{ next_conference.url }}" class="w3-col w3-third w3-padding">
     <i class="fa fa-calendar w3-jumbo w3-text-theme"></i>
     <p class="w3-large w3-text-theme">Next Conference</p>
-    <p><b class="w3-text-theme-dark">{{ next_conference.title }}</b><br>{{ next_conference.date | date_to_long_string }} | {{ next_conference.location }}</p>
+    <p><b class="w3-text-theme-dark">{{ next_conference.title }}</b><br>{{ next_conference.conference_date }} | {{ next_conference.location }}</p>
   </a>
   {% assign last_conference = site.conferences[-2] %}
   <a href="{{ last_conference.url }}" class="w3-col w3-third w3-padding">
     <i class="fa fa-history w3-jumbo w3-text-theme"></i>
     <p class="w3-large w3-text-theme">Last Conference</p>
-    <p><b class="w3-text-theme-dark">{{ last_conference.title }}</b><br>{{ last_conference.date | date_to_long_string }} | {{ last_conference.location }}</p>
+    <p><b class="w3-text-theme-dark">{{ last_conference.title }}</b><br>{{ last_conference.conference_date }} | {{ last_conference.location }}</p>
   </a>
   {% assign latest_newsletter = site.newsletters[-1] %}
   <a href="{{ latest_newsletter.url }}" class="w3-col w3-third w3-padding">

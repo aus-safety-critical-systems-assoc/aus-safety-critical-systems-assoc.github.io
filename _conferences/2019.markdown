@@ -1,6 +1,7 @@
 ---
 title: ASSC 2019
 date: 2019-05-22
+conference_date: 22-24 May 2019
 location: Brisbane, QLD
 theme: "How can we be Artificially Safe?"
 redirect_from:

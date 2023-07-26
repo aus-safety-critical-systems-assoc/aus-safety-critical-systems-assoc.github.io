@@ -1,6 +1,7 @@
 ---
 title: ASSC 2017
 date: 2017-06-01
+conference_date: 1-2 June 2017
 location: Sydney, NSW
 theme: "Celebrating 25 Years"
 redirect_from:
