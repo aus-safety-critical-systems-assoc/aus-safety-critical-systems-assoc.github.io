@@ -157,7 +157,7 @@ She is a director on the Board of the Australian Council of Professions.
 | 08:50 | 09:00 | (*Sponsor*) Dedicated Systems | |
 | 09:00 | 10:00 | (**Keynote**) Professor Jill Slay | *Space Systems Cyber Security* |
 | 10:00 | 10:35 | Ben Luther (Nova Systems) | *Scoping safety domains* |
-| 10:40 | 11:00 | *Break* | |
+| 10:35 | 11:00 | *Break* | |
 | 11:00 | 12:00 | (**Keynote**) Dr Sanjay Mazumdar |   |
 | 12:00 | 13:00 | *Lunch* | |
 | 13:00 | 14:00 | (**Keynote**) Jane MacMaster |   |
