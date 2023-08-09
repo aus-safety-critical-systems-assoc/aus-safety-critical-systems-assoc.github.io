@@ -162,7 +162,7 @@ She is a director on the Board of the Australian Council of Professions.
 | 12:00 | 13:00 | *Lunch* | |
 | 13:00 | 14:00 | (**Keynote**) Jane MacMaster |   |
 | 14:00 | 14:10 | (*Sponsor*) KJR | |
-| 14:10 | 14:45 | Dr. Clive Boughton<br>(Software Improvements), <br>David McIver & John Salerno<br>(Dedicated Systems) | *Electronic Voting & Counting System (eVACS)* |
+| 14:10 | 14:45 | Dr. Clive Boughton<br>(Software Improvements), <br>David McIver & John Salerno<br>(Dedicated Systems) | *The Importance of Human Factors and Security in Electronic Voting* |
 | 14:45 | 14:55 | (*Sponsor*) RGB Assurance | |
 | 14:55 | 15:00 | Closing | |
 
