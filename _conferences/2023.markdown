@@ -143,7 +143,7 @@ She is a director on the Board of the Australian Council of Professions.
 | 11:50 | 12:00 | (*Sponsor*) Nova Systems | |
 | 12:00 | 13:00 | *Lunch* | |
 | 13:00 | 14:00 | (**Keynote**) Dr Simon Ng |  |
-| 14:00 | 14:35 | Dr Kelvin Ross |  |
+| 14:00 | 14:35 | Dr Kelvin Ross | *Validation Driven Machine Learning* |
 | 14:35 | 14:55 | *Break* | |
 | 14:55 | 15:30 | Andrew Hussey (Hitachi Rail) | *Human factors in the context of EN50128* |
 | 15:30 | 16:05 | Andy Gabler (Acmena) | *Quantifying human reliability in safety analysis – How useful is it?* |
