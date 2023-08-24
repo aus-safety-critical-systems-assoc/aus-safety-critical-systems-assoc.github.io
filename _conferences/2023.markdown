@@ -143,7 +143,7 @@ She is a director on the Board of the Australian Council of Professions.
 | 11:50 | 12:00 | (*Sponsor*) Nova Systems | |
 | 12:00 | 13:00 | *Lunch* | |
 | 13:00 | 14:00 | (**Keynote**) Dr Simon Ng |  |
-| 14:00 | 14:35 | Drew Hammond & Mark Pedersen (KJR) | *Drones and merging AL and ML technologies* |
+| 14:00 | 14:35 | Dr Kelvin Ross | *Validation Driven Machine Learning* |
 | 14:35 | 14:55 | *Break* | |
 | 14:55 | 15:30 | Andrew Hussey (Hitachi Rail) | *Human factors in the context of EN50128* |
 | 15:30 | 16:05 | Andy Gabler (Acmena) | *Quantifying human reliability in safety analysis – How useful is it?* |
@@ -161,7 +161,7 @@ She is a director on the Board of the Australian Council of Professions.
 | 11:00 | 12:00 | (**Keynote**) Dr Sanjay Mazumdar |   |
 | 12:00 | 13:00 | *Lunch* | |
 | 13:00 | 14:00 | (**Keynote**) Jane MacMaster |   |
-| 14:00 | 14:10 | (*Sponsor*) KJR | |
+| 14:00 | 14:10 | (*Sponsor*) KJR | *Drones and merging AL and ML technologies* |
 | 14:10 | 14:45 | Dr. Clive Boughton<br>(Software Improvements), <br>David McIver & John Salerno<br>(Dedicated Systems) | *The Importance of Human Factors and Security in Electronic Voting* |
 | 14:45 | 14:55 | (*Sponsor*) RGB Assurance | |
 | 14:55 | 15:00 | Closing | |
