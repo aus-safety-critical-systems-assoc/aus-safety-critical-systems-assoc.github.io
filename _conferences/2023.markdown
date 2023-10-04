@@ -136,7 +136,7 @@ She is a director on the Board of the Australian Council of Professions.
 
 | **Start** | **End** | **Session** | **Title** |
 | 08:45 | 08:55 | Welcome | |
-| 08:55 | 09:55 | (**Keynote**) Professor Anjum Naweed |   |
+| 08:55 | 09:55 | (**Keynote**) Professor Anjum Naweed | *Navigating Complexity: The Changing Dynamics of Humans in Rail Systems* |
 | 09:55 | 10:30 | Teddy Zvidza (Nova Systems) | *Ensuring Safety in Human Off the Loop (HOTL) Uncrewed Aircraft Systems (UAS)* |
 | 10:30 | 10:50 | *Break* | |
 | 10:50 | 11:50 | (**Keynote**) Associate Professor Robyn Clay-Williams | *New technology and healthcare: is it safe? Can a human factors approach help to make it safer?* |
