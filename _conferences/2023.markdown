@@ -145,7 +145,7 @@ She is a director on the Board of the Australian Council of Professions.
 | 13:00 | 14:00 | (**Keynote**) Jane MacMaster |  |
 | 14:00 | 14:35 | Dr Kelvin Ross | *Validation Driven Machine Learning (VDML): A Systematic Approach to ML Model Training and Validation* |
 | 14:35 | 14:55 | *Break* | |
-| 14:55 | 15:30 | Andrew Hussey (Hitachi Rail) | *Human factors in the context of EN50128* |
+| 14:55 | 15:30 | Martin Hughes (Hitachi Rail) | *Human factors in the context of EN50128* |
 | 15:30 | 16:05 | Andy Gabler (Acmena) | *Quantifying human reliability in safety analysis – How useful is it?* |
 | 16:05 | 16:40 | Ray Feodoroff | *Human Orientedness of System Safety* |
 | 16:40 | 17:15 | Kevin Anderson | *A multi-discipline approach to keeping humans in the loop* |
