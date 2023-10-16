@@ -1,0 +1,118 @@
+---
+title: ASSC 2023 Technical Program
+date: 2023-10-18
+conference_date: 18-19 October 2023
+location: Adelaide, SA
+---
+
+**Presenters:**
+* toc
+{:toc}
+
+## Professor Anjum Naweed
+**Keynote:** *Navigating Complexity: The Changing Dynamics of Humans in Rail Systems*
+
+## Teddy Zvidza
+(Nova Systems)
+
+Title: *Ensuring Safety in Human Off the Loop (HOTL) Uncrewed Aircraft Systems (UAS)*
+
+Autonomous systems bring enormous technological potential to a range of industries. They enable capability advantages that were previously seen as impossible in the past. The aviation industry is not immune from this technological change. In recent times there has been a rise in the use of autonomous or Uncrewed Aircraft Systems (UAS). They are remotely piloted with some human interaction during flight, known as Human in the loop (HITL) or they are fully autonomous with minimal human interaction during flight, known as Human Out of the Loop (HOTL). This paper will explore some of the methods used to assure safety in a HOTL UAS. Ensuring safety in a HOTL UAS is essential as it reduces the likelihood of accidents and ensures that calculated risk measures are implemented from the preliminary design phase of a UAS. These measures also inform UAS Safety Programs when identifying potential hazards in UAS design and future operations. Examples of UAS that have implemented some of these measures will be discussed, as well as some of the technological gaps in areas of detection and avoidance of UAS with other aircraft systems. This paper also presents the benefits of HOTL UAS whilst acknowledging that importance of human oversight in exceptional circumstances. An overview of existing and proposed frameworks on the Levels of Autonomy (LoA) for UAS will also be reviewed.
+
+## Associate Professor Robyn Clay-Williams
+**Keynote:** *New technology and healthcare: is it safe? Can a human factors approach help to make it safer?*
+
+Our health systems are already overburdened, with crowded hospitals and Emergency Departments and increasingly long waits for ambulances or to see a general practitioner. Yet demand is forecast to grow significantly over the coming decades. With increasing capability of technology, particularly in AI and healthcare apps, eHealth medication and management systems, the ability to deliver care remotely through virtual modes, and the rise of integrated care delivery, will this be the answer to our woes? And if so, where does responsibility for safety lie as we start to remove humans from the loop? This presentation will discuss the application of a human factors approach to implementation of technology in complex systems, using practical examples from healthcare as an illustration, and highlight potential safety pitfalls associated with adoption of AI and healthcare apps, eHealth and virtual care, and how to avoid them. While anchored in healthcare, the concepts presented are likely to also be useful for other industries where rapid introduction of new technology is creating additional system complexity.
+
+## Jane MacMaster
+**Keynote:** *The rapidly changing nature of critical systems and the rise of complexity, systems, data and AI - opportunities, challenges and the importance of people*
+
+As our world becomes increasingly reliant on systems to deliver social and economic outcomes and as these systems become increasingly interconnected and more sophisticated, there is a corresponding rise in both the opportunities and challenges arising from these (largely) technological advances.
+
+This presentation explores:
+- in this age of technology and systems proliferation, what are we aiming for?
+- the importance of systems engineering, complexity science, data, AI and (cascading) risk and how people are critical to the realisation of the opportunities and the mitigation of risks that are emerging
+- people – our greatest asset and biggest risk – critical literacies and fallibilities and the future workforce
+- the current status of the STEM workforce and STEM education in Australia
+- What next? … suggested priorities for government(s), industry, the education sector and individuals
+
+## Dr Kelvin Ross
+Title: *Validation Driven Machine Learning (VDML): A Systematic Approach to ML Model Training and Validation*
+
+Validation Driven Machine Learning (VDML) is a methodology developed by KJR to guide development of robust and reliable Machine Learning (ML) models. VDML emphasises understanding the limitations of both models and data, and uses iterative validation methods to guide and assess ML model behaviour.
+
+This seminar will provide an overview of the VDML methodology, its integration with DataOps and MLOps workflows, and its application in addressing unique challenges and uncertainties in systems employing ML. Dr. Ross will discuss the four key stages of VDML: problem formulation, validation analysis, model optimization, and production integration. He will also elaborate on how VDML iterates through train/test as validation/optimisation cycles during core model development, and how this approach helps in realising models with sufficient performance and behaviour, while addressing business requirements and other expected quality characteristics.
+
+Ultimately, VDML provides a comprehensive framework designed to tackle the accuracy and reliability challenges associated with ML and autonomous systems, emphasising iterative model improvement, continuous evaluation, and fine-tuning throughout the system's lifecycle.
+
+This seminar will be invaluable for professionals and researchers involved in ML, autonomous systems, and safety-critical applications.
+
+## Martin Hughes
+(Hitachi Rail)
+
+Title: *Human factors in the context of EN50128*
+
+Software-based Systems are typically complex and the process to develop such systems therefore requires rigour and professional discipline to be applied to minimise error and rework. In the railway domain, the standard EN50128 has been developed, based on IEC 61508-3, to aid the development of Software Systems for Railway applications. Although EN50128 is widely used, there are few empirical studies of the efficacy of the standard in helping to manage complexity or reduce error and rework. EN50128 has also been used to guide Software development at Hitachi Rail. We examine an Industrial Case Study involving the application of EN50128 to a Basic Integrity Railway Software System. The Case Study is a part of the Train Control System deployed by Hitachi for several clients. We consider techniques applied in accordance with EN50128, as well as what was considered by the team applying them as giving the most benefit. We also consider limitations that were identified and suggest some possible improvements to our approach for the future.
+
+## Andy Gabler
+(Acmena)
+
+Title: *Quantifying human reliability in safety analysis – How useful is it?*
+
+Humans play an important role in systems either by operating or maintaining parts of it, or by being users of a product or service and so in some ways are always involved “in the loop.” As such the reliability of a human to perform their required tasks should always be considered when performing a safety analysis. In this paper the authors explore how to assess the reliability of a human in the loop and how we can use that assessment to support safety arguments. The two case studies explored in this paper are adapted from current and past projects.
+
+Both describe the introduction of new systems into a control centre to support a safety critical task performed by human operators. In these case studies the authors identify key operator errors which highlight areas where engineering controls, including automation, are of greater benefit than purely administrative processes. The paper concludes with a set of principles and caveats that should be followed to ensure that human reliability analysis informs the system design, operation and maintenance procedures and training needs.
+
+## Ray Feodoroff
+Title: *Human Orientedness of System Safety*
+
+This paper is a research proposal, really looking at whether there is impetus to investigate a harmonising of ideas across several research areas. Ultimately this is to investigate the best means of weaving assurance reasoning into graphical requirements and design notations. The basis for this approach is a recurring emphasis on goal-orientation over the last 20 or more years of the class Leveson has described as “human centric”. This paper is a first step, to look for the theoretical basis for that graphical approach.
+
+## Professor Jill Slay
+**Keynote:** *Space Systems Cyber Security*
+
+A second space race has taken off and it is driving the rapid deployment of modernised satellites and other space systems that each introduce new security risks to an aged and already vulnerable ecosystem. The engineering, science, and technology aspects of space security are currently understudied and disjointed, leading to fragmented research and inconsistent terminology. This paper details the results of a global survey of space security experts to define Space Systems Security and the scope of its interdisciplinary knowledge domain. It also provides a review of current space security literature and examines the contemporary space systems context from a security perspective.
+
+## Ben Luther
+(Nova Systems)
+
+Title: *Scoping safety domains*
+
+All around the world, intra-organisational battles rage for political influence and resources. This is not necessarily a bad thing – it can be part of continuous renewal and optimisation in organisations. Included in this are deliberate management decisions to cut superseded activity and duplication. But, two particularly tribal areas of organisations lay claim to what appears superficially, to be the same function. These are the Industrial Safety, and, System Safety communities, both laying claim to the term safety. As systems evolve to be clear and complicated, these two tribes go to war. While Industrial Safety carries the weight of the law, System Safety is regulated. All the while, managers want to rationalise them since, "aren’t they duplicating safety?"
+
+Underlying the problem is the single English word safety. For this, a Cyenfin lens distinguishes the attributes of underlying systems, to see that the two tribes do different things. Industrial Safety is most effective in Clear systems with short time durations to preclude third parties getting involved. “My hammer, my thumb, my feedback loop.” System Safety is most effective in Complicated systems when extended time durations admit third parties, like passengers on commercial air transport. A high-vis jacket isn’t going to help in the cockpit, but a reliable engine will. For both these domains, statistical approaches work because adverse incidents occur frequently enough to gather meaningful data.
+
+The interesting part of the research has been extension to the Complex domain. With the evolution of systems to be complex, the wider plane becomes apparent and statistical approaches are no longer appropriate with only a single data point. This is the realm of experimental flight test, where the research was conducted. But it is also the realm of AI and innovation.
+
+With safety being the special case of risk with a consequence that is adverse to human health, this research is for Risk Managers of systems that span the Clear, Complicated and Complex domains. It provides a unifying framework, enabling efficient scoping of existing tools to where they are effective. It avoids holes in risk management when a domain would be falsely rationalised away in pursuit of management efficiency. Ideally, it will calm the tribes.
+
+## Dr Sanjay Mazumda
+**Keynote:** *Strengthening Australia’s Defence Capabilities Through Defence Trailblazer*
+
+The Defence Trailblazer was established in late 2022 to strengthen Australia’s defence capabilities with cutting edge technologies and solutions, while equipping the next generation of innovators with specialised knowledge and skills to meet the needs of defence. In partnership with the University of Adelaide, the University of New South Wales, 50+ Industry Partners and with the support of the Commonwealth Department of Education, the initiative is focussing on technology development in areas such as:
+- Quantum Materials, Technologies & Computing
+- Information Warfare & Advanced Cyber Technologies
+- Defence Space Technologies
+- Defensive Hypersonics & Countermeasures
+- Robotics, Autonomous Systems & AI
+
+Many of the projects will be targeted towards high priority mission-critical defence needs and will be leveraging evolving technologies like AI and autonomous systems. This opens up challenges around trust, ethics, data privacy and cyber security. This presentation will provide an overview of the Defence Trailblazer and explore how these topics may influence and impact on the technology development agenda.
+
+## Dr Simon Ng
+**Keynote:** *Trusted Autonomous Systems*
+
+## Dr. Clive Boughton, David McIver, & John Salerno
+(Software Improvements & Dedicated Systems)
+
+Title: *The Importance of Human Factors and Security in Electronic Voting*
+
+During the last ACT Legislative Assembly (ACT-LA) election 70% of voters in the 5 electorates in Canberra, Australia, chose to vote electronically in preference to paper ballots.  This outcome is a clear demonstration of the trust that has been built by the ACT Electoral Commission since their Electronic Voting & Counting System (eVACS®) was first developed in 2001.
+
+Over the last 20 years eVACS has undergone substantial modifications in line with the evolving requirements of modern elections.  Before the 2020 ACT-LA, the eVACS system was upgraded to substantially improve ease of use for all users and provide increased security and privacy as recommended via an independent study.
+
+An overview of the eVACS 2020 system is presented, highlighting how human factors were incorporated into the design and implementation of the three main components of the system, that is:
+1. Voting Clients that guide the elector through their voting choices,
+2. Polling Place Servers that ensure the control and security of the Voting Clients, and
+3. the Election Server that is used to setup the election and count votes.
+
+The mainstay of the eVACS 2020 improvements was based on the development of a multi-election type model using the Shlaer-Mellor system modelling methodology to deliver a trial voting system (generated in Ada) for the blind and vision-impaired (BVI) to the Australian Electoral Commission for use in the 2007 Federal Election.  Effective system modelling provides many advantages over traditional development, and when combined with Ada delivers contextually robust systems.
