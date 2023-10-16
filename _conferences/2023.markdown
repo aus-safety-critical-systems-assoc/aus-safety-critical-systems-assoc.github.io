@@ -132,9 +132,6 @@ She is a director on the Board of the Australian Council of Professions.
 
 ## Technical Program
 
-{:class="w3-center"}
-[View Full Program](./program){:class="w3-button w3-theme"}
-
 ### Program Overview
 
 | | **Start** | **End** | **Session** | **Title** |
@@ -162,6 +159,9 @@ She is a director on the Board of the Australian Council of Professions.
 | | 14:10 | 14:45 | Dr. Clive Boughton<br>(Software Improvements), <br>David McIver & John Salerno<br>(Dedicated Systems) | *The Importance of Human Factors and Security in Electronic Voting* |
 | | 14:45 | 14:55 | (*Sponsor*) RGB Assurance | |
 | | 14:55 | 15:00 | Closing | |
+
+{:class="w3-center"}
+[View Full Program](./program){:class="w3-button w3-theme"}
 
 ## Venues
 
