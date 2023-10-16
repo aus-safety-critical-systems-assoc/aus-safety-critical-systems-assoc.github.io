@@ -42,6 +42,9 @@ permalink: pretty
 collections:
   conferences:
     output: true
+  programs:
+    output: true
+    permalink: /conferences/:name/program/
   newsletters:
     output: true
 
@@ -51,6 +54,11 @@ defaults:
       type: "conferences"
     values:
       layout: "conference"
+  - scope:
+      path: ""
+      type: "programs"
+    values:
+      layout: "program"
   - scope:
       path: ""
       type: "newsletters"
