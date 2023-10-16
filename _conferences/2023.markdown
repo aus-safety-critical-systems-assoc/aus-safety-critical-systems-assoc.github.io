@@ -140,8 +140,7 @@ She is a director on the Board of the Australian Council of Professions.
 | 09:55 | 10:30 | Teddy Zvidza (Nova Systems) | *Ensuring Safety in Human Out of the Loop (HOTL) Uncrewed Aircraft Systems (UAS)* |
 | 10:30 | 10:50 | *Break* | |
 | 10:50 | 11:50 | (**Keynote**) Dr Simon Ng | *Trusted Autonomous Systems* |
-| 11:50 | 12:00 | (*Sponsor*) Nova Systems | |
-| 12:00 | 13:00 | *Lunch* | |
+| 11:50 | 13:00 | *Lunch* | |
 | 13:00 | 14:00 | (**Keynote**) Jane MacMaster | *The rapidly changing nature of critical systems and the rise of complexity, systems, data and AI - opportunities, challenges and the importance of people* |
 | 14:00 | 14:35 | Dr Kelvin Ross | *Validation Driven Machine Learning (VDML): A Systematic Approach to ML Model Training and Validation* |
 | 14:35 | 14:55 | *Break* | |
