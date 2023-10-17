@@ -142,16 +142,16 @@ She is a director on the Board of the Australian Council of Professions.
 | **Start** | **End** | **Session** | **Title** |
 | 08:45 | 08:55 | Welcome | |
 | 08:55 | 09:55 | (**Keynote**) Professor Anjum Naweed | *Navigating Complexity: The Changing Dynamics of Humans in Rail Systems* |
-| 09:55 | 10:30 | Teddy Zvidza (Nova Systems) | *Ensuring Safety in Human Out of the Loop (HOTL) Uncrewed Aircraft Systems (UAS)* |
+| 09:55 | 10:30 | Teddy Zvidza (Nova Systems) | [*Ensuring Safety in Human Out of the Loop (HOTL) Uncrewed Aircraft Systems (UAS)*](/assets/docs/conferences/2023/ASSC%202023%20-%20Teddy%20Zvidza%20-%20Ensuring%20Safety%20in%20Human%20Out%20of%20the%20Loop%20(HOTL)%20Uncrewed%20Aircraft%20Systems%20(UAS).pdf){:target="_blank"} |
 | 10:30 | 10:50 | *Break* | |
 | 10:50 | 11:50 | (**Keynote**) Dr Simon Ng | *Trusted Autonomous Systems* |
 | 11:50 | 13:00 | *Lunch* | |
 | 13:00 | 14:00 | (**Keynote**) Jane MacMaster | *The rapidly changing nature of critical systems and the rise of complexity, systems, data and AI - opportunities, challenges and the importance of people* |
 | 14:00 | 14:35 | Dr Kelvin Ross | *Validation Driven Machine Learning (VDML): A Systematic Approach to ML Model Training and Validation* |
 | 14:35 | 14:55 | *Break* | |
-| 14:55 | 15:30 | Martin Hughes (Hitachi Rail) | *Human factors in the context of EN50128* |
-| 15:30 | 16:05 | Andy Gabler (Acmena) | *Quantifying human reliability in safety analysis – How useful is it?* |
-| 16:05 | 16:40 | Ray Feodoroff | *Human Orientedness of System Safety* |
+| 14:55 | 15:30 | Martin Hughes (Hitachi Rail) | [*Human factors in the context of EN50128*](/assets/docs/conferences/2023/ASSC%202023%20-%20Martin%20Hughes%20-%20An%20empirical%20study%20of%20the%20practical%20application%20of%20EN50128%20to%20Software%20Engineering.pdf){:target="_blank"} |
+| 15:30 | 16:05 | Andy Gabler (Acmena) | [*Quantifying human reliability in safety analysis – How useful is it?*](/assets/docs/conferences/2023/ASSC%202023%20-%20Andy%20Gabler%20-%20Quantifying%20Human%20Reliability%20in%20Safety%20Analysis.pdf){:target="_blank"} |
+| 16:05 | 16:40 | Ray Feodoroff | [*Human Orientedness of System Safety*](/assets/docs/conferences/2023/ASSC%202023%20-%20Ray%20Feodoroff%20-%20Human%20Orientedness%20of%20System%20Safety.pdf){:target="_blank"} |
 
 #### Thursday, 19th Oct
 
