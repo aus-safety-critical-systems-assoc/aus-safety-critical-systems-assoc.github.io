@@ -12,7 +12,7 @@ location: Adelaide, SA
 ## Professor Anjum Naweed
 **Keynote:** *Navigating Complexity: The Changing Dynamics of Humans in Rail Systems*
 
-## Teddy Zvidza
+## Teddy Zvidza &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Teddy%20Zvidza%20-%20Ensuring%20Safety%20in%20Human%20Out%20of%20the%20Loop%20(HOTL)%20Uncrewed%20Aircraft%20Systems%20(UAS).pdf" target="_blank"><i class="fa fa-download"></i></a>
 (Nova Systems)
 
 Title: *Ensuring Safety in Human Off the Loop (HOTL) Uncrewed Aircraft Systems (UAS)*
@@ -47,14 +47,14 @@ Ultimately, VDML provides a comprehensive framework designed to tackle the accur
 
 This seminar will be invaluable for professionals and researchers involved in ML, autonomous systems, and safety-critical applications.
 
-## Martin Hughes
+## Martin Hughes &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Martin%20Hughes%20-%20An%20empirical%20study%20of%20the%20practical%20application%20of%20EN50128%20to%20Software%20Engineering.pdf" target="_blank"><i class="fa fa-download"></i></a>
 (Hitachi Rail)
 
 Title: *Human factors in the context of EN50128*
 
 Software-based Systems are typically complex and the process to develop such systems therefore requires rigour and professional discipline to be applied to minimise error and rework. In the railway domain, the standard EN50128 has been developed, based on IEC 61508-3, to aid the development of Software Systems for Railway applications. Although EN50128 is widely used, there are few empirical studies of the efficacy of the standard in helping to manage complexity or reduce error and rework. EN50128 has also been used to guide Software development at Hitachi Rail. We examine an Industrial Case Study involving the application of EN50128 to a Basic Integrity Railway Software System. The Case Study is a part of the Train Control System deployed by Hitachi for several clients. We consider techniques applied in accordance with EN50128, as well as what was considered by the team applying them as giving the most benefit. We also consider limitations that were identified and suggest some possible improvements to our approach for the future.
 
-## Andy Gabler
+## Andy Gabler &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Andy%20Gabler%20-%20Quantifying%20Human%20Reliability%20in%20Safety%20Analysis.pdf" target="_blank"><i class="fa fa-download"></i></a>
 (Acmena)
 
 Title: *Quantifying human reliability in safety analysis – How useful is it?*
@@ -63,7 +63,7 @@ Humans play an important role in systems either by operating or maintaining part
 
 Both describe the introduction of new systems into a control centre to support a safety critical task performed by human operators. In these case studies the authors identify key operator errors which highlight areas where engineering controls, including automation, are of greater benefit than purely administrative processes. The paper concludes with a set of principles and caveats that should be followed to ensure that human reliability analysis informs the system design, operation and maintenance procedures and training needs.
 
-## Ray Feodoroff
+## Ray Feodoroff &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Ray%20Feodoroff%20-%20Human%20Orientedness%20of%20System%20Safety.pdf" target="_blank"><i class="fa fa-download"></i></a>
 Title: *Human Orientedness of System Safety*
 
 This paper is a research proposal, really looking at whether there is impetus to investigate a harmonising of ideas across several research areas. Ultimately this is to investigate the best means of weaving assurance reasoning into graphical requirements and design notations. The basis for this approach is a recurring emphasis on goal-orientation over the last 20 or more years of the class Leveson has described as “human centric”. This paper is a first step, to look for the theoretical basis for that graphical approach.
