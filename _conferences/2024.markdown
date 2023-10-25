@@ -1,0 +1,73 @@
+---
+title: ASSC 2024
+date: 2024-01-01
+conference_date: Date TBD
+location: Location TBD
+theme: Theme TBD
+description: "Australian System Safety Conference 2024"
+---
+
+
+## Submit a Paper
+
+The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
+
+*The theme for the 2024 conference is yet to be determined.*
+
+### Topics of Interest
+
+The conference invites original and unpublished works that advance the state-of-the-art in safety and security considerations for the development and operation of safety and security critical systems. We are particularly interested in cross-industry and cross-pollenisation, and looking for papers in:
+- Medicine and health (medical devices, e-health systems, etc.)
+- Transport
+- Defence and Aviation
+- Telecommunications
+- Energy
+- Security
+- Resource and process industries
+- Emergency services
+
+Delegates have the option of submitting two types of papers:
+1. Refereed Industry Papers by the conference program committee; or
+2. Industry Presentations (not subject to peer review).
+
+Papers and presentations are published on the conference website.
+
+### Submission
+- Abstracts should be approximately 250 words.
+- For delegates who optionally submit a full paper - papers should be no more than 10 pages.
+- A paper template is [available here](/assets/docs/conferences/2023/ASSC%202023%20Template.rtf).
+- Paper submissions can be emailed to [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
+
+### Important Dates
+- Abstract: **TBD** (text, rtf, MS-Word or pdf)
+- Submission: **TBD** (rtf, MS-Word or pdf)
+- Camera-ready copy: **TBD** (pdf only)
+
+### Best Paper Award
+The purpose of this award is to encourage research in the science of software/system engineering or the application of that science for safety and/or mission critical software-intensive systems.
+
+*Details to be announced.*
+
+## Registration
+
+*Registration details TBD.*
+
+## Keynotes
+
+*Keynotes TBD.*
+
+## Technical Program
+
+*Program TBD.*
+
+## Venues
+
+*Venue TBD.*
+
+## Sponsors
+
+{:class="w3-center"}
+[![ACS](/assets/img/sponsors/acs.png){:width="25%"}{:class="w3-padding"}{:style="min-width:250px;"}](https://www.acs.org.au/){:target="_blank"}
+
+{:class="w3-center"}
+[Become a Sponsor](/sponsorship){:class="w3-button w3-theme"}
