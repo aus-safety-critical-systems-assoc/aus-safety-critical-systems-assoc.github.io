@@ -12,14 +12,14 @@ location: Adelaide, SA
 ## Professor Anjum Naweed
 **Keynote:** *Navigating Complexity: The Changing Dynamics of Humans in Rail Systems*
 
-## Teddy Zvidza &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Teddy%20Zvidza%20-%20Ensuring%20Safety%20in%20Human%20Out%20of%20the%20Loop%20(HOTL)%20Uncrewed%20Aircraft%20Systems%20(UAS).pdf" target="_blank"><i class="fa fa-download"></i></a>
+## Teddy Zvidza &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Teddy%20Zvidza%20-%20Ensuring%20Safety%20in%20Human%20Out%20of%20the%20Loop%20(HOTL)%20Uncrewed%20Aircraft%20Systems%20(UAS).pdf" target="_blank"><i class="fa fa-file"></i></a>&nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Teddy%20Zvidza%20-%20Slides.pdf" target="_blank"><i class="fa fa-desktop"></i></a>
 (Nova Systems)
 
 Title: *Ensuring Safety in Human Off the Loop (HOTL) Uncrewed Aircraft Systems (UAS)*
 
 Autonomous systems bring enormous technological potential to a range of industries. They enable capability advantages that were previously seen as impossible in the past. The aviation industry is not immune from this technological change. In recent times there has been a rise in the use of autonomous or Uncrewed Aircraft Systems (UAS). They are remotely piloted with some human interaction during flight, known as Human in the loop (HITL) or they are fully autonomous with minimal human interaction during flight, known as Human Out of the Loop (HOTL). This paper will explore some of the methods used to assure safety in a HOTL UAS. Ensuring safety in a HOTL UAS is essential as it reduces the likelihood of accidents and ensures that calculated risk measures are implemented from the preliminary design phase of a UAS. These measures also inform UAS Safety Programs when identifying potential hazards in UAS design and future operations. Examples of UAS that have implemented some of these measures will be discussed, as well as some of the technological gaps in areas of detection and avoidance of UAS with other aircraft systems. This paper also presents the benefits of HOTL UAS whilst acknowledging that importance of human oversight in exceptional circumstances. An overview of existing and proposed frameworks on the Levels of Autonomy (LoA) for UAS will also be reviewed.
 
-## Associate Professor Robyn Clay-Williams
+## Associate Professor Robyn Clay-Williams &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Robyn%20Clay-Williams%20-%20Slides.pdf" target="_blank"><i class="fa fa-desktop"></i></a>
 **Keynote:** *New technology and healthcare: is it safe? Can a human factors approach help to make it safer?*
 
 Our health systems are already overburdened, with crowded hospitals and Emergency Departments and increasingly long waits for ambulances or to see a general practitioner. Yet demand is forecast to grow significantly over the coming decades. With increasing capability of technology, particularly in AI and healthcare apps, eHealth medication and management systems, the ability to deliver care remotely through virtual modes, and the rise of integrated care delivery, will this be the answer to our woes? And if so, where does responsibility for safety lie as we start to remove humans from the loop? This presentation will discuss the application of a human factors approach to implementation of technology in complex systems, using practical examples from healthcare as an illustration, and highlight potential safety pitfalls associated with adoption of AI and healthcare apps, eHealth and virtual care, and how to avoid them. While anchored in healthcare, the concepts presented are likely to also be useful for other industries where rapid introduction of new technology is creating additional system complexity.
@@ -36,7 +36,7 @@ This presentation explores:
 - the current status of the STEM workforce and STEM education in Australia
 - What next? … suggested priorities for government(s), industry, the education sector and individuals
 
-## Dr Kelvin Ross
+## Dr Kelvin Ross &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20KJR%20-%20Slides.pdf" target="_blank"><i class="fa fa-desktop"></i></a>
 Title: *Validation Driven Machine Learning (VDML): A Systematic Approach to ML Model Training and Validation*
 
 Validation Driven Machine Learning (VDML) is a methodology developed by KJR to guide development of robust and reliable Machine Learning (ML) models. VDML emphasises understanding the limitations of both models and data, and uses iterative validation methods to guide and assess ML model behaviour.
@@ -47,14 +47,14 @@ Ultimately, VDML provides a comprehensive framework designed to tackle the accur
 
 This seminar will be invaluable for professionals and researchers involved in ML, autonomous systems, and safety-critical applications.
 
-## Martin Hughes &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Martin%20Hughes%20-%20An%20empirical%20study%20of%20the%20practical%20application%20of%20EN50128%20to%20Software%20Engineering.pdf" target="_blank"><i class="fa fa-download"></i></a>
+## Martin Hughes &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Martin%20Hughes%20-%20An%20empirical%20study%20of%20the%20practical%20application%20of%20EN50128%20to%20Software%20Engineering.pdf" target="_blank"><i class="fa fa-file"></i></a>&nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Martin%20Hughes%20-%20Slides.pdf" target="_blank"><i class="fa fa-desktop"></i></a>
 (Hitachi Rail)
 
 Title: *Human factors in the context of EN50128*
 
 Software-based Systems are typically complex and the process to develop such systems therefore requires rigour and professional discipline to be applied to minimise error and rework. In the railway domain, the standard EN50128 has been developed, based on IEC 61508-3, to aid the development of Software Systems for Railway applications. Although EN50128 is widely used, there are few empirical studies of the efficacy of the standard in helping to manage complexity or reduce error and rework. EN50128 has also been used to guide Software development at Hitachi Rail. We examine an Industrial Case Study involving the application of EN50128 to a Basic Integrity Railway Software System. The Case Study is a part of the Train Control System deployed by Hitachi for several clients. We consider techniques applied in accordance with EN50128, as well as what was considered by the team applying them as giving the most benefit. We also consider limitations that were identified and suggest some possible improvements to our approach for the future.
 
-## Andy Gabler &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Andy%20Gabler%20-%20Quantifying%20Human%20Reliability%20in%20Safety%20Analysis.pdf" target="_blank"><i class="fa fa-download"></i></a>
+## Andy Gabler &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Andy%20Gabler%20-%20Quantifying%20Human%20Reliability%20in%20Safety%20Analysis.pdf" target="_blank"><i class="fa fa-file"></i></a>&nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Pauley%20and%20Gabler%20-%20Slides.pdf" target="_blank"><i class="fa fa-desktop"></i></a>
 (Acmena)
 
 Title: *Quantifying human reliability in safety analysis – How useful is it?*
@@ -63,17 +63,17 @@ Humans play an important role in systems either by operating or maintaining part
 
 Both describe the introduction of new systems into a control centre to support a safety critical task performed by human operators. In these case studies the authors identify key operator errors which highlight areas where engineering controls, including automation, are of greater benefit than purely administrative processes. The paper concludes with a set of principles and caveats that should be followed to ensure that human reliability analysis informs the system design, operation and maintenance procedures and training needs.
 
-## Ray Feodoroff &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Ray%20Feodoroff%20-%20Human%20Orientedness%20of%20System%20Safety.pdf" target="_blank"><i class="fa fa-download"></i></a>
+## Ray Feodoroff &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Ray%20Feodoroff%20-%20Human%20Orientedness%20of%20System%20Safety.pdf" target="_blank"><i class="fa fa-file"></i></a>&nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Ray%20Feodoroff%20-%20Slides.pdf" target="_blank"><i class="fa fa-desktop"></i></a>
 Title: *Human Orientedness of System Safety*
 
 This paper is a research proposal, really looking at whether there is impetus to investigate a harmonising of ideas across several research areas. Ultimately this is to investigate the best means of weaving assurance reasoning into graphical requirements and design notations. The basis for this approach is a recurring emphasis on goal-orientation over the last 20 or more years of the class Leveson has described as “human centric”. This paper is a first step, to look for the theoretical basis for that graphical approach.
 
-## Professor Jill Slay
+## Professor Jill Slay &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Jill%20Slay%20-%20Slides.pdf" target="_blank"><i class="fa fa-desktop"></i></a>
 **Keynote:** *Space Systems Cyber Security*
 
 A second space race has taken off and it is driving the rapid deployment of modernised satellites and other space systems that each introduce new security risks to an aged and already vulnerable ecosystem. The engineering, science, and technology aspects of space security are currently understudied and disjointed, leading to fragmented research and inconsistent terminology. This paper details the results of a global survey of space security experts to define Space Systems Security and the scope of its interdisciplinary knowledge domain. It also provides a review of current space security literature and examines the contemporary space systems context from a security perspective.
 
-## Ben Luther
+## Ben Luther &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Ben%20Luther%20-%20Slides.pdf" target="_blank"><i class="fa fa-desktop"></i></a>
 (Nova Systems)
 
 Title: *Scoping safety domains*
@@ -86,7 +86,7 @@ The interesting part of the research has been extension to the Complex domain. W
 
 With safety being the special case of risk with a consequence that is adverse to human health, this research is for Risk Managers of systems that span the Clear, Complicated and Complex domains. It provides a unifying framework, enabling efficient scoping of existing tools to where they are effective. It avoids holes in risk management when a domain would be falsely rationalised away in pursuit of management efficiency. Ideally, it will calm the tribes.
 
-## Dr Sanjay Mazumda
+## Dr Sanjay Mazumda &nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20Sanjay%20Mazumdar%20-%20Slides.pdf" target="_blank"><i class="fa fa-desktop"></i></a>
 **Keynote:** *Strengthening Australia’s Defence Capabilities Through Defence Trailblazer*
 
 The Defence Trailblazer was established in late 2022 to strengthen Australia’s defence capabilities with cutting edge technologies and solutions, while equipping the next generation of innovators with specialised knowledge and skills to meet the needs of defence. In partnership with the University of Adelaide, the University of New South Wales, 50+ Industry Partners and with the support of the Commonwealth Department of Education, the initiative is focussing on technology development in areas such as:
@@ -101,7 +101,7 @@ Many of the projects will be targeted towards high priority mission-critical def
 ## Dr Simon Ng
 **Keynote:** *Trusted Autonomous Systems*
 
-## Dr. Clive Boughton, David McIver, & John Salerno
+## Dr. Clive Boughton, David McIver, & John Salerno&nbsp;<a href="/assets/docs/conferences/2023/ASSC%202023%20-%20David%20McIver%20-%20Slides.pdf" target="_blank"><i class="fa fa-desktop"></i></a>
 (Software Improvements & Dedicated Systems)
 
 Title: *The Importance of Human Factors and Security in Electronic Voting*
