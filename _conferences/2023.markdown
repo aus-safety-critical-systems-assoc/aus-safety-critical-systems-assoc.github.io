@@ -51,10 +51,12 @@ Both types of papers are published on the conference website, and if sufficient 
 - Submission: **25th Aug 2023** (rtf, MS-Word or pdf)
 - Camera-ready copy: **13th Oct 2023** (pdf only)
 
-### Best Paper Award (New)
+### Best Paper Award
 The purpose of this award is to encourage research in the science of software/system engineering or the application of that science for safety and/or mission critical software-intensive systems.
 
 The award is an individual award consisting of $1000 (Australian), with a certificate, and up to $1000 for travel. For papers with multiple authors, the award will be given to the lead author.
+
+This year's award was presented to *Quantifying human reliability in safety analysis – How useful is it?* by **Andy Gabler** and **Keryn Pauley**.
 
 ## Registration
 Conference registration fees (except as noted) includes attendance at all technical sessions on Wednesday and Thursday, special Thursday evening social event, and the conference proceedings.
@@ -150,7 +152,7 @@ She is a director on the Board of the Australian Council of Professions.
 | 14:00 | 14:35 | Dr Kelvin Ross | [*Validation Driven Machine Learning (VDML): A Systematic Approach to ML Model Training and Validation*](/assets/docs/conferences/2023/ASSC%202023%20-%20KJR%20-%20Slides.pdf){:target="_blank"} |
 | 14:35 | 14:55 | *Break* | |
 | 14:55 | 15:30 | Martin Hughes (Hitachi Rail) | *Human factors in the context of EN50128* ([Paper](/assets/docs/conferences/2023/ASSC%202023%20-%20Martin%20Hughes%20-%20An%20empirical%20study%20of%20the%20practical%20application%20of%20EN50128%20to%20Software%20Engineering.pdf){:target="_blank"} and [Presentation](/assets/docs/conferences/2023/ASSC%202023%20-%20Martin%20Hughes%20-%20Slides.pdf){:target="_blank"}) |
-| 15:30 | 16:05 | Andy Gabler (Acmena) | *Quantifying human reliability in safety analysis – How useful is it?* ([Paper](/assets/docs/conferences/2023/ASSC%202023%20-%20Andy%20Gabler%20-%20Quantifying%20Human%20Reliability%20in%20Safety%20Analysis.pdf){:target="_blank"} and [Presentation](/assets/docs/conferences/2023/ASSC%202023%20-%20Pauley%20and%20Gabler%20-%20Slides.pdf){:target="_blank"}) |
+| 15:30 | 16:05 | <b><i class="fa fa-trophy"></i> Best Paper Award</b><br>Andy Gabler &<br>Keryn Pauley (Acmena) | *Quantifying human reliability in safety analysis – How useful is it?* ([Paper](/assets/docs/conferences/2023/ASSC%202023%20-%20Andy%20Gabler%20-%20Quantifying%20Human%20Reliability%20in%20Safety%20Analysis.pdf){:target="_blank"} and [Presentation](/assets/docs/conferences/2023/ASSC%202023%20-%20Pauley%20and%20Gabler%20-%20Slides.pdf){:target="_blank"}) |
 | 16:05 | 16:40 | Ray Feodoroff | *Human Orientedness of System Safety* ([Paper](/assets/docs/conferences/2023/ASSC%202023%20-%20Ray%20Feodoroff%20-%20Human%20Orientedness%20of%20System%20Safety.pdf){:target="_blank"} and [Presentation](/assets/docs/conferences/2023/ASSC%202023%20-%20Ray%20Feodoroff%20-%20Slides.pdf){:target="_blank"}) |
 
 #### Thursday, 19th Oct
