@@ -51,6 +51,10 @@ The purpose of this award is to encourage research in the science of software/sy
 
 The award is an individual award consisting of $1000 (Australian), with a certificate, and up to $1000 for travel. For papers with multiple authors, the award will be given to the lead author.
 
+This year's award was shared between two papers:
+- *Concepts in assuring* AI by **Ben Luther**; and
+- *Precision and objectivity in the expression of hazard controls* by **Dr. Phil Cook** & **Dr. Neil Robinson**.
+
 ## Registration
 Conference registration fees (except as noted) includes attendance at all technical sessions on Thursday and Friday, special Thursday evening social event, and the conference proceedings.
 
@@ -120,7 +124,7 @@ James Bailey is a Professor in the Faculty of Engineering and Information Techno
 | 11:40 | 12:20 | Marceline Overduin (Frazer-Nash) | Assuring autonomy – An examination of the literature and directions for applied research |
 | 12:20 | 12:30 | *Sponsors - Dedicated Systems* | |
 | 12:30 | 13:30 | *Lunch* | |
-| 13:30 | 14:10 | Ben Luther (Nova Systems) | [Concepts in assuring AI](/assets/docs/conferences/2022/ASSC2022%20-%20Ben%20Luther%20-%20Concepts%20in%20assuring%20AI.pdf){:target="_blank"} |
+| 13:30 | 14:10 | <b><i class="fa fa-trophy"></i> Best Paper Award</b><br>Ben Luther (Nova Systems) | [Concepts in assuring AI](/assets/docs/conferences/2022/ASSC2022%20-%20Ben%20Luther%20-%20Concepts%20in%20assuring%20AI.pdf){:target="_blank"} |
 | 14:10 | 14:50 | Ganesh Pai (KBR / NASA Ames Research Center) | Navigating the Assurance Landscape for Certification of Machine Learning in Civil Aviation |
 | 14:50 | 15:20 | *Break* | |
 | 15:20 | 16:00 | Murray Bailes | [Operational Hazard Analysis](/assets/docs/conferences/2022/ASSC2022%20-%20Murray%20Bailes%20-%20Operational%20Hazard%20Analysis.pdf){:target="_blank"} |
@@ -135,7 +139,7 @@ James Bailey is a Professor in the Faculty of Engineering and Information Techno
 | 09:45 | 10:25 | Ben Marsh (Nova Systems) | Conducting STPA in an MBSE Environment |
 | 10:25 | 10:35 | *Sponsors - KJR* | |
 | 10:35 | 11:00 | *Break* | |
-| 11:00 | 11:40 | Dr. Phil Cook & Dr. Neil Robinson (RGB Assurance) | [Precision and objectivity in the expression of hazard controls](/assets/docs/conferences/2022/ASSC2022%20-%20Phil%20Cook%20-%20Precision%20and%20objectivity%20in%20the%20expression%20of%20hazard%20controls.pdf){:target="_blank"} |
+| 11:00 | 11:40 | <b><i class="fa fa-trophy"></i> Best Paper Award</b><br>Dr. Phil Cook & Dr. Neil Robinson (RGB Assurance) | [Precision and objectivity in the expression of hazard controls](/assets/docs/conferences/2022/ASSC2022%20-%20Phil%20Cook%20-%20Precision%20and%20objectivity%20in%20the%20expression%20of%20hazard%20controls.pdf){:target="_blank"} |
 | 11:40 | 12:20 | Dr. Andrew Hussey & Maria Hill (Hitachi Rail) (remote) | System and Software Assurance for AI Applications |
 | 12:20 | 12:30 | *Sponsors - RGB* | |
 | 12:30 | 13:30 | *Lunch* | |
