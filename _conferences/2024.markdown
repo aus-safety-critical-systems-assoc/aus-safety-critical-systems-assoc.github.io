@@ -1,18 +1,23 @@
 ---
 title: ASSC 2024
-date: 2024-01-01
-conference_date: Date TBD
-location: Location TBD
-theme: Theme TBD
-description: "Australian System Safety Conference 2024"
+date: 2024-10-23
+conference_date: 23-24 October 2024
+location: Brisbane, QLD
+theme: "Disruptive Technologies"
+description: "Australian System Safety Conference 2024 | Brisbane 2024 | Disruptive Technologies"
 ---
-
 
 ## Submit a Paper
 
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
 
-*The theme for the 2024 conference is yet to be determined.*
+The theme for the 2024 conference is “Disruptive Technologies”. With systems growing increasingly complex and incorporating novel and disruptive technologies, we are exploring the contribution, challenges, and benefits of disruptive technologies to System Safety and Cybersecurity. As systems increasingly incorporate novel technologies (such as artificial intelligence, machine learning, autonomous agents, cloud services, virtual/augmented reality, etc.), are current system safety processes and assurance standards appropriate?
+
+Topics of interest include (but are not limited to) systems engineering, safety assurance, human factors, cybersecurity and social engineering, security assurance, reliance, automation, collaboration, teamwork, trust, and assurance standards.
+
+The 2024 ASSC would like to examine and share the latest thinking and state of the art techniques for:
+- providing assurance of disruptive technologies; and for
+- providing assurance using disruptive technologies.
 
 ### Topics of Interest
 
@@ -35,7 +40,7 @@ Papers and presentations are published on the conference website.
 ### Submission
 - Abstracts should be approximately 250 words.
 - For delegates who optionally submit a full paper - papers should be no more than 10 pages.
-- A paper template is [available here](/assets/docs/conferences/2023/ASSC%202023%20Template.rtf).
+- A paper template is [available here](/assets/docs/conferences/2024/ASSC%202024%20Template.rtf).
 - Paper submissions can be emailed to [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
 
 ### Important Dates
