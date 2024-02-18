@@ -1,0 +1,39 @@
+---
+title: Safety Safety Assessment Course
+date: 2020-05-11
+course_date: 11-15 May 2020
+location: Melbourne, VIC
+---
+
+This course is from the University of York and counts towards an MSc in Safety Critical Systems Engineering; the MSc is recognised by the British Computer Society, the Chartered Institute of IT and the Institution of Engineering and Technology.
+
+Registration for this course has now closed.
+
+## Overview
+This course aims to cover the analysis and assessment phase of the system safety engineering life-cycle for a proposed product or service. It does so by considering the inputs to this phase, the qualitative and quantitative analysis techniques that can be employed within this phase and the outputs from this phase in terms of evidence into the safety case regime. It also considers the changing assessment requirements as more integrated and complex systems are developed.
+
+By the end of this course you will be able to:
+- explain the role of system safety assessment in the safety lifecycle;
+- describe and participate in RBD, FMEA, Markov and cause-consequence techniques;
+- describe and participate in fault tree construction;
+- describe and participate in the production and evaluation of fault tree cut sets;
+- describe and participate in the production and evaluation of fault tree quantitative analysis;
+- select appropriate analysis techniques for particular situations;
+- assess the implications of the results of system safety analysis;
+- explain the role of system safety assessment techniques during detailed design;
+- explain the role and issues surrounding system safety analysis in safety arguments;
+- compare manual and automated performance of system safety assessment;
+- discuss the state of the art and future directions in system safety assessment;
+- critically evaluate performance of system safety assessment by others.
+
+Who is the course for?
+- practitioners across all domains including aerospace, military, railway, automotive, civil nuclear, civil maritime, medical devices, healthcare, and so on;
+- developers of equipment safety cases during design for software, hardware, procedures, systems and/or platforms;
+- developers of safety cases for operational safety and disposal;
+- reviewers of safety cases within an organisation or as an independent activity;
+- developers and reviewers of changes to existing safety-critical / safety-related equipment and operations;
+- project managers where development of a safety case is a significant element of projects they manage;
+- regulators of safety critical domains.
+
+## Presenters
+Dr Mark Nicholson is a Senior Lecturer in the High Integrity Systems Engineering research group at the University of York, UK. Dr Nicholson was programme director for the MSc in Safety Critical Systems Engineering at York from 2004 to 2018. He has provided many CPD courses to industry throughout Europe. He has provided CPD course in Australia to a variety of sectors for over 20 years. His industrial work includes being the European editor of the ARP 4754a civil aerospace standard and developing a proportionality of safety management scheme for the U.K MoD. His research interests include assurance of Robotics and Autonomous Systems (he is a member of the Assuring Autonomy International programme at York), and the contribution of data to hazards and safety assurance, He is currently involved in 2 Marie-Curie European Training Networks and the European RIMA project.

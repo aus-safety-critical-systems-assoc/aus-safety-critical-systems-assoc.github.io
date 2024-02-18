@@ -47,6 +47,8 @@ collections:
     permalink: /conferences/:name/program/
   newsletters:
     output: true
+  courses:
+    output: true
 
 defaults:
   - scope:
@@ -64,6 +66,11 @@ defaults:
       type: "newsletters"
     values:
       layout: "newsletter"
+  - scope:
+      path: ""
+      type: "courses"
+    values:
+      layout: "course"
   - scope:
       path: ""
     values:
