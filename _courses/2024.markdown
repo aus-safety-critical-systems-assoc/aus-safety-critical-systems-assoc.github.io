@@ -5,7 +5,7 @@ course_date: May 2024
 location: Melbourne, VIC
 ---
 
-The **Australian Safety Critical Systems Association** is offering a 5-day course from the **University of York** in **Melbourne**. The course will introduce the key concepts of system safety engineering and management. The course details in the sections below have have been provided by the university.
+The **Australian Safety Critical Systems Association** is offering a 5-day course from the **University of York** in **Melbourne**. The course will introduce the key concepts of system safety engineering and management. The course details in the sections below have been provided by the university.
 
 **Registration details will be published on this page shortly.**
 
