@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ascsa.org.au" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
-
+encoding: utf-8
 markdown: kramdown
 
 kramdown: 
@@ -47,6 +47,8 @@ collections:
     permalink: /conferences/:name/program/
   newsletters:
     output: true
+  courses:
+    output: true
 
 defaults:
   - scope:
@@ -64,6 +66,11 @@ defaults:
       type: "newsletters"
     values:
       layout: "newsletter"
+  - scope:
+      path: ""
+      type: "courses"
+    values:
+      layout: "course"
   - scope:
       path: ""
     values:

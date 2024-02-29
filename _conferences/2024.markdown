@@ -62,12 +62,32 @@ All fees as listed above are in Australian Dollars and GST inclusive. For questi
 |  | Registration |
 |-------|--------|
 | **Presenter's Rate** | FREE |
-| **aSCSa, ACS Member** | *TBD* |
-| **All Others** | *TBD* |
+| **aSCSa, ACS Member** | $1250.00 |
+| **All Others** | $1375.00 |
 
 ## Keynotes
 
-*Keynotes TBD.*
+### Phil Koopman
+![Phil Koopman](/assets/img/conferences/2024/phil_koopman.png){:class="w3-circle w3-right"}
+*Associate Professor, Carnegie Mellon University*
+
+Prof. Philip Koopman is an internationally recognized expert on Autonomous Vehicle (AV) safety whose work in that area spans over 25 years. He is also actively involved with AV policy and standards as well as more general embedded system design and software quality. His pioneering research work includes software robustness testing and run time monitoring of autonomous systems to identify how they break and how to fix them. He has extensive experience in software safety and software quality across numerous transportation, industrial, and defense application domains including conventional automotive software and hardware systems. He originated the UL 4600 standard for autonomous system safety issued in 2020. He is a faculty member of the Carnegie Mellon University ECE department where he teaches software skills for mission-critical systems. In 2018 he was awarded the highly selective IEEE-SSIT Carl Barus Award for outstanding service in the public interest for his work in promoting automotive computer-based system safety. In 2022 he was named to the National Safety Council's Mobility Safety Advisory Group. In 2023 he was named the International System Safety Society's Educator of the Year. He is the author of the books: Better Embedded System Software (2010), How Safe is Safe Enough: measuring and predicting autonomous vehicle safety (2022), and The UL 4600 Guidebook (2022).
+
+### Tim Miller
+![Tim Miller](/assets/img/conferences/2024/tim_miller.png){:class="w3-circle w3-right"}
+*Professor of Artificial Intelligence, University of Queensland*
+
+Tim Miller is a Professor of Artificial Intelligence in the School of Electrical Engineering and Computer Science at The University of Queensland, Meaanjin/Brisbane, Australia. His mission is to augment and amplify the capabilities of people and organisations using artificial intelligence. His research draws on machine learning, reinforcement learning, AI planning, interaction design, and cognitive science, to help people to make better decisions. He has done work on areas including explainable AI, human-AI mixed-initiative planning, and human-centered decision support. Prior to his appointment at The University of Queensland, he was a Professor of Computer Science in the School of Computing and Information Systems at The University of Melbourne, where he was founding co-director of The Centre for AI and Digital Ethics.
+
+### Kelvin Ross
+![Kelvin Ross](/assets/img/conferences/2024/kelvin_ross.png){:class="w3-circle w3-right"}
+*CEO, KJR & CTO, Datarwe*
+
+Dr Kelvin Ross has over 30 years of experience in software engineering and enterprise IT applications.  Kelvin started his IT career in safety critical software engineering in defence, working on FA-18 airborne radar systems.  After completing his PhD in safety critical systems engineering and several years in consulting in defence and transportation systems, he moved over to the commercial sector and founded KJR, specializing in software testing and assurance, which now has over 80 consultants in Sydney, Canberra, Melbourne and Brisbane.  
+
+Kelvin is recognized as expert in testing and assurance of software applications across a broad range of industry domains, including e-health, public administration, finance, insurance, retail and telecommunications.  In addition to Kelvin’s role as Chairman of KJR, Kelvin is a Director of non-profit Healthcare AI Innovation Hub, IntelliHQ, and broadly engages in technology advisory roles, including director roles AI innovative startups.  He has broad interests in Machine Learning, which he sees as the dominant technology driver for the next several decades, particularly within the Healthcare sector. 
+
+Kelvin is an Associate Adjunct Professor at the Institute for Intelligent and Integrated Systems (IIIS), Griffith University, and organiser of Young Women Leaders in AI, Gold Coast AI and Machine Learning meetup group, member of ACS AI Ethics national committee, has held several roles in national technical working groups (NATA and ACS), and held several board positions.
 
 ## Technical Program
 
@@ -75,9 +95,10 @@ All fees as listed above are in Australian Dollars and GST inclusive. For questi
 
 ## Venues
 
-*Venue TBD.*
+### Conference Venue
+This years conference will be held at **Customs House** at 399 Queen St, Brisbane City QLD.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9910383.320055095!2d133.37120919218037!3d-27.731135717830114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a045cf620bb%3A0x502a35af3de84c0!2sBrisbane%20City%20QLD%204000!5e0!3m2!1sen!2sau!4v1707285170475!5m2!1sen!2sau" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.122024398115!2d153.02853807715798!3d-27.465460216528825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a1df3073085%3A0x48f9ee6cd94827a8!2sCustoms%20House!5e0!3m2!1sen!2sau!4v1709101884365!5m2!1sen!2sau" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Sponsors
 

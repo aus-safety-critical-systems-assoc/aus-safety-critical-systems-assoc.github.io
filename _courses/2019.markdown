@@ -1,0 +1,19 @@
+---
+title: Safety Case Development and Review Course
+date: 2019-04-08
+course_date: 8-12 April 2019
+location: Canberra, ACT
+---
+
+The Australian Safety Critical Systems Association (aSCSa) is offering this course again on 8  April 2019 in Canberra (Only 2 weeks away).
+This 5-day course from the University of York is presented by Prof Tim Kelly and Dr David Pumfrey and counts towards an MSc in Safety Critical Systems Engineering and counts for 40 hours CPD.
+This course received great acclaim by those who attended last year in Melbourne and it is recommended to everybody who is involved in preparing safety cases or arguments in any sector. 
+
+This course addresses the production and assessment of safety cases within safety projects. It covers:
+- the role, purpose and typical content of safety cases;
+- explains how safety case arguments and evidence can be selected;
+- relates the development and maintenance of safety cases to the engineering lifecycle;
+- details how safety case arguments can be critically assessed;
+- explains the regulatory context for a safety case development regime.
+
+Registration for this course has now closed.

@@ -177,13 +177,13 @@ In this tutorial we will examine:
 | (*Presentation*) Ben Merange (RGB Assurance) | [Machine Learning for Rail Safety Incident Classification](/assets/docs/conferences/2019/ASSC2019%20-%20Ben%20Merange%20-%20Machine%20Learning%20for%20Rail%20Safety%20Incident%20Classification.pdf) |
 | (*Invited Speaker*) Bijan Elahi (Medtronic Technical Fellow) | [Is Artificial Intelligence in healthcare doomed, or destined for greatness?](/assets/docs/conferences/2019/ASSC2019%20-%20Bijan%20Elahi%20-%20Is%20Artificial%20Intelligence%20in%20healthcare%20doomed%20or%20destined%20for%20greatness.pdf) |
 | (*Paper*) Kevin Anderson (Systra Scott Lister) | [Functional Safety Assessment of Train Management Control System](/assets/docs/conferences/2019/ASSC2019%20-%20Kevin%20Anderson%20-%20Functional%20Safety%20Assessment%20of%20Train%20Management%20Control%20System.pdf) |
-| (*Presentation*) Drew Rae (Griffith University) | [Safety Assurance for Artificial Intelligence is Futile (and that’s okay)](/assets/docs/conferences/2019/ASSC2019%20-%20Drew%20Rae%20-%20Safety%20Assurance%20for%20Artificial%20Intelligence%20is%20Futile%20(and%20that%E2%80%99s%20okay).pdf) |
+| (*Presentation*) Drew Rae (Griffith University) | [Safety Assurance for Artificial Intelligence is Futile (and that’s okay)](/assets/docs/conferences/2019/ASSC2019%20-%20Drew%20Rae%20-%20Safety%20Assurance%20for%20Artificial%20Intelligence%20is%20Futile%20(and%20that%27s%20okay).pdf) |
 | (*Paper*) Graham Hjort (4Tel Pty Ltd) | Next-Generation Rail Systems using Artificial Intelligence and Machine Learning |
 
 ### 24th May
 
 | **Speaker** | **Title** |
-| (**Keynote**) Pam Melroy (Director of Space Technology and Policy) | [Acceptable Risk in Human Space Flight – An Astronaut’s Perspective](/assets/docs/conferences/2019/ASSC2019%20-%20Pam%20Melroy%20-%20Acceptable%20Risk%20in%20Human%20Space%20Flight%20%E2%80%93%20An%20Astronaut%E2%80%99s%20Perspective.pdf) |
+| (**Keynote**) Pam Melroy (Director of Space Technology and Policy) | [Acceptable Risk in Human Space Flight – An Astronaut’s Perspective](/assets/docs/conferences/2019/ASSC2019%20-%20Pam%20Melroy%20-%20Acceptable%20Risk%20in%20Human%20Space%20Flight%20-%20An%20Astronaut%27s%20Perspective.pdf) |
 | (*Presentation*) Dr. Holger Becht (RGB Assurance) | [The Ironies of Automation with AI](/assets/docs/conferences/2019/ASSC2019%20-%20Holger%20Becht%20%26%20Simon%20Connelly%20-%20The%20Ironies%20of%20Automation%20with%20AI.pdf) |
 | (**Keynote**) Ganesh J. Pai (NASA Research Park, SGT Inc) | Dynamic Assurance Cases: A Pathway Towards Trusted Autonomy |
 | (*Presentation*) Achim Washington (RMIT) | [Research Summary – Application of Bayesian methods and normative decision theory to aviation safety regulatory process](/assets/docs/conferences/2019/ASSC2019%20-%20Achim%20Washington%20-%20Application%20of%20Bayesian%20methods%20and%20normative%20decision%20theory%20to%20aviation%20safety%20regulatory%20process.pdf) |

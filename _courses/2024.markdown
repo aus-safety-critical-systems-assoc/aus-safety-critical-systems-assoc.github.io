@@ -1,0 +1,43 @@
+---
+title: Introduction to System Safety Engineering and Management
+date: 2024-06-01
+course_date: June 2024
+location: Melbourne, VIC
+---
+
+The **Australian Safety Critical Systems Association** is offering a 5-day course from the **University of York** in **Melbourne**. The course will introduce the key concepts of system safety engineering and management. The course details in the sections below have been provided by the university.
+
+**Registration details will be published on this page shortly.**
+
+## Overview
+Over the last couple of decades technology has revolutionised engineering and engineering management practices. Essential services that our society depends upon rely on automation and increasingly complex safety critical systems. The level of complexity and innovation means that engineering professionals can no longer rely on standards to provide simple and prescriptive solutions to ensure that their systems and services are adequately safe. Ever increasing commercial pressures and global supply networks also mean that many organisations and engineers have to be aware of requirements of multiple standards ecosystems.
+
+How do we effectively control technogenic safety risks? How do we assess the risk and make decisions about adequate levels of safety? How do we design that level of safety into our system and integrate this work into overall projects? How do we ensure that our systems continue to be safe through operational life in the context of changes to the systems, operational and even legal environment?
+
+This course provides an overview of system safety as an engineering and management discipline. We present the fundamentals of the discipline along with some of the key techniques in safety engineering and assurance “toolbox”. From risk assessment and making decisions about safety risk to derivation of safety requirements and to production and maintenance of safety cases, the course covers safety engineering, assurance and management activities throughout the systems and services lifecycle from concept development and tendering through design and release into service as well as in-service life until ultimate disposal or termination of service.
+
+Whilst drawing from the key concepts of industrial standards such as IEC 61508, ARP 4754/ARP4761, ISO 26262, and UK Mil Std 00-056, and using standards for illustration, the course is not concerned with compliance with any particular set of safety standards. Instead, we focus on the fundamentals of the underlying safety engineering and management discipline, making it possible for attendees to interpret requirements of the standards applicable to their industrial domain and to appreciate features of the standards in other domains.
+
+## Course Contents
+The topics covered by the course include:
+- Financial, legal, and ethical motivation for system safety
+- Key concepts of safety engineering and the bow tie model of accidents causality
+- Safety lifecycle and its relationship to the overall system lifecycle
+- Risk assessment and acceptance criteria
+- Safety assurance and the notion of a safety case
+- Overview of key safety analysis techniques: Functional Failure Analysis (FFA), HAZOP, Event Tree Analysis, Failure Modes and Effects Analysis (FMEA), Fault Tree Analysis
+- Derivation of safety requirements for different classes of systems
+- Safety Integrity Levels (SIL), Development Assurance Levels, and the notion of confidence
+- Human factors for safety engineering
+- Assurance of safety-critical software and machine learning
+- Safety Management Systems (SMS) and organisational safety
+- Through-life management of system safety and operational safety
+
+## Learning Outcomes
+By the end of the course, you will:
+- Understand risk, the principles and role of risk assessment, approaches to risk reduction, as well as the factors influencing perception and acceptability of risk
+- Have an understanding of typical safety-critical systems lifecycles and an appreciation of approaches to managing safety in organisations, projects, and operations/services
+- Have an understanding of key safety analysis techniques, such as Functional Failure Analysis (FFA), HAZOP, Failure Modes Effects and Criticality Analysis (FMEA & FMECA), Fault Tree Analysis (FTA), and Event Tree Analysis, along with their roles in system safety lifecycle
+- Have an appreciation of systematic failures, common causes, human factors, and their importance for system safety
+- Have an understanding of safety assurance and safety cases
+- Have an appreciation of the challenges posed by software, machine learning, and autonomy for engineering and assurance of modern safety critical systems

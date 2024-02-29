@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway&amp;display=swap">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>{{ page.title }}</title>
+    <link rel="canonical" href="{% if page.url =='/' %}{{ site.url }}{% else %}{{ page.url | absolute_url }}{% endif %}">
   </head>
   <body class="w3-white" style="background-image:url('/assets/img/background.png');background-position:center;background-size:cover;background-repeat:repeat-y;">
     <nav class="w3-sidebar w3-bar-block w3-light-grey w3-text-dark-grey w3-collapse w3-top" style="z-index:3;width:300px;font-weight:bold" id="app-sidebar"><br>
@@ -19,6 +20,7 @@
       <hr style="margin:10px 0 0 0;">
       <a href="/" class="w3-bar-item w3-button {% if page.url == '/' %}w3-theme{% endif %}" style="padding-left:40px;">Home</a>
       <a href="/conferences/" class="w3-bar-item w3-button {% if page.url == '/conferences/' or page.collection == 'conferences' or page.collection == 'programs' %}w3-theme{% endif %}" style="padding-left:40px;">Conference</a>
+      <a href="/courses/" class="w3-bar-item w3-button {% if page.url == '/courses/' or page.collection == 'courses' %}w3-theme{% endif %}" style="padding-left:40px;">Courses</a>
       <a href="/newsletters/" class="w3-bar-item w3-button {% if page.url == '/newsletters/' or page.collection == 'newsletters' %}w3-theme{% endif %}" style="padding-left:40px;">Newsletter</a>
       <a href="/membership/" class="w3-bar-item w3-button {% if page.url == '/membership/' %}w3-theme{% endif %}" style="padding-left:40px;">Membership</a>
       <a href="/sponsorship/" class="w3-bar-item w3-button {% if page.url == '/sponsorship/' %}w3-theme{% endif %}" style="padding-left:40px;">Sponsorship</a>
