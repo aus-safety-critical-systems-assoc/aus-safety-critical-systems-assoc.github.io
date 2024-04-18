@@ -15,8 +15,6 @@ summary: "Boeing 737 Max, Drone Delivery, Safety Regulation of New Technology, &
 
 It has taken the deaths of 346 people for the aviation industry to probe business commercial and engineering practices and the role of regulators and aircraft certifiers.
 
-![](/assets/img/newsletters/2019-07/image3.png){:width="100%"}
-
 The fact that it took a second crash in less than four months after the first to question the safety integrity of the 737 MAX aircraft says more about protecting self-interests, than genuinely seeking out any inherent flaws. One needs to ask, had the second crash not happened to an airline company with an excellent safety reputation like Ethiopian Airlines, would there have been the world-wide grounding of the 737 MAX?
 
 Much is emerging as to the history of the 737 MAX development, the design decisions, the response to concerns raised by test pilots, and the process of certification. It is becoming increasingly apparent systemic process failure was a major contributing factor in both the Air Asia and Ethiopian Airline crashes.
@@ -139,8 +137,6 @@ Following the Lion Air crash, Boeing issued a Flight Crew Operations Manual Bull
 -   *FEEL DIFF PRESS light.*
 
 There is no specific mention of MCAS in the bulletin.
-
-![](/assets/img/newsletters/2019-07/image13.png){:width="100%"}
 
 Following the Lion Air crash, it [emerged](https://www.aviation24.be/manufacturers/boeing/boeing-737-max-automatic-stall-prevention-system-mcas-not-in-flight-crew-operations-manual-fcom/) that the MAX automatic stall prevention system, the manoeuvring characteristics augmentation system (MCAS), was not in the FCOM (Flight Crew Operations Manual).
 
@@ -280,8 +276,6 @@ Finally - I will flag that we intend to hold an AGM in November in Brisbane (all
 
 ## 2019 System Safety Conference
 
-![](/assets/img/newsletters/2019-07/image8.png){:width="100%"}
-
 ***How can we be artificially safe?***
 
 The ninth two-day Australian System Safety Conference and the 24^th^ conference hosted by the aSCSa, was held in May 2019 at the Customs House in Brisbane. The conference attracted an attendance of 60.
@@ -335,8 +329,6 @@ The chart below shows the participation at the aSCSa courses since 2005.
 
 ### Introduction to System Safety
 
-![](/assets/img/newsletters/2019-07/image4.png)
-
 The next Introduction to System Safety course will be provided by Griffith University commencing around November 2019 -- ***see advert on Page 3***.
 
 To register, use the [single course of study](https://www.griffith.edu.au/apply/admission-pathways/single-course-of-study) route, and use the [Single course of study application form](https://www.griffith.edu.au/__data/assets/pdf_file/0037/188776/STUD0030_Application-for-admission-to-a-single-course-of-study.pdf). The course title and reference number is ***Introduction to System Safety (7009LHS)***.
@@ -344,8 +336,6 @@ To register, use the [single course of study](https://www.griffith.edu.au/apply/
 The course convenor is [Drew Rae](mailto:d.rae@griffith.edu.au).
 
 ### Safety Case Development and Review
-
-![](/assets/img/newsletters/2019-07/image12.png)
 
 Following on from the success of the August 2018 course and the industry interest, the aSCSa hosted the second Safety Case Development and Review Course in April 2019 in Canberra.
 
@@ -374,8 +364,6 @@ The aSCSa intends to seek feedback from the aSCSa members for their preferences 
 
 CASA have approved delivery drone operations, for small supplies (food, medical supplies etc) within 10km of an operating base in northern Canberra suburbs. Wing Aviation Pty Ltd (subsidiary of Google's parent -- Alphabet) have been trialling in the region over remote areas since 2014 and are now permitted to deliver in some suburban zones.
 
-![](/assets/img/newsletters/2019-07/image14.png){:width="100%"}
-
 ***A Wing remotely piloted aircraft with a delivery - picture from [Australian Aviation](https://australianaviation.com.au/2019/04/wing-drone-delivery-service-takes-flight/).***
 
 CASA state that Wing were required by Part 101 regulations to submit a Safety Case, including reliability information, and were satisfied an acceptable level of safety was achieved. Part of the permit is to allow operations closer to people than the regulations normally allow.
@@ -403,8 +391,6 @@ The report lists 53 findings. Finding #13 cites the collective failure of the or
 "*Had the Washington State Department of Transportation, Central Puget Sound Regional Transit Authority, Amtrak, and the Federal Railroad Administration been more engaged and assertive, and had clearly defined roles and responsibilities during the preparation of the inaugural service, it would have been more likely that safety hazards, such as the speed reduction for the curve would have been better identified and addressed.*"
 
 Finding #14 specifically cites the rail regulator, the Federal Railroad administration for not using "*its authority provided under the Fixing America's Surface Transportation Act to approve speed limit action plans with conditions to require inclusion of planned and under-construction alignments owned or operated by railroads and require periodic updates to railroads' speed limit action plans, which led to no speed limit action plan being developed*".
-
-![](/assets/img/newsletters/2019-07/image15.png){:width="100%"}
 
 ### *Footnotes*
 

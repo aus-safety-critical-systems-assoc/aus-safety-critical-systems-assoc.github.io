@@ -109,8 +109,6 @@ Indonesian investigators released a [preliminary crash report](http://knkt.dephu
 
 The report doesn't offer a cause for the accident that killed all 189 on board but provides the most detailed look so far into the chaotic minutes before the crash and into the steps that were taken to address malfunctions that occurred on the plane the previous night. On both flights, pilots reported that they had difficulty figuring out basic information such as speed and altitude.
 
-![](/assets/img/newsletters/2019-01/image4.png){:width="100%"}
-
 The Boeing Co. 737 Max 8's angle-of-attack sensor, which measures how high or low the plane's nose was pointed relative to the oncoming air, had malfunctioned on the previous flight, as well as in the minutes before the crash, according to the report. The sensor erroneously concluded the nose was pointed too high and the aircraft was in danger of losing lift, prompting a stall warning in the cockpit and triggering safety software that attempted to put them into a dive.
 
 On the previous flight, the pilots were able to shut off the motor that was trying to push down the nose relatively soon after taking off. For reasons that haven't been explained, the pilots on Flight LNI610 didn't take that step \-- which is part of a long-standing emergency procedure.
@@ -138,9 +136,6 @@ Following the launch of the ACS Certified Professional Safety Critical Systems s
 
 ## Course offering - Introduction to System Safety
 
-{:class="w3-center"}
-![](/assets/img/newsletters/2019-01/image6.png){:width="200px"}
-
 Course Ref: [7009LHS](https://degrees.griffith.edu.au/Course/7009LHS?courseListOrigin=C0000012890&programOfOrigin=3298)
 
 A 5-day course from Griffith University -- more details inside. Classroom and online options available.
@@ -158,9 +153,6 @@ Venue: Nathan Campus, Griffith University, QLD.
 
 {:class="w3-center"}
 ![](/assets/img/newsletters/2019-01/image7.png){:width="80px"}
-
-{:class="w3-center"}
-![](/assets/img/newsletters/2019-01/image8.png){:width="300px"}
 
 ### Overview
 
@@ -235,9 +227,6 @@ Attendance at this course will provide for 40 hours CPD.
 
 Transport ministers have paved the way for the commercial deployment of automated vehicles in Australia within the next few years, by endorsing a safety approach for approving vehicles at first supply.
 
-{:class="w3-center"}
-![](/assets/img/newsletters/2019-01/image9.jpeg){:width="300px"}
-
 The National Transport Commission's Council of Australian Governments' Decision Regulation Impact [Statement](https://www.ntc.gov.au/Media/Reports/(A7B4A10F-22A5-2832-1A11-6E23E1BB7762).pdf) outlines the approach for the introduction of automated vehicles which builds on the legal framework that currently exists for all vehicles in Australia when they are imported.
 
 Australian transport and infrastructure ministers have recognised that automated vehicles offer the possibility of fundamentally changing how transport is provided and unlocking a range of safety, productivity, environmental and mobility benefits.
@@ -264,8 +253,6 @@ About 4.40am on Monday 5 November 2018, a loaded ore train operated by BHP on it
 
 The train carrying some 28000 metric tons was deliberately derailed after rolling away without a train driver on board. The driver alighted from the locomotive to inspect an issue with an ore car. While the driver was outside of the locomotive, the train commenced to run away. The train travelled some 92km in the 50 minutes from when it started to roll away and deliberately derailed 120km from the port at Port Hedland.
 
-![](/assets/img/newsletters/2019-01/image10.png){:width="100%"}
-
 There were no injuries, only significant damage to the rolling stock and the track, however this was small compared to the disruption of the iron ore supply chain. Analysts estimate the cost to be \$50 million.
 
 The train was utilising Electronically Controlled Pneumatic (ECP) braking. The train received a penalty brake application while operating in ECP braking mode because of a disconnected electrical connector between two wagons. The train came to a stand on a down gradient.
@@ -285,8 +272,6 @@ Where these conditions exist the ECP braking system will release creating the ri
 
 The issue of the safety notice infers that the sixty-minute time condition was satisfied during the driver's inspection releasing the brakes. As the train was stopped on down gradient, the train rolled away.
 
-![Image result for bhp runaway train](/assets/img/newsletters/2019-01/image11.jpeg){:width="100%"}
-
 ## Late News - Another run-away!
 
 ***Derailed Canadian Pacific freight train began moving on its own after emergency stop. Three train crew died.***
@@ -295,13 +280,9 @@ The [derailment](https://www.theglobeandmail.com/business/article-derailed-canad
 
 The train, which had three locomotives and 112 cars, left the track while crossing a bridge over the Kicking Horse River and fell about 197 feet into the river below.
 
-![https://i.cbc.ca/1.5005329.1549311482!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cp-rail-crash-field-bc.jpg](/assets/img/newsletters/2019-01/image12.jpeg){:width="100%"}
-
 The train was proceeding west to Vancouver, when 99 cars and two locomotives derailed.
 
 A crew of three had arrived at the train to relieve the original crew, which is believed to have worked its maximum shift. The crew had just arrived and had boarded the train but were not yet ready to depart. The train had stationary on a hill after an emergency brake stop for two hours when the train began to move on its own. It is not clear why the train made an emergency stop, nor why it rolled away out of control and crashed.
-
-![](/assets/img/newsletters/2019-01/image13.png){:width="100%"}
 
 According to the [Transportation Safety Board](http://www.tsb.gc.ca/eng/enquetes-investigations/rail/2019/r19c0015/r19c0015.asp), the train had been stopped on the grade, with the air brakes in emergency for about two hours when the train started to move. There were no hand brakes applied on the train, which began to accelerate to a speed more than the maximum allowable track speed of 20 mph for the tight curves and steep mountain grade. The train then derailed.
 
