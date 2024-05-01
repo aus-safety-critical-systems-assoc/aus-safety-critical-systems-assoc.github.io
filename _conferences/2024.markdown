@@ -51,7 +51,7 @@ Papers and presentations are published on the conference website.
 ### Best Paper Award
 The purpose of this award is to encourage research in the science of software/system engineering or the application of that science for safety and/or mission critical software-intensive systems.
 
-*Details to be announced.*
+One award is available, consisting of $2000 (Australian). For papers with multiple authors, the award will be given to the lead author.
 
 ## Registration
 
