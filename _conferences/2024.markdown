@@ -120,7 +120,7 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 | 15:10 | 15:50 | Phil Cook, Neil Robinson, & Tim McComb  | *Understanding control effectiveness requires structured hazards* |
 | 15:50 | 16:00 | (*Sponsor*) | |
 | 16:00 | 16:40 | Ben Merange & Lucas Schuurmans-Stekhoven | *Using machine learning techniques to identify dependent failures* |
-| 16:40 | 16:50 | (*Sponsor*) | |
+| 16:40 | 16:50 | (*Reserved*) | |
 
 #### Thursday, 24th Oct
 
