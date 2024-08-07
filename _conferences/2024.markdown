@@ -7,7 +7,7 @@ theme: "Disruptive Technologies"
 description: "Australian System Safety Conference 2024 | Brisbane 2024 | Disruptive Technologies"
 ---
 
-## Submit a Paper
+## Australian System Safety Conference
 
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
 
@@ -65,7 +65,7 @@ All fees as listed above are in Australian Dollars and GST inclusive. For questi
 | **aSCSa, ACS Member** | $1250.00 |
 | **All Others** | $1375.00 |
 
-{:class="w3-center"}
+{:class="w3-center w3-large"}
 [Register Here](https://www.acs.org.au/cpd-education/event-detail.html?eventId=701GB000002CdlgYAC){:class="w3-button w3-theme"}
 
 [^1]: *One presenter may receive this rate per presentation.*
@@ -120,6 +120,7 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 | 15:10 | 15:50 | Phil Cook, Neil Robinson, & Tim McComb  | *Understanding control effectiveness requires structured hazards* |
 | 15:50 | 16:00 | (*Sponsor*) | |
 | 16:00 | 16:40 | Ben Merange & Lucas Schuurmans-Stekhoven | *Using machine learning techniques to identify dependent failures* |
+| 16:40 | 16:50 | (*Sponsor*) | |
 
 #### Thursday, 24th Oct
 
