@@ -7,7 +7,7 @@ theme: "Disruptive Technologies"
 description: "Australian System Safety Conference 2024 | Brisbane 2024 | Disruptive Technologies"
 ---
 
-## Submit a Paper
+## Australian System Safety Conference
 
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
 
@@ -55,18 +55,20 @@ One award is available, consisting of $2000 (Australian). For papers with multip
 
 ## Registration
 
-Conference registration fees (except as noted) includes attendance at all technical sessions, the evening social event, and the conference proceedings.
+Conference registration fees (except as noted) includes attendance at all technical sessions and the evening social event.
 
 All fees as listed above are in Australian Dollars and GST inclusive. For questions about registration, contact the ASCSA Secretary at [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
 
 |  | Registration |
 |-------|--------|
-| **Presenter's Rate** | FREE |
+| **Presenter's Rate**[^1] | FREE |
 | **aSCSa, ACS Member** | $1250.00 |
 | **All Others** | $1375.00 |
 
-{:class="w3-center"}
+{:class="w3-center w3-large"}
 [Register Here](https://www.acs.org.au/cpd-education/event-detail.html?eventId=701GB000002CdlgYAC){:class="w3-button w3-theme"}
+
+[^1]: *One presenter may receive this rate per presentation.*
 
 ## Keynotes
 
@@ -92,9 +94,50 @@ Kelvin is recognized as expert in testing and assurance of software applications
 
 Kelvin is an Associate Adjunct Professor at the Institute for Intelligent and Integrated Systems (IIIS), Griffith University, and organiser of Young Women Leaders in AI, Gold Coast AI and Machine Learning meetup group, member of ACS AI Ethics national committee, has held several roles in national technical working groups (NATA and ACS), and held several board positions.
 
+### Tarryn Ryan
+![Tarryn Ryan](/assets/img/conferences/2024/tarryn_ryan.png){:class="w3-circle w3-right"}
+*Human Performance Manager & Helicopter Pilot, LifeFlight Australia*
+
+Tarryn Ryan is the Human Performance Manager and AW139 helicopter pilot at LifeFlight Australia. She is also the director of Safety Collaboration Pty Ltd, a safety consulting firm based in Brisbane. With an extensive career in aviation spanning over 20 years, Tarryn began as a helicopter pilot in the South African Air Force and later served as a Captain in the Australian Army, flying the MRH90 Taipan.
+
+A skilled aviator with experience in helicopter emergency medical service (HEMS) and marine pilot transfer (MPT), Tarryn’s career has taken her across multiple continents and industries. She now specializes in delivering tailored Human Factors training and safety management for high-risk industries. Tarryn holds a postgraduate degree in Aviation Human Factors and is a Lead Auditor and safety advocate.
+
 ## Technical Program
 
-*Program TBD.*
+#### Wednesday, 23rd Oct
+
+| **Start** | **End** | **Session** | **Title** |
+| 08:45 | 09:00 | *Welcome* | |
+| 09:00 | 10:00 | (**Keynote**) Prof. Phil Koopman | *Keynote Presentation* |
+| 10:00 | 10:30 | *Break* | |
+| 10:30 | 11:10 | Faizan M Ramzan, Julia Gibney, & Teddy T Zvidza | *Adapting System Safety Assurance: The Role of Model-Based Systems Safety in Ensuring Safe Implementation of Autonomous Technologies* |
+| 11:10 | 11:20 | (*Sponsor*) | |
+| 11:20 | 12:00 | Matthew Squair | *The Limits of Foresight in an Uncertain World* |
+| 12:00 | 13:00 | *Lunch* | |
+| 13:00 | 14:00 | (**Keynote**) Tarryn Ryan | *Keynote Presentation* |
+| 14:00 | 14:40 | Ben Luther  | *Dissecting A Complex Risk Management Framework* |
+| 14:40 | 15:10 | *Break* | |
+| 15:10 | 15:50 | Phil Cook, Neil Robinson, & Tim McComb  | *Understanding control effectiveness requires structured hazards* |
+| 15:50 | 16:00 | (*Sponsor*) | |
+| 16:00 | 16:40 | Ben Merange & Lucas Schuurmans-Stekhoven | *Using machine learning techniques to identify dependent failures* |
+| 16:40 | 16:50 | (*Reserved*) | |
+
+#### Thursday, 24th Oct
+
+| **Start** | **End** | **Session** | **Title** |
+| 08:45 | 08:50 | *Welcome* | |
+| 08:50 | 09:50 | (**Keynote**) Dr. Kelvin Ross | *Keynote Presentation* |
+| 09:50 | 10:00 | (*Sponsor*) | |
+| 10:00 | 10:30 | *Break* | |
+| 10:30 | 11:10 | Andrew Gabler & Pravin Hiremath | *Are quantitative safety targets for railways useful for disruptive technologies?* |
+| 11:10 | 11:20 | (*Sponsor*) |  |
+| 11:20 | 12:00 | Graham Drummond | *System safety in rail: the ATSB investigation into the Devonport cement train runaway and derailment* |
+| 12:00 | 13:00 | *Lunch* | |
+| 13:00 | 14:00 | (**Keynote**) Prof. Tim Miller | *Keynote Presentation* |
+| 14:00 | 14:30 | *Break* | |
+| 14:30 | 15:10 | Andrew Hussey et al. | *A study of the impact of applying EN50716 to EN50128 compliant Software Engineering* |
+| 15:10 | 15:50 | Kevin Anderson et al. | *A hypothetical risk assessment for keeping humans in the loop of autonomous vehicle evolution* |
+| 15:50 | 16:00 | *Closing* | |
 
 ## Venues
 
