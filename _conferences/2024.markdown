@@ -107,44 +107,47 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 #### Wednesday, 23rd Oct
 
 | **Start** | **End** | **Session** | **Title** |
-| 08:45 | 08:50 | *Welcome* | |
-| 08:50 | 09:00 | (*Sponsor*) ACS / SECedu | |
+| 08:45 | 08:50 | *Welcome* | *Welcome by ASCSA Chair* |
+| 08:50 | 09:00 | (*Sponsor*) | *ACS / SECedu* |
 | 09:00 | 10:00 | (**Keynote**) Prof. Phil Koopman | Keynote Presentation |
 | 10:00 | 10:30 | *Break* | |
 | 10:30 | 11:10 | Faizan M Ramzan, Julia Gibney, & Teddy T Zvidza | Adapting System Safety Assurance: The Role of Model-Based Systems Safety in Ensuring Safe Implementation of Autonomous Technologies |
-| 11:10 | 11:20 | (*Sponsor*) KJR | |
+| 11:10 | 11:20 | (*Sponsor*) | *KJR* |
 | 11:20 | 12:00 | Matthew Squair | The Limits of Foresight in an Uncertain World |
-| 12:00 | 13:00 | *Lunch* | |
+| 12:00 | 13:00 | *Lunch* | *Catered lunch at venue* |
 | 13:00 | 14:00 | (**Keynote**) Prof. Tim Miller | Keynote Presentation |
 | 14:00 | 14:40 | Ben Luther  | Dissecting A Complex Risk Management Framework |
 | 14:40 | 15:10 | *Break* | |
-| 15:10 | 15:20 | (*Sponsor*) RGB Assurance | |
+| 15:10 | 15:20 | (*Sponsor*) | *RGB Assurance* |
 | 15:20 | 16:00 | Phil Cook, Neil Robinson, & Tim McComb  | Understanding control effectiveness requires structured hazards |
-| 16:00 | 16:10 | (*Sponsor*) Nova Systems | |
+| 16:00 | 16:10 | (*Sponsor*) | *Nova Systems* |
 | 16:10 | 16:50 | Ben Merange & Lucas Schuurmans-Stekhoven | Using machine learning techniques to identify dependent failures |
 | 16:50 | 17:00 | (*Reserved*) |  |
+| - | - | *Conference Dinner* | *Babylon Brisbane (145 Eagle St, Brisbane City)* |
 
 #### Thursday, 24th Oct
 
 | **Start** | **End** | **Session** | **Title** |
-| 08:45 | 08:50 | *Welcome* | |
+| 08:45 | 08:50 | *Welcome* | *Welcome by Conference Chair* |
 | 08:50 | 09:50 | (**Keynote**) Dr. Kelvin Ross | Keynote Presentation |
-| 09:50 | 10:00 | (*Sponsor*) Dedicated Systems | |
+| 09:50 | 10:00 | (*Sponsor*) | *Dedicated Systems* |
 | 10:00 | 10:30 | *Break* | |
 | 10:30 | 11:10 | Andrew Gabler & Pravin Hiremath | Are quantitative safety targets for railways useful for disruptive technologies? |
-| 11:10 | 11:20 | (*Sponsor*) Hitachi Rail | |
+| 11:10 | 11:20 | (*Sponsor*) | *Hitachi Rail* |
 | 11:20 | 12:00 | Graham Drummond | System safety in rail: the ATSB investigation into the Devonport cement train runaway and derailment |
-| 12:00 | 13:00 | *Lunch* | |
+| 12:00 | 13:00 | *Lunch* | *Catered lunch at venue* |
 | 13:00 | 14:00 | (**Keynote**) Tarryn Ryan | Keynote Presentation |
 | 14:00 | 14:30 | *Break* | |
 | 14:30 | 15:10 | Andrew Hussey et al. | A study of the impact of applying EN50716 to EN50128 compliant Software Engineering |
 | 15:10 | 15:50 | Kevin Anderson et al. | A hypothetical risk assessment for keeping humans in the loop of autonomous vehicle evolution |
-| 15:50 | 16:00 | *Closing* | |
+| 15:50 | 16:00 | *Closing* | *Closing by ASCSA Chair* |
 
 ## Venues
 
 ### Conference Venue
 This years conference will be held at **Customs House** at 399 Queen St, Brisbane City QLD.
+
+The conference dinner will be held on Wednesday evening at **Babylon Brisbane** at 145 Eagle St, Brisbane City QLD.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.122024398115!2d153.02853807715798!3d-27.465460216528825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b915a1df3073085%3A0x48f9ee6cd94827a8!2sCustoms%20House!5e0!3m2!1sen!2sau!4v1709101884365!5m2!1sen!2sau" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
