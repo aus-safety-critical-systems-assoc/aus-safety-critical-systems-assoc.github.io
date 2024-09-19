@@ -148,16 +148,16 @@ This years conference will be held at **Customs House** at 399 Queen St, Brisban
 
 ## Sponsors
 
-{:class="w3-center"}
-[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:width="40%"}{:class="w3-padding"}{:style="min-width:350px;"}](https://rgbassurance.com.au/){:target="_blank"}
-[![Nova Systems](/assets/img/sponsors/nova_systems.png){:width="30%"}{:class="w3-padding"}{:style="min-width:250px;"}](https://www.novasystems.com/){:target="_blank"}
-[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:width="25%"}{:class="w3-padding"}{:style="min-width:250px;"}](https://dedicatedsystems.com.au/){:target="_blank"}
+{:class="w3-center w3-row"}
+[![RGB Assurance](/assets/img/sponsors/rgb_assurance.png){:style="max-height:100px;"}](https://rgbassurance.com.au/){:target="_blank"}{:target="_blank"}{:class="w3-col l4 m12 s12 w3-padding"}{:style="line-height:200px;"}
+[![Nova Systems](/assets/img/sponsors/nova_systems.png){:style="max-height:150px;"}](https://www.novasystems.com/){:target="_blank"}{:target="_blank"}{:class="w3-col l4 m6 s12 w3-padding"}{:style="line-height:200px;"}
+[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:style="max-height:100px;"}](https://dedicatedsystems.com.au/){:target="_blank"}{:target="_blank"}{:class="w3-col l4 m6 s12 w3-padding"}{:style="line-height:200px;"}
 
-{:class="w3-center"}
-[![KJR](/assets/img/sponsors/kjr.png){:width="25%"}{:class="w3-padding"}{:style="min-width:200px;"}](https://kjr.com.au/){:target="_blank"}
-[![ACS](/assets/img/sponsors/acs.png){:width="25%"}{:class="w3-padding"}{:style="min-width:250px;"}](https://www.acs.org.au/){:target="_blank"}
-[![SECedu](/assets/img/sponsors/sec_edu.png){:width="15%"}{:class="w3-padding"}{:style="min-width:150px;"}](https://www.sec.edu.au/){:target="_blank"}
-[![Hitachi](/assets/img/sponsors/hitachi.png){:width="20%"}{:class="w3-padding"}{:style="min-width:200px;"}](http://www.hitachirail.com/){:target="_blank"}
+{:class="w3-center w3-row"}
+[![KJR](/assets/img/sponsors/kjr.png){:style="max-height:100px;"}](https://kjr.com.au/){:target="_blank"}{:class="w3-col l3 m6 s12 w3-padding"}{:style="line-height:200px;"}
+[![ACS](/assets/img/sponsors/acs.png){:style="max-height:150px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l3 m6 s12 w3-padding"}{:style="line-height:200px;"}
+[![SECedu](/assets/img/sponsors/sec_edu.png){:style="max-height:150px;"}](https://www.sec.edu.au/){:target="_blank"}{:class="w3-col l3 m6 s12 w3-padding"}{:style="line-height:200px;"}
+[![Hitachi](/assets/img/sponsors/hitachi.png){:style="max-height:100px;"}](http://www.hitachirail.com/){:target="_blank"}{:class="w3-col l3 m6 s12 w3-padding"}{:style="line-height:200px;"}
 
 {:class="w3-center"}
 [Become a Sponsor](/sponsorship){:class="w3-button w3-theme"}
