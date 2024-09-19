@@ -107,36 +107,38 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 #### Wednesday, 23rd Oct
 
 | **Start** | **End** | **Session** | **Title** |
-| 08:45 | 09:00 | *Welcome* | |
-| 09:00 | 10:00 | (**Keynote**) Prof. Phil Koopman | *Keynote Presentation* |
+| 08:45 | 08:50 | *Welcome* | |
+| 08:50 | 09:00 | (*Sponsor*) ACS / SECedu | |
+| 09:00 | 10:00 | (**Keynote**) Prof. Phil Koopman | Keynote Presentation |
 | 10:00 | 10:30 | *Break* | |
-| 10:30 | 11:10 | Faizan M Ramzan, Julia Gibney, & Teddy T Zvidza | *Adapting System Safety Assurance: The Role of Model-Based Systems Safety in Ensuring Safe Implementation of Autonomous Technologies* |
-| 11:10 | 11:20 | (*Sponsor*) | |
-| 11:20 | 12:00 | Matthew Squair | *The Limits of Foresight in an Uncertain World* |
+| 10:30 | 11:10 | Faizan M Ramzan, Julia Gibney, & Teddy T Zvidza | Adapting System Safety Assurance: The Role of Model-Based Systems Safety in Ensuring Safe Implementation of Autonomous Technologies |
+| 11:10 | 11:20 | (*Sponsor*) KJR | |
+| 11:20 | 12:00 | Matthew Squair | The Limits of Foresight in an Uncertain World |
 | 12:00 | 13:00 | *Lunch* | |
-| 13:00 | 14:00 | (**Keynote**) Tarryn Ryan | *Keynote Presentation* |
-| 14:00 | 14:40 | Ben Luther  | *Dissecting A Complex Risk Management Framework* |
+| 13:00 | 14:00 | (**Keynote**) Tarryn Ryan | Keynote Presentation |
+| 14:00 | 14:40 | Ben Luther  | Dissecting A Complex Risk Management Framework |
 | 14:40 | 15:10 | *Break* | |
-| 15:10 | 15:50 | Phil Cook, Neil Robinson, & Tim McComb  | *Understanding control effectiveness requires structured hazards* |
-| 15:50 | 16:00 | (*Sponsor*) | |
-| 16:00 | 16:40 | Ben Merange & Lucas Schuurmans-Stekhoven | *Using machine learning techniques to identify dependent failures* |
-| 16:40 | 16:50 | (*Reserved*) | |
+| 15:10 | 15:20 | (*Sponsor*) RGB Assurance | |
+| 15:20 | 16:00 | Phil Cook, Neil Robinson, & Tim McComb  | Understanding control effectiveness requires structured hazards |
+| 16:00 | 16:10 | (*Sponsor*) Nova Systems | |
+| 16:10 | 16:50 | Ben Merange & Lucas Schuurmans-Stekhoven | Using machine learning techniques to identify dependent failures |
+| 16:50 | 17:00 | (*Reserved*) |  |
 
 #### Thursday, 24th Oct
 
 | **Start** | **End** | **Session** | **Title** |
 | 08:45 | 08:50 | *Welcome* | |
-| 08:50 | 09:50 | (**Keynote**) Dr. Kelvin Ross | *Keynote Presentation* |
-| 09:50 | 10:00 | (*Sponsor*) | |
+| 08:50 | 09:50 | (**Keynote**) Dr. Kelvin Ross | Keynote Presentation |
+| 09:50 | 10:00 | (*Sponsor*) Dedicated Systems | |
 | 10:00 | 10:30 | *Break* | |
-| 10:30 | 11:10 | Andrew Gabler & Pravin Hiremath | *Are quantitative safety targets for railways useful for disruptive technologies?* |
-| 11:10 | 11:20 | (*Sponsor*) |  |
-| 11:20 | 12:00 | Graham Drummond | *System safety in rail: the ATSB investigation into the Devonport cement train runaway and derailment* |
+| 10:30 | 11:10 | Andrew Gabler & Pravin Hiremath | Are quantitative safety targets for railways useful for disruptive technologies? |
+| 11:10 | 11:20 | (*Sponsor*) Hitachi Rail | |
+| 11:20 | 12:00 | Graham Drummond | System safety in rail: the ATSB investigation into the Devonport cement train runaway and derailment |
 | 12:00 | 13:00 | *Lunch* | |
-| 13:00 | 14:00 | (**Keynote**) Prof. Tim Miller | *Keynote Presentation* |
+| 13:00 | 14:00 | (**Keynote**) Prof. Tim Miller | Keynote Presentation |
 | 14:00 | 14:30 | *Break* | |
-| 14:30 | 15:10 | Andrew Hussey et al. | *A study of the impact of applying EN50716 to EN50128 compliant Software Engineering* |
-| 15:10 | 15:50 | Kevin Anderson et al. | *A hypothetical risk assessment for keeping humans in the loop of autonomous vehicle evolution* |
+| 14:30 | 15:10 | Andrew Hussey et al. | A study of the impact of applying EN50716 to EN50128 compliant Software Engineering |
+| 15:10 | 15:50 | Kevin Anderson et al. | A hypothetical risk assessment for keeping humans in the loop of autonomous vehicle evolution |
 | 15:50 | 16:00 | *Closing* | |
 
 ## Venues
