@@ -115,7 +115,7 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 | 11:10 | 11:20 | (*Sponsor*) | *KJR* |
 | 11:20 | 12:00 | Matthew Squair | The Limits of Foresight in an Uncertain World |
 | 12:00 | 13:00 | *Lunch* | *Catered lunch at venue* |
-| 13:00 | 14:00 | (**Keynote**) Prof. Tim Miller | Keynote Presentation |
+| 13:00 | 14:00 | (**Keynote**) Tarryn Ryan | Keynote Presentation |
 | 14:00 | 14:40 | Ben Luther  | Dissecting A Complex Risk Management Framework |
 | 14:40 | 15:10 | *Break* | |
 | 15:10 | 15:20 | (*Sponsor*) | *RGB Assurance* |
@@ -136,7 +136,7 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 | 11:10 | 11:20 | (*Sponsor*) | *Hitachi Rail* |
 | 11:20 | 12:00 | Graham Drummond | System safety in rail: the ATSB investigation into the Devonport cement train runaway and derailment |
 | 12:00 | 13:00 | *Lunch* | *Catered lunch at venue* |
-| 13:00 | 14:00 | (**Keynote**) Tarryn Ryan | Keynote Presentation |
+| 13:00 | 14:00 | (**Keynote**) Prof. Tim Miller | Keynote Presentation |
 | 14:00 | 14:30 | *Break* | |
 | 14:30 | 15:10 | Andrew Hussey et al. | A study of the impact of applying EN50716 to EN50128 compliant Software Engineering |
 | 15:10 | 15:50 | Kevin Anderson et al. | A hypothetical risk assessment for keeping humans in the loop of autonomous vehicle evolution |
