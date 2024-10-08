@@ -107,7 +107,7 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 #### Wednesday, 23rd Oct
 
 | **Start** | **End** | **Session** | **Title** |
-| 08:45 | 08:50 | *Welcome* | *Welcome by ASCSA Chair* |
+| 08:45 | 08:50 | *Welcome* | *Welcome by Conference Chair* |
 | 08:50 | 09:00 | (*Sponsor*) | *ACS / SECedu* |
 | 09:00 | 10:00 | (**Keynote**) Prof. Phil Koopman | Keynote Presentation |
 | 10:00 | 10:30 | *Break* | |
