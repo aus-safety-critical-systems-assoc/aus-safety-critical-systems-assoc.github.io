@@ -109,13 +109,13 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 | **Start** | **End** | **Session** | **Title** |
 | 08:45 | 08:50 | *Welcome* | *Welcome by Conference Chair* |
 | 08:50 | 09:00 | (*Sponsor*) | *ACS / SECedu* |
-| 09:00 | 10:00 | (**Keynote**) Prof. Phil Koopman | Keynote Presentation |
+| 09:00 | 10:00 | (**Keynote**) Prof. Phil Koopman | Understanding Self-Driving Vehicle Safety |
 | 10:00 | 10:30 | *Break* | |
 | 10:30 | 11:10 | Andrew Hussey et al. | A study of the impact of applying EN50716 to EN50128 compliant Software Engineering |
 | 11:10 | 11:20 | (*Sponsor*) | *KJR* |
 | 11:20 | 12:00 | Matthew Squair | The Limits of Foresight in an Uncertain World |
 | 12:00 | 13:00 | *Lunch* | *Catered lunch at venue* |
-| 13:00 | 14:00 | (**Keynote**) Tarryn Ryan | Keynote Presentation |
+| 13:00 | 14:00 | (**Keynote**) Tarryn Ryan | Human Factors in Aviation: Past, Present and Future |
 | 14:00 | 14:40 | Ben Luther  | Dissecting A Complex Risk Management Framework |
 | 14:40 | 15:10 | *Break* | |
 | 15:10 | 15:20 | (*Sponsor*) | *RGB Assurance* |
