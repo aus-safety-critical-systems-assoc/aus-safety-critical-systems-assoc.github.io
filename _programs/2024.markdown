@@ -1,0 +1,98 @@
+---
+title: ASSC 2024 Technical Program
+date: 2024-10-23
+conference_date: 23-24 October 2024
+location: Brisbane, QLD
+---
+
+**Presenters:**
+* toc
+{:toc}
+
+# Wednesday, 23rd Oct
+
+## Prof. Phil Koopman
+**Keynote:** *Understanding Self-Driving Vehicle Safety*
+
+Removing the human driver from a road vehicle fundamentally changes the assurance argument approach needed for safety. We must start with a deeper inquiry into what we actually mean by acceptable safety. A simplistic "safer than human driver" positive risk balance approach must be augmented with additional considerations regarding risk transfer, negligent driving behavior, standards conformance, absence of unreasonable fine-grain risk, ethics, and equity concerns. Once we have a more robust understanding of what it means to be acceptably safe, we will find that current standards frameworks and accompanying definitions are likely to be inadequate to assure safety due implicit assumptions that are violated when the human driver is removed. We propose a new framework for relating risk to acceptable safety based on satisfying multiple stakeholder constraints rather than taking a risk optimization point of view. This broadens safety approaches in a way needed to deal with autonomous vehicles.
+
+## Andrew Hussey et al.
+Title: *A study of the impact of applying EN50716 to EN50128 compliant Software Engineering*
+
+The EN50128 standard is widely applied and accepted in the rail industry for the development of software for programmable electronic systems for use in safety related railway control and protection (signalling) applications. Previous studies have confirmed the effectiveness of this standard in improving the overall software quality. In parallel, the EN50657 standard has been in use for the development of software for programmable electronic systems for rolling stock applications.
+
+More recently, the EN50716 standard has been developed, with the aim to replace both EN50128 and EN50657 with a common standard for railway software applications. To date, there are few studies of the differences between the new EN50716 standard and the preceding EN50128 and EN50657 standards.
+
+In this paper, we address this topic, from the perspective of EN50128:2011, and analyse the impact on 50128:2011 compliant process of changes introduced by the transition to the new EN50716 standard.  We classify the changes according to a classification scheme, including whether the change has major (semantic) impact or not and group the changes into categories (new, modified and deleted) and derive keywords for each change.  We consider significant impact arising from the major changes, and how they will affect typical railway software development enterprises.  Minor changes are not explicitly dealt with in this paper.
+
+## Matthew Squair
+Title: *The Limits of Foresight in an Uncertain World*
+
+What do we know about how to engineer safe systems, what do we assume we know and why the difference between the answers to these two questions are important. System safety as a discipline has from it’s origins had to deal with the challenges of novel and disruptive technologies of ever increasing complexity. This paper explores one of the pillars of traditional system safety, that is the use of risk management to both define safety as a concept and as a tool to achieve it. We discuss the inherent limitations of the classical formulation of risk as a tool in addressing  the challenges of new and disruptive technologies and propose a four-quadrant model of risk-uncertainty that integrates classical risk into a broader continuum of managing uncertainty. This model then allows us to meaningfully discuss these different types of risk and the different paradigms and approaches that are required to address them.
+
+## Tarryn Ryan
+**Keynote:** *Human Factors in Aviation: Past, Present and Future*
+
+Human Factors in aviation emerged out of the need to reduce aircraft incidents and accidents and improve safety and reliability. As technology has evolved, so human factors research and training continues to evolve. These days it focuses on optimizing human performance, automation, design, and reducing human error in increasingly complex aviation systems. The introduction of AI, autonomous air vehicles and uncrewed systems will see further evolution as human involvement transitions from direct operation to remote management and system oversight.
+
+## Ben Luther
+Title: *Dissecting A Complex Risk Management Framework*
+
+With our systems growing increasingly complex, to incorporate novel and disruptive technologies, current system safety processes and assurance standards are meeting their limits. Yet, experimental flight test was observed to uniquely manage risk in their complex socio-technical system. A flight test system encompasses the crew, leaving them vulnerable to catastrophic consequences that preclude conventional mitigations of robustness and resilience. This leaves flight test professionals to manage risk using their unique framework, guided by cultural lore.
+
+Concluding ethnographic research into the flight test risk management framework that was first reported in 2023, the outcomes of the research have identified that flight test apply a combination of Bayesian and non-statistical tools in parallel. This had the effect of matching the attributes of the tool against the attributes of the system. Using a Cynefin categorisation, Complicated systems respond to the Bayesian approaches, while Complex denies these same tools. Consequently, Complex systems require risk management approaches that accommodate emergence, a dynamic configuration and non-deterministic performance. Research into the foundations of contemporary risk management practices finds an absence of a grand theory of risk, leaving risk practices based in economic utility theory that is being applied beyond the original, economic intent. This is the basis for discomfort in the assignment of probabilities across the discontinuity of non-deterministic outcomes (Complex risk) that is done to enable contemporary approaches. An understanding of why the flight test risk management framework is effective provides a case study for wider industry dealing with complex systems and points the way ahead.
+
+## Phil Cook, Neil Robinson, & Tim McComb
+Title: *Understanding control effectiveness requires structured hazards*
+
+Establishing and maintaining the safety of a system demands that the controls enacted to mitigate the system’s hazards are, in totality, effective at doing this. Many projects and organisations have adopted practices aimed at judging and monitoring control effectiveness, often as part of a hazard log or similar repository of safety risk information. While laudable, we argue in this paper that such assessments cannot provide meaningful insights unless the underlying hazard information to which controls are attached is, itself, suitably structured. All too often hazard logs are constructed with unhelpfully “flat” structures that fail to adequately capture the relationships between undesirable events, and thus encourage the deployment of “control confetti” in the hope that this will lead to a safe outcome (or, perhaps, that any safety weaknesses will be obscured). This paper describes a generic approach to structuring hazard information that we have successfully used in several settings, highlighting its virtues in relation to understanding control effectiveness and discussing some potential drawbacks. We go on to propose semi-quantitative methods to systematically reason about control effectiveness in such a model.
+
+## Ben Merange & Lucas Schuurmans-Stekhoven
+Title: *Using machine learning techniques to identify dependent failures*
+
+The identification and eradication of dependent failures is particularly important for critical systems. Techniques commonly used to identify common cause failures or cascading failures are top-down, often relying on checklists, historical failures, and the expertise and experience of individuals. This is for good reason – a comprehensive bottom-up analysis of dependent failures is generally considered to be intractable for realistic systems.
+
+In this presentation, we propose a bottom-up approach for the identification of dependent failures within a grey-box system, to complement existing top-down techniques. Inspired by high-throughput screening in the biomedical industry, we employ combinatorial testing techniques to simulate simultaneous failures within a system, before using machine learning techniques to identify failure mode combinations that contributed to system failures. The results may then be analysed to identify causal relationships between the failure modes, identifying those that are credible dependent failures, and facilitating elimination of causal relationships between system elements that may lead to system failure.
+
+# Thursday, 24th Oct
+
+## Dr. Kelvin Ross
+**Keynote**: *Keynote presentation*
+
+## Andrew Gabler & Pravin Hiremath
+Title: *Are quantitative safety targets for railways useful for disruptive technologies?*
+
+In the Australian rail safety context the national rail safety regulator recommends that rail transport operators establish quantitative safety targets for major projects.  Traditionally this is done through the use of metrics like Fatality Weighted Injuries (FWI), Tolerable Hazard Rates (THR), Functional Failure Rates, and Safety Integrity Levels to demonstrate the achievement of a quantitative safety target.  In this paper we will explore whether these traditional metrics are still useful when working with disruptive technologies such as Artificial Intelligence.  We will document the challenges with using quantitative analysis and will then conclude with a set of recommendations for the place of quantitative analysis in future projects.
+
+## Graham Drummond
+Title: *System safety in rail: the ATSB investigation into the Devonport cement train runaway and derailment*
+
+A rail freight operator had used remotely-controlled trains continuously for almost 20 years without any accidents associated with the equipment. However, on one night in 2018, the train suddenly stopped responding to driver commands and started to roll away. The train gathered speed and passed through several towns and level crossings at high speed for 23 minutes before being diverted into a dead-end yard so that it derailed. Fortunately, damage was limited and there were only minor injuries to 2 bystanders.
+
+The remote control system’s design documentation showed that that it was designed with multiple, ‘fail-safe’ safety features and that a reputable system safety standard (AS 61508) had been applied. How did a seemingly safe system fail in this way, and what are the implications for the Australian rail industry as rail systems become ever more complex?
+
+Australia’s independent national safety investigator, the ATSB, found that the attempted application of AS 61508 was inherently flawed. There had been no explicit safety objectives, no structured approach to the equipment’s design, and limited oversight by the operator.
+
+The ATSB considered that the significant resourcing and expertise required to rigorously apply most system safety standards presented a challenge to their successful application, and small organisations may not have sufficient understanding of system safety standards to recognise when their approaches fall short. The standards available at the time were found to be too abstract, complex, costly and/or impractical for widespread recognition and acceptance by the Australian rail industry. There was also no regulatory requirement and minimal guidance to apply system safety processes in rail.
+
+## Prof. Tim Miller
+**Keynote:** *Keynote presentation*
+
+## Kevin Anderson et al.
+Title: *A hypothetical risk assessment for keeping humans in the loop of autonomous vehicle evolution*
+
+The theme of ASSC 24 is Disruptive Technologies. The take here is that there is a plethora of well meaning
+Apps and AI implications that could serve to autogenerate Safety Cases and undermine due diligence
+requirements. A case in point is the evolution to autonomous vehicles across many domains.
+
+This paper addresses:
+- Safety Critical transitions from ‘smart’ vehicles to ‘full autonomy’. Draft UL 4600 standard and SAE
+Level 3 suggest a transition to designing an autonomous car which transfers control to a human driver
+under some circumstances, but not so in full autonomy. Is it really a good idea to keep humans out of the
+loop?
+- Assurance requires a Safety Case to justify ‘acceptable safety’. Are current system safety processes and
+assurance standards appropriate to disruptive technologies?
+
+Current Safety Case qualitative processes and standards are considered to be necessary but not sufficient.
+Quantitative support through Cause-consequence modelling to assure Target Levels of Safety is examined,
+focussing on a particular scenario. For example herein - freeway merging with mixed vehicle capabilities.
