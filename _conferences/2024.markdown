@@ -141,7 +141,7 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 | 11:10 | 11:20 | (*Sponsor*) | *Hitachi Rail* |
 | 11:20 | 12:00 | Graham Drummond | [System safety in rail: the ATSB investigation into the Devonport cement train runaway and derailment](./program/#graham-drummond) |
 | 12:00 | 13:00 | *Lunch* | *Catered lunch at venue* |
-| 13:00 | 14:00 | (**Keynote**) Prof. Tim Miller | [Keynote Presentation](./program/#prof-tim-miller) |
+| 13:00 | 14:00 | (**Keynote**) Prof. Tim Miller | [Why your AI tool probably doesn’t work, and why it is so &*$% hard to get it to do so](./program/#prof-tim-miller) |
 | 14:00 | 14:30 | *Break* | |
 | 14:30 | 15:10 | Kevin Anderson et al. | [A hypothetical risk assessment for keeping humans in the loop of autonomous vehicle evolution](./program/#kevin-anderson-et-al) |
 | 15:10 | 15:20 | *Closing* | *Closing by ASCSA Chair* |

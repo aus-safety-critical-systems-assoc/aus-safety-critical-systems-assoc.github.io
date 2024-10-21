@@ -76,7 +76,7 @@ Australia’s independent national safety investigator, the ATSB, found that the
 The ATSB considered that the significant resourcing and expertise required to rigorously apply most system safety standards presented a challenge to their successful application, and small organisations may not have sufficient understanding of system safety standards to recognise when their approaches fall short. The standards available at the time were found to be too abstract, complex, costly and/or impractical for widespread recognition and acceptance by the Australian rail industry. There was also no regulatory requirement and minimal guidance to apply system safety processes in rail.
 
 ## Prof. Tim Miller
-**Keynote:** *Keynote presentation*
+**Keynote:** *Why your AI tool probably doesn’t work, and why it is so &\*$% hard to get it to do so*
 
 ## Kevin Anderson et al.
 Title: *A hypothetical risk assessment for keeping humans in the loop of autonomous vehicle evolution*
