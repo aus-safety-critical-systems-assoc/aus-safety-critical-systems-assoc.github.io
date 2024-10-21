@@ -57,7 +57,13 @@ In this presentation, we propose a bottom-up approach for the identification of 
 # Thursday, 24th Oct
 
 ## Dr. Kelvin Ross
-**Keynote**: *Keynote presentation*
+**Keynote**: *AI Safety: Emerging Policy, Governance, and Assurance*
+
+Since the mainstream adoption and rapid growth of GPT and Large Language Models (LLMs) in late 2022, unprecedented concerns about the responsible use of AI have emerged, reverberating from industry to the broader community and government. This shift has accelerated the creation and adoption of policies, standards, and regulations aimed at ensuring AI safety, driving a global dialogue on the ethical and secure deployment of AI systems. 
+
+Leading nations are now addressing these concerns by establishing dedicated institutes and initiatives focused on AI safety, designed to deepen the understanding of AI's capabilities, limitations, and inherent risks. The rapid evolution of standards for governance and assurance, combined with the rise of mandated policies, underscores the urgent need to address AI's role in both safety-critical systems and broader societal impacts.
+
+In this keynote, Dr. Kelvin Ross will provide an in-depth overview of emerging AI safety policies and governance frameworks, with a particular focus on trends in Australia. This discussion will explore the influences of international efforts and cross-industry collaboration on shaping a responsible, secure future for AI technology. Additionally, Dr. Ross will examine the role of disruptive technologies in redefining assurance and governance standards, offering insights into how industries can navigate this fast-evolving landscape.
 
 ## Andrew Gabler & Pravin Hiremath
 Title: *Are quantitative safety targets for railways useful for disruptive technologies?*
