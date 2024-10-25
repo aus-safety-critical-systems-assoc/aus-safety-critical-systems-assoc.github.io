@@ -16,7 +16,9 @@ location: Brisbane, QLD
 
 Removing the human driver from a road vehicle fundamentally changes the assurance argument approach needed for safety. We must start with a deeper inquiry into what we actually mean by acceptable safety. A simplistic "safer than human driver" positive risk balance approach must be augmented with additional considerations regarding risk transfer, negligent driving behavior, standards conformance, absence of unreasonable fine-grain risk, ethics, and equity concerns. Once we have a more robust understanding of what it means to be acceptably safe, we will find that current standards frameworks and accompanying definitions are likely to be inadequate to assure safety due implicit assumptions that are violated when the human driver is removed. We propose a new framework for relating risk to acceptable safety based on satisfying multiple stakeholder constraints rather than taking a risk optimization point of view. This broadens safety approaches in a way needed to deal with autonomous vehicles.
 
-## Andrew Hussey et al.
+## Mohan Murari, Martin Hughes, & Andrew Hussey
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20A%20study%20of%20the%20impact%20of%20applying%20EN50716%20to%20EN50128%20compliant%20SW%20engineering.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+
 Title: *A study of the impact of applying EN50716 to EN50128 compliant Software Engineering*
 
 The EN50128 standard is widely applied and accepted in the rail industry for the development of software for programmable electronic systems for use in safety related railway control and protection (signalling) applications. Previous studies have confirmed the effectiveness of this standard in improving the overall software quality. In parallel, the EN50657 standard has been in use for the development of software for programmable electronic systems for rolling stock applications.
@@ -26,6 +28,8 @@ More recently, the EN50716 standard has been developed, with the aim to replace 
 In this paper, we address this topic, from the perspective of EN50128:2011, and analyse the impact on 50128:2011 compliant process of changes introduced by the transition to the new EN50716 standard.  We classify the changes according to a classification scheme, including whether the change has major (semantic) impact or not and group the changes into categories (new, modified and deleted) and derive keywords for each change.  We consider significant impact arising from the major changes, and how they will affect typical railway software development enterprises.  Minor changes are not explicitly dealt with in this paper.
 
 ## Matthew Squair
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20The%20Limits%20of%20Foresight%20in%20an%20Uncertain%20World.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+
 Title: *The Limits of Foresight in an Uncertain World*
 
 What do we know about how to engineer safe systems, what do we assume we know and why the difference between the answers to these two questions are important. System safety as a discipline has from it’s origins had to deal with the challenges of novel and disruptive technologies of ever increasing complexity. This paper explores one of the pillars of traditional system safety, that is the use of risk management to both define safety as a concept and as a tool to achieve it. We discuss the inherent limitations of the classical formulation of risk as a tool in addressing  the challenges of new and disruptive technologies and propose a four-quadrant model of risk-uncertainty that integrates classical risk into a broader continuum of managing uncertainty. This model then allows us to meaningfully discuss these different types of risk and the different paradigms and approaches that are required to address them.
@@ -36,6 +40,8 @@ What do we know about how to engineer safe systems, what do we assume we know an
 Human Factors in aviation emerged out of the need to reduce aircraft incidents and accidents and improve safety and reliability. As technology has evolved, so human factors research and training continues to evolve. These days it focuses on optimizing human performance, automation, design, and reducing human error in increasingly complex aviation systems. The introduction of AI, autonomous air vehicles and uncrewed systems will see further evolution as human involvement transitions from direct operation to remote management and system oversight.
 
 ## Ben Luther
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20Managing%20Risk%20in%20Complex%20Systems.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+
 Title: *Dissecting A Complex Risk Management Framework*
 
 With our systems growing increasingly complex, to incorporate novel and disruptive technologies, current system safety processes and assurance standards are meeting their limits. Yet, experimental flight test was observed to uniquely manage risk in their complex socio-technical system. A flight test system encompasses the crew, leaving them vulnerable to catastrophic consequences that preclude conventional mitigations of robustness and resilience. This leaves flight test professionals to manage risk using their unique framework, guided by cultural lore.
@@ -66,6 +72,10 @@ Leading nations are now addressing these concerns by establishing dedicated inst
 In this keynote, Dr. Kelvin Ross will provide an in-depth overview of emerging AI safety policies and governance frameworks, with a particular focus on trends in Australia. This discussion will explore the influences of international efforts and cross-industry collaboration on shaping a responsible, secure future for AI technology. Additionally, Dr. Ross will examine the role of disruptive technologies in redefining assurance and governance standards, offering insights into how industries can navigate this fast-evolving landscape.
 
 ## Andrew Gabler & Pravin Hiremath
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20Quantitative%20Safety%20Targets%20for%20Railway.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+
+<span class="w3-large"><i class="fa fa-trophy"></i> Best Paper Award</span>
+
 Title: *Are quantitative safety targets for railways useful for disruptive technologies?*
 
 In the Australian rail safety context the national rail safety regulator recommends that rail transport operators establish quantitative safety targets for major projects.  Traditionally this is done through the use of metrics like Fatality Weighted Injuries (FWI), Tolerable Hazard Rates (THR), Functional Failure Rates, and Safety Integrity Levels to demonstrate the achievement of a quantitative safety target.  In this paper we will explore whether these traditional metrics are still useful when working with disruptive technologies such as Artificial Intelligence.  We will document the challenges with using quantitative analysis and will then conclude with a set of recommendations for the place of quantitative analysis in future projects.
