@@ -53,6 +53,8 @@ The purpose of this award is to encourage research in the science of software/sy
 
 One award is available, consisting of $2000 (Australian). For papers with multiple authors, the award will be given to the lead author.
 
+This year's award was presented to **Andrew Gabler** and **Pravin Hiremath** for their paper *Are quantitative safety targets for railways useful for disruptive technologies?*
+
 ## Registration
 
 Conference registration fees (except as noted) includes attendance at all technical sessions and the evening social event.
@@ -116,12 +118,12 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 | 08:50 | 09:00 | (*Sponsor*) | *ACS / SECedu* |
 | 09:00 | 10:00 | (**Keynote**) Prof. Phil Koopman | [Understanding Self-Driving Vehicle Safety](./program/#prof-phil-koopman) |
 | 10:00 | 10:30 | *Break* | |
-| 10:30 | 11:10 | Andrew Hussey et al. | [A study of the impact of applying EN50716 to EN50128 compliant Software Engineering](./program/#andrew-hussey-et-al) |
+| 10:30 | 11:10 | Mohan Murari, Martin Hughes, & Andrew Hussey | [<i class="fa fa-file"></i> A study of the impact of applying EN50716 to EN50128 compliant Software Engineering](./program/#mohan-murari-martin-hughes--andrew-hussey) |
 | 11:10 | 11:20 | (*Sponsor*) | *KJR* |
-| 11:20 | 12:00 | Matthew Squair | [The Limits of Foresight in an Uncertain World](./program/#matthew-squair) |
+| 11:20 | 12:00 | Matthew Squair | [<i class="fa fa-file"></i> The Limits of Foresight in an Uncertain World](./program/#matthew-squair) |
 | 12:00 | 13:00 | *Lunch* | *Catered lunch at venue* |
 | 13:00 | 14:00 | (**Keynote**) Tarryn Ryan | [Human Factors in Aviation: Past, Present and Future](./program/#tarryn-ryan) |
-| 14:00 | 14:40 | Ben Luther | [Dissecting A Complex Risk Management Framework](./program/#ben-luther) |
+| 14:00 | 14:40 | Ben Luther | [<i class="fa fa-file"></i> Dissecting A Complex Risk Management Framework](./program/#ben-luther) |
 | 14:40 | 15:10 | *Break* | |
 | 15:10 | 15:20 | (*Sponsor*) | *RGB Assurance* |
 | 15:20 | 16:00 | Phil Cook, Neil Robinson, & Tim McComb | [Understanding control effectiveness requires structured hazards](./program/#phil-cook-neil-robinson--tim-mccomb) |
@@ -137,7 +139,7 @@ A skilled aviator with experience in helicopter emergency medical service (HEMS)
 | 08:50 | 09:50 | (**Keynote**) Dr. Kelvin Ross | [AI Safety: Emerging Policy, Governance, and Assurance](./program/#dr-kelvin-ross) |
 | 09:50 | 10:00 | (*Sponsor*) | *Dedicated Systems* |
 | 10:00 | 10:30 | *Break* | |
-| 10:30 | 11:10 | Andrew Gabler & Pravin Hiremath | [Are quantitative safety targets for railways useful for disruptive technologies?](./program/#andrew-gabler--pravin-hiremath) |
+| 10:30 | 11:10 | Andrew Gabler & Pravin Hiremath | <b><i class="fa fa-trophy"></i> Best Paper Award</b><br>[<i class="fa fa-file"></i> Are quantitative safety targets for railways useful for disruptive technologies?](./program/#andrew-gabler--pravin-hiremath) |
 | 11:10 | 11:20 | (*Sponsor*) | *Hitachi Rail* |
 | 11:20 | 12:00 | Graham Drummond | [System safety in rail: the ATSB investigation into the Devonport cement train runaway and derailment](./program/#graham-drummond) |
 | 12:00 | 13:00 | *Lunch* | *Catered lunch at venue* |
