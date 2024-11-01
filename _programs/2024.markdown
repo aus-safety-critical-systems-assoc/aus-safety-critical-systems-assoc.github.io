@@ -12,12 +12,16 @@ location: Brisbane, QLD
 # Wednesday, 23rd Oct
 
 ## Prof. Phil Koopman
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20Understanding%20Self-Driving%20Vehicle%20Safety.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
+
 **Keynote:** *Understanding Self-Driving Vehicle Safety*
 
 Removing the human driver from a road vehicle fundamentally changes the assurance argument approach needed for safety. We must start with a deeper inquiry into what we actually mean by acceptable safety. A simplistic "safer than human driver" positive risk balance approach must be augmented with additional considerations regarding risk transfer, negligent driving behavior, standards conformance, absence of unreasonable fine-grain risk, ethics, and equity concerns. Once we have a more robust understanding of what it means to be acceptably safe, we will find that current standards frameworks and accompanying definitions are likely to be inadequate to assure safety due implicit assumptions that are violated when the human driver is removed. We propose a new framework for relating risk to acceptable safety based on satisfying multiple stakeholder constraints rather than taking a risk optimization point of view. This broadens safety approaches in a way needed to deal with autonomous vehicles.
 
 ## Mohan Murari, Martin Hughes, & Andrew Hussey
 <a href="/assets/docs/conferences/2024/ASSC%202024%20-%20A%20study%20of%20the%20impact%20of%20applying%20EN50716%20to%20EN50128%20compliant%20SW%20engineering.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+&nbsp;
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20Applying%20EN50716%20to%20EN50128%20compliant%20Software.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
 Title: *A study of the impact of applying EN50716 to EN50128 compliant Software Engineering*
 
@@ -29,6 +33,8 @@ In this paper, we address this topic, from the perspective of EN50128:2011, and 
 
 ## Matthew Squair
 <a href="/assets/docs/conferences/2024/ASSC%202024%20-%20The%20Limits%20of%20Foresight%20in%20an%20Uncertain%20World.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+&nbsp;
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20The%20Limits%20of%20Foresight%20in%20an%20Uncertain%20World%20(Slides).pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
 Title: *The Limits of Foresight in an Uncertain World*
 
@@ -41,6 +47,8 @@ Human Factors in aviation emerged out of the need to reduce aircraft incidents a
 
 ## Ben Luther
 <a href="/assets/docs/conferences/2024/ASSC%202024%20-%20Managing%20Risk%20in%20Complex%20Systems.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+&nbsp;
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20Dissecting%20a%20Complex%20Risk%20Management%20Framework.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
 Title: *Dissecting A Complex Risk Management Framework*
 
@@ -49,11 +57,15 @@ With our systems growing increasingly complex, to incorporate novel and disrupti
 Concluding ethnographic research into the flight test risk management framework that was first reported in 2023, the outcomes of the research have identified that flight test apply a combination of Bayesian and non-statistical tools in parallel. This had the effect of matching the attributes of the tool against the attributes of the system. Using a Cynefin categorisation, Complicated systems respond to the Bayesian approaches, while Complex denies these same tools. Consequently, Complex systems require risk management approaches that accommodate emergence, a dynamic configuration and non-deterministic performance. Research into the foundations of contemporary risk management practices finds an absence of a grand theory of risk, leaving risk practices based in economic utility theory that is being applied beyond the original, economic intent. This is the basis for discomfort in the assignment of probabilities across the discontinuity of non-deterministic outcomes (Complex risk) that is done to enable contemporary approaches. An understanding of why the flight test risk management framework is effective provides a case study for wider industry dealing with complex systems and points the way ahead.
 
 ## Phil Cook, Neil Robinson, & Tim McComb
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20Understanding%20Control%20Effectiveness%20Requires%20Structured%20Hazards.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
+
 Title: *Understanding control effectiveness requires structured hazards*
 
 Establishing and maintaining the safety of a system demands that the controls enacted to mitigate the system’s hazards are, in totality, effective at doing this. Many projects and organisations have adopted practices aimed at judging and monitoring control effectiveness, often as part of a hazard log or similar repository of safety risk information. While laudable, we argue in this paper that such assessments cannot provide meaningful insights unless the underlying hazard information to which controls are attached is, itself, suitably structured. All too often hazard logs are constructed with unhelpfully “flat” structures that fail to adequately capture the relationships between undesirable events, and thus encourage the deployment of “control confetti” in the hope that this will lead to a safe outcome (or, perhaps, that any safety weaknesses will be obscured). This paper describes a generic approach to structuring hazard information that we have successfully used in several settings, highlighting its virtues in relation to understanding control effectiveness and discussing some potential drawbacks. We go on to propose semi-quantitative methods to systematically reason about control effectiveness in such a model.
 
 ## Ben Merange & Lucas Schuurmans-Stekhoven
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20Using%20Machine%20Learning%20Techniques%20to%20Identify%20Dependent%20Failures.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
+
 Title: *Using machine learning techniques to identify dependent failures*
 
 The identification and eradication of dependent failures is particularly important for critical systems. Techniques commonly used to identify common cause failures or cascading failures are top-down, often relying on checklists, historical failures, and the expertise and experience of individuals. This is for good reason – a comprehensive bottom-up analysis of dependent failures is generally considered to be intractable for realistic systems.
@@ -63,6 +75,8 @@ In this presentation, we propose a bottom-up approach for the identification of 
 # Thursday, 24th Oct
 
 ## Dr. Kelvin Ross
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20AI%20Safety%20-%20Emerging%20Policy,%20Governance%20and%20Assurance.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
+
 **Keynote**: *AI Safety: Emerging Policy, Governance, and Assurance*
 
 Since the mainstream adoption and rapid growth of GPT and Large Language Models (LLMs) in late 2022, unprecedented concerns about the responsible use of AI have emerged, reverberating from industry to the broader community and government. This shift has accelerated the creation and adoption of policies, standards, and regulations aimed at ensuring AI safety, driving a global dialogue on the ethical and secure deployment of AI systems. 
@@ -73,6 +87,8 @@ In this keynote, Dr. Kelvin Ross will provide an in-depth overview of emerging A
 
 ## Andrew Gabler & Pravin Hiremath
 <a href="/assets/docs/conferences/2024/ASSC%202024%20-%20Quantitative%20Safety%20Targets%20for%20Railway.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+&nbsp;
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20Are%20Quantitative%20Safety%20Targets%20for%20Railways%20Useful%20for%20Disruptive%20Technologies.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
 <span class="w3-large"><i class="fa fa-trophy"></i> Best Paper Award</span>
 
@@ -81,6 +97,8 @@ Title: *Are quantitative safety targets for railways useful for disruptive techn
 In the Australian rail safety context the national rail safety regulator recommends that rail transport operators establish quantitative safety targets for major projects.  Traditionally this is done through the use of metrics like Fatality Weighted Injuries (FWI), Tolerable Hazard Rates (THR), Functional Failure Rates, and Safety Integrity Levels to demonstrate the achievement of a quantitative safety target.  In this paper we will explore whether these traditional metrics are still useful when working with disruptive technologies such as Artificial Intelligence.  We will document the challenges with using quantitative analysis and will then conclude with a set of recommendations for the place of quantitative analysis in future projects.
 
 ## Graham Drummond
+<a href="/assets/docs/conferences/2024/ASSC%202024%20-%20System%20Safety%20in%20Rail%20-%20The%20ATSB%20investigation%20into%20the%202018%20Devonport%20cement%20train%20runaway%20and%20derailment.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
+
 Title: *System safety in rail: the ATSB investigation into the Devonport cement train runaway and derailment*
 
 A rail freight operator had used remotely-controlled trains continuously for almost 20 years without any accidents associated with the equipment. However, on one night in 2018, the train suddenly stopped responding to driver commands and started to roll away. The train gathered speed and passed through several towns and level crossings at high speed for 23 minutes before being diverted into a dead-end yard so that it derailed. Fortunately, damage was limited and there were only minor injuries to 2 bystanders.
@@ -97,18 +115,10 @@ The ATSB considered that the significant resourcing and expertise required to ri
 ## Kevin Anderson et al.
 Title: *A hypothetical risk assessment for keeping humans in the loop of autonomous vehicle evolution*
 
-The theme of ASSC 24 is Disruptive Technologies. The take here is that there is a plethora of well meaning
-Apps and AI implications that could serve to autogenerate Safety Cases and undermine due diligence
-requirements. A case in point is the evolution to autonomous vehicles across many domains.
+The theme of ASSC 24 is Disruptive Technologies. The take here is that there is a plethora of well meaning Apps and AI implications that could serve to autogenerate Safety Cases and undermine due diligence requirements. A case in point is the evolution to autonomous vehicles across many domains.
 
 This paper addresses:
-- Safety Critical transitions from ‘smart’ vehicles to ‘full autonomy’. Draft UL 4600 standard and SAE
-Level 3 suggest a transition to designing an autonomous car which transfers control to a human driver
-under some circumstances, but not so in full autonomy. Is it really a good idea to keep humans out of the
-loop?
-- Assurance requires a Safety Case to justify ‘acceptable safety’. Are current system safety processes and
-assurance standards appropriate to disruptive technologies?
+- Safety Critical transitions from ‘smart’ vehicles to ‘full autonomy’. Draft UL 4600 standard and SAE Level 3 suggest a transition to designing an autonomous car which transfers control to a human driver under some circumstances, but not so in full autonomy. Is it really a good idea to keep humans out of the loop?
+- Assurance requires a Safety Case to justify ‘acceptable safety’. Are current system safety processes and assurance standards appropriate to disruptive technologies?
 
-Current Safety Case qualitative processes and standards are considered to be necessary but not sufficient.
-Quantitative support through Cause-consequence modelling to assure Target Levels of Safety is examined,
-focussing on a particular scenario. For example herein - freeway merging with mixed vehicle capabilities.
+Current Safety Case qualitative processes and standards are considered to be necessary but not sufficient. Quantitative support through Cause-consequence modelling to assure Target Levels of Safety is examined, focussing on a particular scenario. For example herein - freeway merging with mixed vehicle capabilities.
