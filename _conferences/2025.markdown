@@ -1,0 +1,85 @@
+---
+title: ASSC 2025
+date: 2025-10-01
+conference_date: October 2025
+location: Melbourne, VIC
+theme: "TBD"
+description: "Australian System Safety Conference 2025 | Melbourne"
+---
+
+## Australian System Safety Conference
+
+The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
+
+The theme for the 2025 conference is yet to be determined.
+
+Topics of interest include (but are not limited to) systems engineering, safety assurance, human factors, cybersecurity and social engineering, security assurance, reliance, automation, collaboration, teamwork, trust, and assurance standards.
+
+### Topics of Interest
+
+The conference invites original and unpublished works that advance the state-of-the-art in safety and security considerations for the development and operation of safety and security critical systems. We are particularly interested in cross-industry and cross-pollenisation, and looking for papers in:
+- Medicine and health (medical devices, e-health systems, etc.)
+- Transport
+- Defence and Aviation
+- Telecommunications
+- Energy
+- Security
+- Resource and process industries
+- Emergency services
+
+Delegates have the option of submitting two types of papers:
+1. Refereed Industry Papers by the conference program committee; or
+2. Industry Presentations (not subject to peer review).
+
+Papers and presentations are published on the conference website.
+
+### Submission
+- Abstracts should be approximately 250 words.
+- For delegates who optionally submit a full paper - papers should be no more than 10 pages.
+- A paper template is [available here](/assets/docs/conferences/2025/ASSC%202025%20Template.rtf).
+- Paper submissions can be emailed to [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
+
+### Important Dates
+- Abstract: **TBD** (text, rtf, MS-Word or pdf)
+- Submission: **TBD** (rtf, MS-Word or pdf)
+- Camera-ready copy: **TBD** (pdf only)
+
+### Best Paper Award
+The purpose of this award is to encourage research in the science of software/system engineering or the application of that science for safety and/or mission critical software-intensive systems.
+
+One award is available, consisting of $2000 (Australian). For papers with multiple authors, the award will be given to the lead author.
+
+## Registration
+
+Conference registration fees (except as noted) includes attendance at all technical sessions and the evening social event.
+
+All fees as listed above are in Australian Dollars and GST inclusive. For questions about registration, contact the ASCSA Secretary at [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
+
+|  | Registration |
+|-------|--------|
+| **Presenter's Rate**[^1] | FREE |
+| **aSCSa, ACS Member** | TBD |
+| **All Others** | TBD |
+
+[^1]: *One presenter may receive this rate per presentation.*
+
+## Keynotes
+
+TBD.
+
+## Technical Program
+
+TBD.
+
+## Venues
+
+### Conference Venue
+
+TBD.
+
+## Sponsors
+
+[![ACS](/assets/img/sponsors/acs.png){:style="max-height:150px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l12 m12 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+
+{:class="w3-center"}
+[Become a Sponsor](/sponsorship){:class="w3-button w3-theme"}
