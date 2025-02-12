@@ -11,13 +11,19 @@ description: "Australian System Safety Conference 2025 | Melbourne | Critical Co
 
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
 
-The theme for the 2025 conference is **experiences and advancements in critical computer systems**.
-
-Topics of interest include (but are not limited to) systems engineering, safety assurance, human factors, cybersecurity and social engineering, security assurance, reliance, automation, collaboration, teamwork, trust, and assurance standards.
+The theme for the 2025 conference is **experiences and advancements in critical computer systems**. This conference seeks to explore the latest research, development, and practical experiences related to the design, implementation, and evaluation of computer systems where failure can have significant consequences. We welcome both academic papers presenting original research and experience reports detailing real-world case studies and lessons learned. Join us to share your insights and contribute to the advancement of this vital area.
 
 ### Topics of Interest
 
-The conference invites original and unpublished works that advance the state-of-the-art in safety and security considerations for the development and operation of safety and security critical systems. We are particularly interested in cross-industry and cross-pollenisation, and looking for papers in:
+Topics of interest include (but are not limited to) safety-critical systems, real-time systems, embedded systems, fault tolerance, verification techniques, security in critical systems, human factors in critical systems, and emerging challenges in the field.
+
+The 2025 ASSC would like to examine and share the latest experiences, thinking, and state of the art techniques for:
+- Development and maintenance of critical computer systems
+- Providing assurance of critical computer systems
+
+We invite research papers and project experience to present and engage.
+
+Safety critical areas of interest include:
 - Medicine and health (medical devices, e-health systems, etc.)
 - Transport
 - Defence and Aviation
@@ -27,20 +33,21 @@ The conference invites original and unpublished works that advance the state-of-
 - Resource and process industries
 - Emergency services
 
-Delegates have the option of submitting two types of papers:
-1. Refereed Industry Papers by the conference program committee; or
-2. Industry Presentations (not subject to peer review).
-
-Papers and presentations are published on the conference website.
-
 ### Submission
+
+Delegates have the option of submitting two types of papers:
+1. Refereed Papers by the conference program committee; or
+2. Industry Presentations/Papers (not subject to peer review).
+
+Both types of papers are published on the conference website. If sufficient papers are accepted, we may publish in the Journal of Safety and Reliability Society.
+
 - Abstracts should be approximately 250 words.
 - For delegates who optionally submit a full paper - papers should be no more than 10 pages.
 - A paper template is [available here](/assets/docs/conferences/2025/ASSC%202025%20Template.rtf).
 - Paper submissions can be emailed to [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
 
 ### Important Dates
-- Abstract: **TBD** (text, rtf, MS-Word or pdf)
+- Abstract: **30th June 2025** (text, rtf, MS-Word or pdf)
 - Submission: **TBD** (rtf, MS-Word or pdf)
 - Camera-ready copy: **TBD** (pdf only)
 
