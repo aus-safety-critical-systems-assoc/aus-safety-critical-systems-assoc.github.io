@@ -1,23 +1,29 @@
 ---
 title: ASSC 2025
 date: 2025-10-01
-conference_date: October 2025
+conference_date: 15-16 October 2025
 location: Melbourne, VIC
-theme: "TBD"
-description: "Australian System Safety Conference 2025 | Melbourne"
+theme: "Experiences and Advancements in Critical Computer Systems"
+description: "Australian System Safety Conference 2025 | Melbourne | Critical Computer Systems"
 ---
 
 ## Australian System Safety Conference
 
 The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
 
-The theme for the 2025 conference is yet to be determined.
-
-Topics of interest include (but are not limited to) systems engineering, safety assurance, human factors, cybersecurity and social engineering, security assurance, reliance, automation, collaboration, teamwork, trust, and assurance standards.
+The theme for the 2025 conference is **experiences and advancements in critical computer systems**. This conference seeks to explore the latest research, development, and practical experiences related to the design, implementation, and evaluation of computer systems where failure can have significant consequences. We welcome both academic papers presenting original research and experience reports detailing real-world case studies and lessons learned. Join us to share your insights and contribute to the advancement of this vital area.
 
 ### Topics of Interest
 
-The conference invites original and unpublished works that advance the state-of-the-art in safety and security considerations for the development and operation of safety and security critical systems. We are particularly interested in cross-industry and cross-pollenisation, and looking for papers in:
+Topics of interest include (but are not limited to) safety-critical systems, real-time systems, embedded systems, fault tolerance, verification techniques, security in critical systems, human factors in critical systems, and emerging challenges in the field.
+
+The 2025 ASSC would like to examine and share the latest experiences, thinking, and state of the art techniques for:
+- Development and maintenance of critical computer systems
+- Providing assurance of critical computer systems
+
+We invite research papers and project experience to present and engage.
+
+Safety critical areas of interest include:
 - Medicine and health (medical devices, e-health systems, etc.)
 - Transport
 - Defence and Aviation
@@ -27,20 +33,21 @@ The conference invites original and unpublished works that advance the state-of-
 - Resource and process industries
 - Emergency services
 
-Delegates have the option of submitting two types of papers:
-1. Refereed Industry Papers by the conference program committee; or
-2. Industry Presentations (not subject to peer review).
-
-Papers and presentations are published on the conference website.
-
 ### Submission
+
+Delegates have the option of submitting two types of papers:
+1. Refereed Papers by the conference program committee; or
+2. Industry Presentations/Papers (not subject to peer review).
+
+Both types of papers are published on the conference website. If sufficient papers are accepted, we may publish in the Journal of Safety and Reliability Society.
+
 - Abstracts should be approximately 250 words.
 - For delegates who optionally submit a full paper - papers should be no more than 10 pages.
 - A paper template is [available here](/assets/docs/conferences/2025/ASSC%202025%20Template.rtf).
 - Paper submissions can be emailed to [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
 
 ### Important Dates
-- Abstract: **TBD** (text, rtf, MS-Word or pdf)
+- Abstract: **30th June 2025** (text, rtf, MS-Word or pdf)
 - Submission: **TBD** (rtf, MS-Word or pdf)
 - Camera-ready copy: **TBD** (pdf only)
 
@@ -58,8 +65,8 @@ All fees as listed above are in Australian Dollars and GST inclusive. For questi
 |  | Registration |
 |-------|--------|
 | **Presenter's Rate**[^1] | FREE |
-| **aSCSa, ACS Member** | TBD |
-| **All Others** | TBD |
+| **aSCSa, ACS Member** | $1250.00 |
+| **All Others** | $1375.00 |
 
 [^1]: *One presenter may receive this rate per presentation.*
 
@@ -75,7 +82,9 @@ TBD.
 
 ### Conference Venue
 
-TBD.
+This years conference will be held at the **Rendezvous Hotel** at 328 Flinders St, Melbourne VIC 3000.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.7923560384475!2d144.96096767655928!3d-37.818332371974435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b3737bd98f%3A0xd7dd54c1722bcdb6!2sRendezvous%20Hotel%20Melbourne!5e0!3m2!1sen!2sau!4v1739149982772!5m2!1sen!2sau" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Sponsors
 
