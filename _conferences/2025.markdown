@@ -48,8 +48,8 @@ Both types of papers are published on the conference website. If sufficient pape
 
 ### Important Dates
 - Abstract: **30th June 2025** (text, rtf, MS-Word or pdf)
-- Submission: **TBD** (rtf, MS-Word or pdf)
-- Camera-ready copy: **TBD** (pdf only)
+- Submission: **1st September 2025** (rtf, MS-Word or pdf)
+- Camera-ready copy: **8th October 2025** (pdf only)
 
 ### Best Paper Award
 The purpose of this award is to encourage research in the science of software/system engineering or the application of that science for safety and/or mission critical software-intensive systems.
