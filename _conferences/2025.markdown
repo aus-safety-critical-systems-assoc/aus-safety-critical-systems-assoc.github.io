@@ -77,22 +77,30 @@ All fees as listed above are in Australian Dollars and GST inclusive. For questi
 *Director General Defence Aviation and Safety Authority*
 
 Air Commodore Badgery joined the Royal Australian Air Force in 1995 as an Officer Cadet at the Australian Defence Force Academy, graduating from RMIT University with an Honours degree in Aerospace Engineering. He was the F/A-18 aircraft maintenance officer at No 2 Operational Conversion Unit where he was part of the team awarded the RAAF Maintenance Trophy in 2001, after which he managed structural integrity for the P-3 fleet at the Directorate General of Technical Airworthiness.
+
 Air Commodore Badgery has experience with regulation of commercial and defence design organisations within the Defence airworthiness authority and Capability Acquisition and Sustainment Group, and is currently the Defence Aviation Safety Authority Director General. He has staff experience in Air Force strategic workforce planning, as personnel manager in Directorate of Personnel and as the inaugural staff officer for the Air Force command selection board, subsequently awarded a Chief of Air Force commendation for his efforts. He completed Joint Command and Staff College in India, where he attained the Southern Star medal as first place foreign student.
+
 Air Commodore Badgery has executive maintenance experience as Hawk aircraft senior engineer at No 76 Squadron, and in project management for Advanced F/A-18 Growler and P-8A Poseidon. He deployed on Operation SLIPPER as the Host Nation Liaison Officer at Al Minhad airbase and on return, seconded to Joint Forces Integration Directorate.
+
 Air Commodore Badgery has executive engineering experience as the P-8A Project Engineering Manager and as Director of Logistic Capability in Air Mobility Group. He held command as Officer Commanding Air Lift Systems Program Office, responsible for delivering C-130J and C-27J engineering, deeper maintenance and logistics capabilities as part of a team of public servant, Air Force and contractor personnel.
 Air Commodore Badgery has experience enabling the Air Force executive leadership as the Chief of Staff Air Force Headquarters.
-Air Commodore Badgery was appointed a Member of the Order of Australia in 2022 for his exceptional service to the Australian Defence Force in aerospace capability development, project management, and application of airworthiness regulation.
-Air Commodore Badgery has completed Masters in both Engineering Science and Defence Strategic Studies. He is a Graduate of the Australian Institute of Company Directors, a Fellow of Engineers Australia, a Chartered Project Director and Chartered Professional Engineer.
 
+Air Commodore Badgery was appointed a Member of the Order of Australia in 2022 for his exceptional service to the Australian Defence Force in aerospace capability development, project management, and application of airworthiness regulation.
+
+Air Commodore Badgery has completed Masters in both Engineering Science and Defence Strategic Studies. He is a Graduate of the Australian Institute of Company Directors, a Fellow of Engineers Australia, a Chartered Project Director and Chartered Professional Engineer.
 
 ### Carlos Rendo
 ![Carlos Rendo](/assets/img/conferences/2025/carlos_rendo.png){:class="w3-circle w3-right"}
 *Principal Launch and Space Safety Engineer, Nova Systems* 
 
 Carlos is the Principal Launch and Space Safety Engineer for the Nova Systems - Space Safety and Mission Assurance team. This team provide independent launch safety and operations advice and services to government and industry.
+
 Commencing as a RAAF Flight Test Engineer and Range Safety Officer, Carlos' career has spanned over 30 years of test and evaluation and safety management including; multiple defence flight test activities, management and conduct of Navy combat system sea trials, safety management of Defence sub-orbital space launches, operational safety analysis for Defence UAS.
+
 Since early 2020, Carlos has supported a growing list of Space Agency regulatory functions for; the Australia’s civil & defence Space, New Zealand Space and Norwegian CAA-Space. He is the Nova primary technical sign off for advice to implement space launch safety assurance processes, risk modelling and simulation, plus conduct of safety and operational risk reviews for space launch or returns permits and facility licence applications. 
+
 As technical lead for the Nova Systems - Space Safety and Mission Assurance team Carlos has lead multiple Australian Space Agency launch safety assessments, including the NASA Sounding Rocket 3 launch campaign operated from the Arnhem Space Centre. Most recently the first orbital-capable launch and subsequent flight termination from European soil was permitted in Andoya Norway based on his Nova team scrutiny and risk advice.
+
 Carlos is a committed long term member and panel contributor to the International Association for Advancement in Space Safety.
 
 ## Technical Program
