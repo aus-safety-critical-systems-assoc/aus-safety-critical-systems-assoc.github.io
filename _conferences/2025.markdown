@@ -103,6 +103,12 @@ As technical lead for the Nova Systems - Space Safety and Mission Assurance team
 
 Carlos is a committed long term member and panel contributor to the International Association for Advancement in Space Safety.
 
+### Dr David Ireland
+![David Ireland](/assets/img/conferences/2025/david_ireland.png){:class="w3-circle w3-right"}
+*Venture capital partner, board director, and innovation strategist * 
+
+Dr David Ireland is a venture capital partner, board director, and innovation strategist with a 20-year track record of scaling disruptive technologies to global markets. As a Partner at Significant Capital Ventures and Investment Committee Member for UniQuest, David has helped launch and fund breakthrough startups in deep tech, AI, and sustainability. He is a seasoned board leader, currently serving on the boards of WWF Australia, Additive Assurance, and Vantari VR, with prior executive roles at CSIRO where he founded Australia's flagship deep-tech accelerator, the ON Program, and at ThinkAction where he secured $500m USD in funding from USAID to deliver public health programs globally. A Fulbright Fellow and former Chair of the Australian Government’s Horizon Scanning Committee, David has co-founded multiple ventures, delivered hundreds of millions in investment, and driven systems-level change in R&D commercialisation. He brings deep insight into how emerging technologies can transform industries—and what it takes to lead that change.
+
 ## Technical Program
 
 TBD.
