@@ -112,6 +112,12 @@ Carlos is a committed long term member and panel contributor to the Internationa
 
 Dr David Ireland is a venture capital partner, board director, and innovation strategist with a 20-year track record of scaling disruptive technologies to global markets. As a Partner at Significant Capital Ventures and Investment Committee Member for UniQuest, David has helped launch and fund breakthrough startups in deep tech, AI, and sustainability. He is a seasoned board leader, currently serving on the boards of WWF Australia, Additive Assurance, and Vantari VR, with prior executive roles at CSIRO where he founded Australia's flagship deep-tech accelerator, the ON Program, and at ThinkAction where he secured $500m USD in funding from USAID to deliver public health programs globally. A Fulbright Fellow and former Chair of the Australian Government’s Horizon Scanning Committee, David has co-founded multiple ventures, delivered hundreds of millions in investment, and driven systems-level change in R&D commercialisation. He brings deep insight into how emerging technologies can transform industries—and what it takes to lead that change.
 
+### Dr Marthie Grobler
+![Marthie Grobler](/assets/img/conferences/2025/marthie_grobler.png){:class="w3-circle w3-right"}
+*Principal Research Scientist, Data61, CSIRO*
+
+Dr Marthie Grobler is a Principal Research Scientist at CSIRO’s Data61, where she leads CSIRO’s strategic portfolio on Critical Infrastructure Protection and Resilience. Her research focuses on strengthening the security and resilience of essential systems and services by addressing cybersecurity governance, risk mitigation, and the complex interdependencies across critical infrastructure sectors. With a strong emphasis on human factors and digital trust, Marthie’s work enhances the usability and adoption of security solutions in real-world environments. She is actively involved in executive education and policy development, contributing to national efforts to build infrastructure resilience and public confidence in digital systems. Her work informs cyber policy and capability-building initiatives, helping ensure that Australia’s critical infrastructure remains secure, adaptive, and interconnected in the face of evolving threats.
+
 ## Technical Program
 
 TBD.
