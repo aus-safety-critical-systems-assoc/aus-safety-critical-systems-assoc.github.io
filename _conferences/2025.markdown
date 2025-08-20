@@ -134,7 +134,13 @@ The conference dinner will be held on Wednesday evening at [Red Spice Road](http
 
 ## Sponsors
 
-[![ACS](/assets/img/sponsors/acs.png){:style="max-height:150px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l12 m12 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+{:class="w3-center w3-row"}
+[![TSA Riley](/assets/img/sponsors/tsa.png){:style="max-height:150px;"}](https://www.tsariley.com/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+[![PHM Technology](/assets/img/sponsors/phm.png){:style="max-height:150px;"}](https://www.phmtechnology.com/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+
+{:class="w3-center w3-row"}
+[![Hitachi](/assets/img/sponsors/hitachi.png){:style="max-height:100px;"}](http://www.hitachirail.com/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding"}{:style="line-height:200px;"}
+[![ACS](/assets/img/sponsors/acs.png){:style="max-height:150px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
 
 {:class="w3-center"}
 [Become a Sponsor](/sponsorship){:class="w3-button w3-theme"}
