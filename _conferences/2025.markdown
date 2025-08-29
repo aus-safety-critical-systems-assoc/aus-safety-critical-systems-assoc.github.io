@@ -120,7 +120,39 @@ Dr Marthie Grobler is a Principal Research Scientist at CSIRO’s Data61, where 
 
 ## Technical Program
 
-TBD.
+#### Wednesday, 15th Oct
+
+| **Time** | **Session** | **Title** |
+| 08:45 | *Welcome* | *Welcome by Conference Chair* |
+| 09:00 | (**Keynote**) Carlos Rendo | The role of safety critical computer intensive systems in future space launch |
+| 10:00 | Ben Luther | Beyond the Black Swan: Rethinking Uncertainty in Complex, Critical Systems |
+| 10:40 | *Break* | |
+| 11:10 | Rahul Gottumukkala & Derek Kim | Unifying Functional Hazard Analysis and RAMS Modelling: Bridging the Safety Assurance Gap through Digital System Representations |
+| 11:50 | (*Sponsor*) | *PHM Technology* |
+| 12:00 | *Lunch* | *Catered lunch at venue* |
+| 13:00 | (**Dr. Marthie Grobler**) | Trust by design: Human-centric security for resilient infrastructure |
+| 14:00 | Hourieh Khalajzadeh | User-Centred Software Safety: Leveraging Generative AI to Enhance Inclusivity and Reliability |
+| 14:40 | *Break* | |
+| 15:10 | Collin Song & Zoltan David | A System of Systems approach for integrated safety assurance |
+| 15:50 | (*Sponsor*) | *Hitachi Rail STS* |
+| 16:00 | Dr. Andrew Hussey, Mohan Murari, Martin Hughes, & Maria Hill | Practical Considerations in the Application of SFAIRP |
+| 16:40 | (*Sponsor*) | *Australian Computer Society* |
+| 16:50 | *Closure* | *Closure of first day by Conference Chair* |
+| 18:00 | *Conference Dinner* | *Red Spice Road (141 Queen Street, Melbourne)* |
+
+#### Thursday, 16th Oct
+
+| **Time** | **Session** | **Title** |
+| 09:00 | (**Keynote**) AIRCDRE James Badgery | Keynote address |
+| 10:00 | *Break* | |
+| 10:30 | Sunand Sudhakaran | Initiatives in Level Crossing Safety |
+| 11:10 | Campbell Sims | Control in Name Only: Investigating the Ineffectiveness of Hazard Mitigation |
+| 11:50 | (*Sponsor*) | *TSA Riley* |
+| 12:00 | *Lunch* | *Catered lunch at venue* |
+| 13:00 | (**Keynote**) Dr. David Ireland | The pressure to move fast and break things and implications for society |
+| 14:00 | Jingcheng Xu | Toward Proactive and Adaptive Wearable Safety Systems for Human–Robot Collaboration in Industry 5.0 |
+| 14:40 | Julia Gibney | Defence Sponsored System Safety Masters |
+| 14:50 | *Closing* | *Closing by Conference Chair* |
 
 ## Venues
 
@@ -140,7 +172,8 @@ The conference dinner will be held on Wednesday evening at [Red Spice Road](http
 [![Hitachi](/assets/img/sponsors/hitachi.png){:style="max-height:100px;"}](http://www.hitachirail.com/){:target="_blank"}{:class="w3-col l4 m6 s12 w3-padding"}{:style="line-height:200px;"}
 
 {:class="w3-center w3-row"}
-[![ACS](/assets/img/sponsors/acs.png){:style="max-height:150px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l12 m12 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:style="max-height:100px;"}](https://dedicatedsystems.com.au/){:target="_blank"}{:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding"}{:style="line-height:200px;"}
+[![ACS](/assets/img/sponsors/acs.png){:style="max-height:150px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
 
 {:class="w3-center"}
 [Become a Sponsor](/sponsorship){:class="w3-button w3-theme"}
