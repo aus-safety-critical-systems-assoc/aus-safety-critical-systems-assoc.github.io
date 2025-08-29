@@ -130,7 +130,7 @@ Dr Marthie Grobler is a Principal Research Scientist at CSIRO’s Data61, where 
 | 11:10 | Rahul Gottumukkala & Derek Kim | Unifying Functional Hazard Analysis and RAMS Modelling: Bridging the Safety Assurance Gap through Digital System Representations |
 | 11:50 | (*Sponsor*) | *PHM Technology* |
 | 12:00 | *Lunch* | *Catered lunch at venue* |
-| 13:00 | (**Dr. Marthie Grobler**) | Trust by design: Human-centric security for resilient infrastructure |
+| 13:00 | (**Keynote**) Dr. Marthie Grobler | Trust by design: Human-centric security for resilient infrastructure |
 | 14:00 | Hourieh Khalajzadeh | User-Centred Software Safety: Leveraging Generative AI to Enhance Inclusivity and Reliability |
 | 14:40 | *Break* | |
 | 15:10 | Collin Song & Zoltan David | A System of Systems approach for integrated safety assurance |
