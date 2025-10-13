@@ -134,28 +134,27 @@ Dr Marthie Grobler is a Principal Research Scientist at CSIRO’s Data61, where 
 | 14:00 | Hourieh Khalajzadeh | User-Centred Software Safety: Leveraging Generative AI to Enhance Inclusivity and Reliability |
 | 14:40 | (*Sponsor*) | *TSA Riley* |
 | 14:50 | *Break* | |
-| 15:20 | Collin Song & Zoltan David | A System of Systems approach for integrated safety assurance |
-| 16:00 | (*Sponsor*) | *Hitachi Rail STS* |
-| 16:10 | Dr. Andrew Hussey, Mohan Murari, Martin Hughes, & Maria Hill | Practical Considerations in the Application of SFAIRP |
-| 16:50 | (*Sponsor*) | *Australian Computer Society* |
+| 15:20 | (**Keynote**) Dr. David Ireland | The pressure to move fast and break things and implications for society |
+| 16:20 | Dr. Andrew Hussey, Mohan Murari, Martin Hughes, & Maria Hill | Practical Considerations in the Application of SFAIRP |
 | 17:00 | *Closure* | *Closure of first day by Conference Chair* |
 | 18:00 | *Conference Dinner* | *Red Spice Road (141 Queen Street, Melbourne)* |
 
 #### Thursday, 16th Oct
 
 | **Time** | **Session** | **Title** |
-| 08:30 | (**Keynote**) AIRCDRE James Badgery | Keynote address |
-| 09:30 | Mark Pedersen | AI and Safety |
-| 10:10 | (*Sponsor*) | *KJR* |
-| 10:20 | *Break* | |
-| 10:40 | Sunand Sudhakaran | Initiatives in Level Crossing Safety |
-| 11:20 | Campbell Sims | Control in Name Only: Investigating the Ineffectiveness of Hazard Mitigation |
+| 08:50 | (*Sponsor*) | *KJR* |
+| 09:00 | (**Keynote**) AIRCDRE James Badgery | Keynote address |
+| 10:00 | Mark Pedersen | AI and Safety |
+| 10:40 | *Break* | |
+| 11:10 | Campbell Sims | Control in Name Only: Investigating the Ineffectiveness of Hazard Mitigation |
+| 11:50 | (*Sponsor*) | *Dedicated Systems* |
 | 12:00 | *Lunch* | *Catered lunch at venue* |
-| 13:00 | (**Keynote**) Dr. David Ireland | The pressure to move fast and break things and implications for society |
-| 14:00 | (*Sponsor*) | *Dedicated Systems* |
-| 14:10 | Jingcheng Xu | Toward Proactive and Adaptive Wearable Safety Systems for Human–Robot Collaboration in Industry 5.0 |
-| 14:50 | Julia Gibney | Defence Sponsored System Safety Masters |
-| 15:00 | *Closing* | *Closing by Conference Chair* |
+| 13:00 | (*Sponsor*) | *Hitachi Rail STS* |
+| 13:10 | Jingcheng Xu | Toward Proactive and Adaptive Wearable Safety Systems for Human–Robot Collaboration in Industry 5.0 |
+| 13:50 | Collin Song & Zoltan David | A System of Systems approach for integrated safety assurance |
+| 14:30 | (*Sponsor*) | *Australian Computer Society* |
+| 14:40 | *Closing* | *Closing by Conference Chair* |
+| 14:50 | *Afternoon Tea* | |
 
 ## Venues
 
