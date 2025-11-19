@@ -127,7 +127,7 @@ Dr Marthie Grobler is a Principal Research Scientist at CSIRO’s Data61, where 
 | 09:00 | (**Keynote**) Carlos Rendo | The role of safety critical computer intensive systems in future space launch |
 | 10:00 | Ben Luther | Beyond the Black Swan: Rethinking Uncertainty in Complex, Critical Systems |
 | 10:40 | *Break* | |
-| 11:10 | Rahul Gottumukkala & Derek Kim | Unifying Functional Hazard Analysis and RAMS Modelling: Bridging the Safety Assurance Gap through Digital System Representations |
+| 11:10 | Rahul Gottumukkala & Derek Kim | [<i class="fa fa-file"></i> Unifying Functional Hazard Analysis and RAMS Modelling: Bridging the Safety Assurance Gap through Digital System Representations](/assets/docs/conferences/2025/ASSC%202025%20-%20Unifying%20Functional%20Hazard%20Analysis%20and%20RAMS%20Modelling.pdf) |
 | 11:50 | (*Sponsor*) | *PHM Technology* |
 | 12:00 | *Lunch* | *Catered lunch at venue* |
 | 13:00 | (**Keynote**) Dr. Marthie Grobler | Trust by design: Human-centric security for resilient infrastructure |
@@ -135,7 +135,7 @@ Dr Marthie Grobler is a Principal Research Scientist at CSIRO’s Data61, where 
 | 14:40 | (*Sponsor*) | *TSA Riley* |
 | 14:50 | *Break* | |
 | 15:20 | (**Keynote**) Dr. David Ireland | The pressure to move fast and break things and implications for society |
-| 16:20 | Dr. Andrew Hussey, Mohan Murari, Martin Hughes, & Maria Hill | Practical Considerations in the Application of SFAIRP |
+| 16:20 | Dr. Andrew Hussey, Mohan Murari, Martin Hughes, & Maria Hill | [<i class="fa fa-file"></i> Practical Considerations in the Application of SFAIRP](/assets/docs/conferences/2025/ASSC%202025%20-%20Practical%20considerations%20in%20the%20application%20of%20SFAIRP.pdf) |
 | 17:00 | *Closure* | *Closure of first day by Conference Chair* |
 | 18:00 | *Conference Dinner* | *Red Spice Road (141 Queen Street, Melbourne)* |
 

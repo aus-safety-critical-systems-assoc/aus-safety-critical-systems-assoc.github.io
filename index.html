@@ -9,41 +9,17 @@ title: aSCSa
 <div>
   <p>The Australian Safety Critical Systems Association (aSCSa) promotes co-operation among academic, industrial, commercial, and governmental communities surrounding the practice and advancement in the production and operation of safety-related systems in Australia. The aSCSa is a National Special Interest Group of the <a href="https://www.acs.org.au" class="w3-text-theme" target="_blank">Australian Computer Society.</a></p>
 </div>
-<div class="w3-panel w3-border w3-pale-yellow w3-center">
-  <h4><b>Upcoming Conference</b></h4>
-  <p>The <a href="{{ site.conferences[-1].url }}"><b>2025 Australian System Safety Conference</b></a> will be held on <b>15-16 October</b> in <b>Melbourne</b>.</p>
-  <p>This year's theme is <b>experiences and advancements in critical computer systems</b>.</p>
-  <p><a class="w3-button w3-theme" href="https://www.acs.org.au/cpd-education/event-detail.html?eventId=701Om00000PNf0tIAD">Register Now</a></p>
-</div>
-<div class="w3-panel w3-border w3-white w3-center">
-  <h4><b>Research Award Recipient</b></h4>
-  <p>
-    Congratulations to <b>Ben Luther</b> for receiving the aSCSa's <a href="/awards/" class="w3-text-theme">Research Award</a> for his research towards the development of a management framework to preclude
-    or reduce inadvertent risk transfer in complex socio-technical systems. Ben has recently presented at <a href="/conferences/2022/" class="w3-text-theme">ASSC&nbsp;2022</a> and 
-    <a href="/conferences/2023/" class="w3-text-theme">ASSC&nbsp;2023</a> on the topics of assuring artificial intellegience and scoping safety domains.
-  </p>
-  <p>
-    <img src="/assets/img/award-ben-luther.jpg" alt="Ben Luther" width="50%">
-  </p>
-  <p>
-    Please consider applying for the <a href="/awards/" class="w3-text-theme">Research Award</a> if you are undertaking research in the science of software/system engineering or the application of that science 
-    for safety and/or mission critical software-intensive systems.
-  </p>
-  <p>
-    <a class="w3-button w3-theme" href="/awards/">View Research Award Details</a>
-  </p>
-</div>
 <div class="w3-row w3-center w3-padding-32">
   {% assign next_conference = site.conferences[-1] %}
   <a href="{{ next_conference.url }}" class="w3-col w3-third w3-padding">
     <i class="fa fa-calendar w3-jumbo w3-text-theme"></i>
-    <p class="w3-large w3-text-theme">Next Conference</p>
+    <p class="w3-large w3-text-theme">Latest Conference</p>
     <p><b class="w3-text-theme-dark">{{ next_conference.title }}</b><br>{{ next_conference.conference_date }} | {{ next_conference.location }}</p>
   </a>
   {% assign last_conference = site.conferences[-2] %}
   <a href="{{ last_conference.url }}" class="w3-col w3-third w3-padding">
     <i class="fa fa-history w3-jumbo w3-text-theme"></i>
-    <p class="w3-large w3-text-theme">Last Conference</p>
+    <p class="w3-large w3-text-theme">Previous Conference</p>
     <p><b class="w3-text-theme-dark">{{ last_conference.title }}</b><br>{{ last_conference.conference_date }} | {{ last_conference.location }}</p>
   </a>
   {% assign latest_newsletter = site.newsletters[-1] %}
