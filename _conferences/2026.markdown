@@ -92,10 +92,8 @@ This years conference will be held at the **Crowne Plaza** (27 Frome St, Adelaid
 ## Sponsors
 
 {:class="w3-center w3-row"}
-[![TSA Riley](/assets/img/sponsors/tsa.png){:style="max-height:150px;"}](https://www.tsariley.com/){:target="_blank"}{:class="w3-col l4 m12 s12 w3-padding w3-center"}{:style="line-height:200px;"}
-
-{:class="w3-center w3-row"}
-[![ACS](/assets/img/sponsors/acs.png){:style="max-height:150px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l4 m12 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+[![ACS](/assets/img/sponsors/acs.png){:style="max-height:150px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+[![TSA Riley](/assets/img/sponsors/tsa.png){:style="max-height:100px;"}](https://www.tsariley.com/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
 
 {:class="w3-center"}
 [Become a Sponsor](/sponsorship){:class="w3-button w3-theme"}
