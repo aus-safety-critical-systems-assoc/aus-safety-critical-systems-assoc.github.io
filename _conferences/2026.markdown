@@ -1,0 +1,101 @@
+---
+title: ASSC 2026
+date: 2026-10-28
+conference_date: 28-29 October 2026
+location: Adelaide, SA
+theme: "System Safety in an Era of Continuously Evolving Capabilities"
+description: "Australian System Safety Conference 2026 | Adelaide | Continuously Evolving Capabilities"
+---
+
+## Australian System Safety Conference
+
+The Australian System Safety Conference (ASSC) is organised by the Australian Safety Critical Systems Association (aSCSa), a Special Interest Group of the Australian Computer Society.
+
+The theme for the 2026 conference is **System Safety in an Era of Continuously Evolving Capabilities**. This conference seeks to explore the latest research, development, and practical experiences related to the design, implementation, and evaluation of computer systems where failure can have significant consequences. We welcome both academic papers presenting original research and experience reports detailing real-world case studies and lessons learned. Join us to share your insights and contribute to the advancement of this vital area.
+
+### Topics of Interest
+
+Topics of interest include (but are not limited to) systems engineering, safety assurance, human factors, cybersecurity and cyber worthiness, security assurance, reliance, automation, and assurance standards.  
+
+The 2026 ASSC would like to examine and share the latest thinking and state of the art techniques for:
+- Providing assurance of systems with evolving capabilities; and for
+- Development and maintenance of critical computer systems.
+
+We invite research papers and project experience to present and engage.
+
+Safety critical areas of interest include:
+- Transport 
+- Defence and Aviation
+- Medicine and Health (medical devices, digital health, etc.)
+- AI (in relation to safety)
+- Telecommunications
+- Energy 
+- Security
+- Resource and Process Industries
+- Emergency Services
+
+### Submission
+
+Delegates have the option of submitting two types of papers:
+1. Refereed Papers by the conference program committee; or
+2. Industry Presentations/Papers (not subject to peer review).
+
+Both types of papers are published on the conference website.
+
+- Abstracts should be approximately 250 words.
+- For delegates who optionally submit a full paper - papers should be no more than 10 pages.
+- A paper template is [available here](/assets/docs/conferences/2026/ASSC%202026%20Template.rtf).
+- Paper submissions can be emailed to [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
+
+### Important Dates
+- Abstract: **30th June 2026** (text, rtf, MS-Word or pdf)
+- Submission: **TBD** (rtf, MS-Word or pdf)
+- Camera-ready copy: **TBD** (pdf only)
+
+### Best Paper Award
+The purpose of this award is to encourage research in the science of software/system engineering or the application of that science for safety and/or mission critical software-intensive systems.
+
+One award is available, consisting of $2000 (Australian). For papers with multiple authors, the award will be given to the lead author.
+
+## Registration
+
+Conference registration fees (except as noted) includes attendance at all technical sessions and the evening social event.
+
+All fees as listed above are in Australian Dollars and GST inclusive. For questions about registration, contact the ASCSA Secretary at [secretary@ascsa.org.au](mailto:secretary@ascsa.org.au).
+
+|  | Registration |
+|-------|--------|
+| **Presenter's Rate**[^1] | FREE |
+| **aSCSa, ACS Member** | $1250.00 |
+| **All Others** | $1375.00 |
+
+A registration link will be posted here closer to the conference date.
+
+[^1]: *One presenter may receive this rate per presentation.*
+
+## Keynotes
+
+TBD.
+
+## Technical Program
+
+TBD.
+
+## Venues
+
+### Conference Venue
+
+This years conference will be held at the **Crowne Plaza** (27 Frome St, Adelaide SA 5000).
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3271.3797241469906!2d138.607606!3d-34.92201250000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ab0cf0baf64f6b5%3A0x9a19d553cf957f72!2sCrowne%20Plaza%20Adelaide%20by%20IHG!5e0!3m2!1sen!2sau!4v1774486169390!5m2!1sen!2sau" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Sponsors
+
+{:class="w3-center w3-row"}
+[![TSA Riley](/assets/img/sponsors/tsa.png){:style="max-height:150px;"}](https://www.tsariley.com/){:target="_blank"}{:class="w3-col l4 m12 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+
+{:class="w3-center w3-row"}
+[![ACS](/assets/img/sponsors/acs.png){:style="max-height:150px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l4 m12 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+
+{:class="w3-center"}
+[Become a Sponsor](/sponsorship){:class="w3-button w3-theme"}
