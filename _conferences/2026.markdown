@@ -49,8 +49,8 @@ Both types of papers are published on the conference website.
 
 ### Important Dates
 - Abstract: **30th June 2026** (text, rtf, MS-Word or pdf)
-- Submission: **TBD** (rtf, MS-Word or pdf)
-- Camera-ready copy: **TBD** (pdf only)
+- Submission: **4th September 2026** (rtf, MS-Word or pdf)
+- Camera-ready copy: **16th October 2026** (pdf only)
 
 ### Best Paper Award
 The purpose of this award is to encourage research in the science of software/system engineering or the application of that science for safety and/or mission critical software-intensive systems.
@@ -92,7 +92,7 @@ This years conference will be held at the **Crowne Plaza** (27 Frome St, Adelaid
 ## Sponsors
 
 {:class="w3-center w3-row"}
-[![ACS](/assets/img/sponsors/acs.png){:style="max-height:150px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+[![ACS](/assets/img/sponsors/acs-new.png){:style="max-height:100px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
 [![TSA Riley](/assets/img/sponsors/tsa.png){:style="max-height:100px;"}](https://www.tsariley.com/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
 
 {:class="w3-center"}
