@@ -21,7 +21,7 @@ The 2026 ASSC would like to examine and share the latest thinking and state of t
 - Providing assurance of systems with evolving capabilities; and for
 - Development and maintenance of critical computer systems.
 
-We invite research papers and project experience to present and engage.
+We invite research papers and project experience presentations.
 
 Safety critical areas of interest include:
 - Transport 
@@ -36,9 +36,9 @@ Safety critical areas of interest include:
 
 ### Submission
 
-Delegates have the option of submitting two types of papers:
-1. Refereed Papers by the conference program committee; or
-2. Industry Presentations/Papers (not subject to peer review).
+Delegates have the option of submitting:
+1. Research or Industry Papers, refereed by the conference program committee
+2. Industry Presentations (not subject to peer review)
 
 Both types of papers are published on the conference website.
 
