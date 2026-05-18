@@ -69,7 +69,8 @@ All fees as listed above are in Australian Dollars and GST inclusive. For questi
 | **aSCSa, ACS Member** | $1250.00 |
 | **All Others** | $1375.00 |
 
-A registration link will be posted here closer to the conference date.
+{:class="w3-center w3-large"}
+[Register Here](https://www.acs.org.au/cpd-education/event-detail.html?eventId=701Om00000gU4sjIAC){:class="w3-button w3-theme"}
 
 [^1]: *One presenter may receive this rate per presentation.*
 
