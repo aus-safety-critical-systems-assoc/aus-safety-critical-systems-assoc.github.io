@@ -76,11 +76,39 @@ All fees as listed above are in Australian Dollars and GST inclusive. For questi
 
 ## Keynotes
 
-TBD.
+### Professor Jill Slay
+![Professor Jill Slay](/assets/img/conferences/2026/jill_slay.png){:class="w3-circle w3-right"}
+*SmartSat Chair of Cybersecurity*
+
+Professor Jill Slay is currently the Australian SmartSat Co-operative Research Centre Professorial Chair in
+Cybersecurity. Her work focuses on the context of supporting development of a holistic national technical agenda in
+satellite cybersecurity and resilience with Government, Defence, and Defence Industry. Professor Slay has twenty-five
+years of university cross-disciplinary cyber security curriculum and research development after establishing herself as
+a cyber security academic drawing on engineering, ICT, and systems security. In a technical context, Professor Slay was
+ranked as being in the top 2% of scientists in the world in Artificial Intelligence, ICT Networking and
+Telecommunications sub-field, since she was an early adopter of AI and Machine Learning in cyber security she applies
+these to satellite security. Professor Slay is a member of the Australian Research Council (ARC) College of Experts
+and Vice Chair of the IEEE P3349 - Space System Cybersecurity Working Group, which has developed technical standards
+in space systems cybersecurity.
+
+### Dr Kelvin Ross
+![Kelvin Ross](/assets/img/conferences/2024/kelvin_ross.png){:class="w3-circle w3-right"}
+*Chairman, KJR  | Director, IntelliHQ | Adjunct Assoc Professor, Institute for Integrated & Intelligent Systems*
+
+Dr Kelvin Ross is an entrepreneur, technologist and researcher with over 25 years’ experience in software engineering,
+safety-critical systems and enterprise IT. He began his career in safety-critical software engineering in defence,
+working on FA-18 airborne radar systems, before completing a PhD in safety-critical systems engineering and spending
+several years consulting in defence and transportation systems. He then moved into the commercial sector, founding KJR,
+a mid-tier IT consultancy specialising in software testing and assurance across e-health, public administration,
+finance, insurance, retail and telecommunications. Kelvin has contributed to several boards and national committees,
+including IntelliHQ, a healthcare AI innovation NFP, Chair of the Qld AI Hub, ACS national technical committee for
+AI Safety. He is an Associate Adjunct Professor at Griffith University’s Institute for Intelligent and Integrated
+Systems. Over the past two years he has been applying agentic AI tools hands-on across coding, test automation
+and delivery, and speaks regularly on AI safety, governance and assurance.
 
 ## Technical Program
 
-TBD.
+The technical program is being finalised. Stay tuned for an update.
 
 ## Venues
 
@@ -93,9 +121,12 @@ This years conference will be held at the **Crowne Plaza** (27 Frome St, Adelaid
 ## Sponsors
 
 {:class="w3-center w3-row"}
-[![ACS](/assets/img/sponsors/acs-new.png){:style="max-height:100px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l4 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
-[![TSA Riley](/assets/img/sponsors/tsa.png){:style="max-height:100px;"}](https://www.tsariley.com/){:target="_blank"}{:class="w3-col l4 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
-[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:style="max-height:100px;"}](https://dedicatedsystems.com.au/){:target="_blank"}{:target="_blank"}{:class="w3-col l4 m12 s12 w3-padding"}{:style="line-height:200px;"}
+[![ACS](/assets/img/sponsors/acs-new.png){:style="max-height:100px;"}](https://www.acs.org.au/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+[![TSA Riley](/assets/img/sponsors/tsa.png){:style="max-height:100px;"}](https://www.tsariley.com/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding w3-center"}{:style="line-height:200px;"}
+
+{:class="w3-center w3-row"}
+[![Dedicated Systems](/assets/img/sponsors/dedicated_systems.png){:style="max-height:100px;"}](https://dedicatedsystems.com.au/){:target="_blank"}{:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding"}{:style="line-height:200px;"}
+[![Hitachi](/assets/img/sponsors/hitachi.png){:style="max-height:100px;"}](http://www.hitachirail.com/){:target="_blank"}{:class="w3-col l6 m6 s12 w3-padding"}{:style="line-height:200px;"}
 
 {:class="w3-center"}
 [Become a Sponsor](/sponsorship){:class="w3-button w3-theme"}
