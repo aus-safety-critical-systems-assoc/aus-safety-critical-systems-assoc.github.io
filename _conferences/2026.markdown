@@ -108,7 +108,45 @@ and delivery, and speaks regularly on AI safety, governance and assurance.
 
 ## Technical Program
 
-The technical program is being finalised. Stay tuned for an update.
+#### Wednesday, 28th Oct
+
+| **Time** | **Session** | **Title** |
+| 08:50 | *Welcome* | *Welcome by Conference Chair* |
+| 09:00 | (**Keynote**) Dr Kelvin Ross | Agentic Engineering: How AI Agents Are Rewriting the SDLC - and What That Means for Safety |
+| 10:00 | Dr Clive Boughton | Effective System/Software Engineering with AI |
+| 10:30 | *Break* | |
+| 11:00 | Daniel Grivicic | Designed to Requirements: When Compliance Stands in for Knowing a Design Is Good |
+| 11:30 | Daryl Wheatley | Safety Application Programming Functional Validation in the New Age of AI |
+| 12:00 | *Lunch* | *Catered lunch at venue* |
+| 13:00 | (*Sponsor*) | |
+| 13:10 | Barry Brown | Systems Integrated through Logical Claims |
+| 13:40 | Collin Song & Zoltan David | From System Acceptance to Continuous Assurance: Adopting Dynamic Safety Cases For Evolving Railway Systems |
+| 14:10 | Dr Andrew Hussey, Joshua Cobb, Martin Hughes, Yacine Kharoufi, Hubert Grondin, & Padma Kodey | Industrial re-use of a Generic ETCS Hazard Analysis |
+| 14:40 | (*Sponsor*) | |
+| 14:50 | *Break* | |
+| 15:20 | Ray Feodoroff | IIFormalisms in Specifications for AI Coding Agents |
+| 15:50 | Sarah Maslen & Jan Hayes | AI technology in knowledge work: Navigating ethics in practice in cases of distributed decision making |
+| 16:20 | Michael Johnson & Bart Jacobs | Stop Shuffling Ballot Papers: Voting systems are mission critical, and getting the data-type right |
+| 16:50 | (*Sponsor*) | |
+| 17:00 | *Closure* | *Closure of first day by Conference Chair* |
+| 18:00 | *Conference Dinner* | *Held at the same venue* |
+
+#### Thursday, 29th Oct
+
+| **Time** | **Session** | **Title** |
+| 08:50 | (*Sponsor*) | |
+| 09:00 | (**Keynote**) Professor Jill Slay | TBD |
+| 10:00 | Gary Gaskell | About Safety's crucial dependency on Security |
+| 10:30 | *Break* | |
+| 11:00 | Matthew Squair | Fratricide Risk in an Integrated Air and Missile Defence System of Systems |
+| 11:30 | Dr Andrew Hussey, Graziano Marino, Maria Hill, & Mohan Murari | Continuous Development and Maintenance of an Operational Safety Critical System |
+| 12:00 | *Lunch* | *Catered lunch at venue* |
+| 13:00 | (*Sponsor*) | |
+| 13:10 | Raj Chotai | Human-in-the-Loop Safety Arguments: Defining the Role and Limits of AI-Assisted Safety Assurance |
+| 13:40 | Payal Tiwari | The Safety Layer Nobody Shipped: Agentic AI, Accountability Gaps and the People Left Outside the Operating Model |
+| 14:10 | (*Sponsor*) | |
+| 14:20 | *Break* | |
+| 14:50 | *Closing* | *Closing by Conference Chair* |
 
 ## Venues
 
