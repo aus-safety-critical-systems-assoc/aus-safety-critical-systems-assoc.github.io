@@ -183,5 +183,3 @@ AI safety literature - including the most recent 2026 reports from PwC, McKinsey
 Australia's Robodebt scheme is the most documented case study of what autonomous decision-making looks like without genuine human accountability - $1.76 billion raised against 526,000 people, with documented deaths. As agentic AI scales, the question of who is accountable to the citizen - not just to the system owner - becomes a safety-critical question, not merely an ethical one.
 
 I bring a rare dual perspective to this topic: 15+ years as a technology executive, currently operating as a Fractional Technology Advisor & Chief AI Officer (CAIO), with prior roles at Deloitte, EY, Accenture and Wipro - and a practitioner background in family violence policy and multicultural community advocacy, including advisory work with Victoria Legal Aid's Specialist Family Violence Courts project.
-
-I would welcome the opportunity to contribute an industry presentation that connects the technical safety assurance framework with the lived human consequences of getting accountability wrong at scale.
