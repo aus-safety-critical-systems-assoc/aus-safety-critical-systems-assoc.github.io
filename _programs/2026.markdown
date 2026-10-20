@@ -11,9 +11,9 @@ location: Adelaide, SA
 
 # Wednesday, 28rd Oct
 
-## Dr Kelvin Ross
+## Keynote: Agentic Engineering: How AI Agents Are Rewriting the SDLC - and What That Means for Safety
 
-**Keynote:** *Agentic Engineering: How AI Agents Are Rewriting the SDLC - and What That Means for Safety*
+*Dr Kelvin Ross*
 
 Software engineering is undergoing its most significant shift since the move from waterfall to agile: agentic AI tools that don't just assist with code, but plan, act, test and correct with increasing autonomy. Drawing on hands-on experience deploying these tools for coding, test automation and delivery, this talk examines how the software development lifecycle itself is changing, and what that means for systems safety.
 
@@ -21,9 +21,9 @@ We'll unpack how large language models and agentic frameworks actually work, and
 
 This talk offers a practitioner's view of where agentic AI is heading, the opportunities for systems safety, and the assurance gaps our profession needs to close before the technology outruns our frameworks.
 
-## Dr Clive Boughton
+## Effective System/Software Engineering with AI
 
-*Effective System/Software Engineering with AI*
+*Dr Clive Boughton*
 
 The best AI systems provide very significant, positive effectiveness at every phase of systems/software engineering - not just coding.
 The engineering of highly safe and/or secure systems requires the application of an end-to-end set of stringent phases/processes that help guarantee the creation and proper operation of products with high integrity and availability.
@@ -31,37 +31,37 @@ Appropriate system/software engineering (SSE) lifecycles (of course) exist and a
 
 Ah! But AI can save us! Can't it? Maybe!  However, it is best to consider a holistic approach in applying AI to the SSE lifecycle and associated customer/developer project management activities.  This presentation focusses on applying AI to the SSE lifecycle based on experiments that I've performed across key phases.
 
-## Daniel Grivicic
+## Designed to Requirements: When Compliance Stands in for Knowing a Design Is Good
 
-*Designed to Requirements: When Compliance Stands in for Knowing a Design Is Good*
+*Daniel Grivicic*
 
 This paper considers how engineers assess designs with the heart, drawing on felt experience of what has gone wrong before. However, when confronted with a new and unfamiliar design, the head takes over, and the written requirements and others' experience through standards become all they have. Yet the deepest understanding of a design lives in that felt experience, not in the requirements or engineering standards. So, can a design be called good when only the head was used?
 
 Engineers check a design in two ways: against the written requirements, and against their own experience of what has gone wrong before. The second is the one that catches the deep problems; however, it is seldom documented. It lives within the individual, drifting and fading as people move between companies and industries, and organisations seldom capture it. When a design is genuinely new, the kind we meet more and more as capabilities evolve, the engineer has no past pattern to draw on, so the written requirements and associated standards become the whole of the check. They then sign off that the design is "designed to requirements". But that confirms only the written half. The lived experience that would tell us the design is sound was never on the page, so its absence cannot be seen. Compliance with the requirement quietly stands in for the knowledge that the design is good, and no one notices, because the missing knowledge left no trace.
 
-## Daryl Wheatley
+## Safety Application Programming Functional Validation in the New Age of AI
 
-*Safety Application Programming Functional Validation in the New Age of AI*
+*Daryl Wheatley*
 
 There is no doubt that Artificial Intelligence (AI) is now being used to assist with the coding of non-safety related systems. It is only a matter of time, if it is not already occurring, that AI might participate in some aspects Safety Application Program development. This could be software module development or creating code that is based on existing software structures that are easily repeatable. It must be accepted that AI, if only in somewhat different ways, makes mistakes just like humans. If it is considered acceptable that AI assist with code development could there be potential to use it to assist with the functional validation of the safety application program. There is potential that diverse types of AI could be used to identify and highlight misalignment with the stated system requirements as well as miscellaneous errors to be more thoroughly reviewed by an experienced human checker. This could increase the timeliness, scale and complexity of the software review that could be conducted. Any tools that could reduce systematic errors should be examined and critically considered. However, given the nature of AI how do we ensure that the assistance rendered by AI adds value to the validation. How do we ensure that safety is improved and systematic errors reduced rather than using AI for the sake of it and giving ourselves a misplaced, overinflated or worse completely false sense of security?
 
-## Barry Brown
+## Systems Integrated through Logical Claims
 
-*Systems Integrated through Logical Claims*
+*Barry Brown*
 
 Integration is often presented as an unforeseeable and insurmountable obstacle to the delivery of Engineering projects. Moreover, it is often perceived to be an Engineering Problem. There is a clear contradiction in this logic of this conclusion.
 
 This paper aims to challenge the above perception through consideration of Causation particularly in terms of the Management Systems that an organisation implements to successfully deliver a project. To achieve this the following steps will be followed:
-1. To select an example undesirable Event, which by definition is not an indication of project success. The Air France F-BTSC Concorde Accident, 25 July 2000 has been selected for this purpose.
-2. To analyse this undesirable Event, as tangible sequential Events that contributed to it. A simple Event Tree shall be expanded into a complex Fault Tree to support this.
-3. To consider these tangible sequential Events as specific examples that can be categorised against generic systematic failures of the Safety Management System (SMS). Representing the SMS as Safety Claims helps translate these systematic failures into Threats against the Safety Claims. In this contest Safety Claims are equivalent to generic Protective & Reactive Barriers, for which one can assess effectiveness. This approach facilitates generic representation of the entire SMS using Safety Risk Management techniques. For this paper, a Bow-Tie diagram has been chosen to provide a visual represent the SMS. Note: Strictly speaking, this is not a Bow-Tie diagram, it is a similar visual representation of the entire SMS (that could utilise existing project IT infrastructure and licences).
+- To select an example undesirable Event, which by definition is not an indication of project success. The Air France F-BTSC Concorde Accident, 25 July 2000 has been selected for this purpose.
+- To analyse this undesirable Event, as tangible sequential Events that contributed to it. A simple Event Tree shall be expanded into a complex Fault Tree to support this.
+- To consider these tangible sequential Events as specific examples that can be categorised against generic systematic failures of the Safety Management System (SMS). Representing the SMS as Safety Claims helps translate these systematic failures into Threats against the Safety Claims. In this contest Safety Claims are equivalent to generic Protective & Reactive Barriers, for which one can assess effectiveness. This approach facilitates generic representation of the entire SMS using Safety Risk Management techniques. For this paper, a Bow-Tie diagram has been chosen to provide a visual represent the SMS. Note: Strictly speaking, this is not a Bow-Tie diagram, it is a similar visual representation of the entire SMS (that could utilise existing project IT infrastructure and licences).
 
 One might question the value of the above evolution and whether it comes close to addressing the unsurmountable Integration obstacle. However, we can now categorise all Safety specific undesirable Events as generic Threats to a generic visual representation of the SMS through its Safety Claims. We have in effect created a universal visualisation to Assure project Safety Success. This paper aims to go further through the following steps:
-4. To propose that any other Management System and the Threats to its success can be represented in a similar manner (a Bow-Tie like representation of the QMS, BMS, Project-MS, Finance-MS, Commercial-MS, HR-MS, Config-MS, etc.).
+- To propose that any other Management System and the Threats to its success can be represented in a similar manner (a Bow-Tie like representation of the QMS, BMS, Project-MS, Finance-MS, Commercial-MS, HR-MS, Config-MS, etc.).
 
 This paper aims to deliver Integrated project success. Similar visual representations alone do not achieve this, but they come close. This following steps complete the circle of evolution:
-5. A generic Bow-Tie (like) diagram shall be generated for other Management Systems.
-6. Common touch-points between Management System Claims shall be identified. Commonality is related to the potential for Threats to undermine achievement of the Claims of success for each Management System. This helps identify the relevant Stakeholders who need to be aware of changes to Threats exposure, while recognising that the responsibility for managing Claims lies within different Management Systems.
+- A generic Bow-Tie (like) diagram shall be generated for other Management Systems.
+- Common touch-points between Management System Claims shall be identified. Commonality is related to the potential for Threats to undermine achievement of the Claims of success for each Management System. This helps identify the relevant Stakeholders who need to be aware of changes to Threats exposure, while recognising that the responsibility for managing Claims lies within different Management Systems.
 
 The result of the above approach is to deliver Systems Integrated through Logical Claims (SILC-Tie representation).
 
@@ -69,9 +69,9 @@ The implicit conclusion from the above approach is that effective Integration is
 
 Effective and Efficient Integration is a conjunction of different worlds and different philosophies. These worlds can coexist, but to harmoniously deliver common success mutual dependencies and common touch-points need to be managed as factors that are critical to project success.
 
-## Collin Song & Zoltan David
+## From System Acceptance to Continuous Assurance: Adopting Dynamic Safety Cases For Evolving Railway Systems
 
-*From System Acceptance to Continuous Assurance: Adopting Dynamic Safety Cases For Evolving Railway Systems*
+*Collin Song & Zoltan David*
 
 Safety cases are intended to be living documents containing safety arguments and evidence, remaining valid throughout the full lifecycle of a system. However, many rail projects treat them as one-off deliverables, producing static safety cases only to obtain system acceptance. These safety cases are often not meaningfully updated during operation and maintenance stage to maintain the validity, which creates a gap between the basis on which the original safety argument was made and the evolving operational reality.
 
@@ -83,16 +83,15 @@ Despite this potential, adoption of dynamic safety case for run-time assurance w
 
 This research examines the practical considerations for applying dynamic safety cases in the railway context. It explores their potential benefits and how rail system safety practitioners can improve safety case development practices so that operators can use these safety cases to realise those benefits.
 
+## Industrial re-use of a Generic ETCS Hazard Analysis
 
-## Dr Andrew Hussey, Joshua Cobb, Martin Hughes, Yacine Kharoufi, Hubert Grondin, & Padma Kodey
-
-*Industrial re-use of a Generic ETCS Hazard Analysis*
+*Dr Andrew Hussey, Joshua Cobb, Martin Hughes, Yacine Kharoufi, Hubert Grondin, & Padma Kodey*
 
 One of the key contributions of the Common Safety Method, also reflected in the EN50126:2017, is the use of Codes of Practice to identify hazards and their associated controls. The UNISIG standards for development of interoperable ETCS systems also incorporate hazard analysis and a hazard log, however this is mainly from the perspective of the components of an ETCS system and their contribution to the ETCS core and auxiliary hazards. Instead, at the overall ETCS System level, a functional analysis is desirable, also reflecting the balance achieved between system and human contributions to failure, so as to properly manage both the EN50126 process as well as demonstrate safety in accordance with SFAIRP. Since this functional analysis is missing from the UNISIG, it needs to be provided for each project where an ETCS system is delivered. In Hitachi Rail, previous projects have created functional analyses as needed to reflect the specific requirements applicable for each customer. However increasingly, the need for standardisation of the analysis, as well as re-use of previous best practice, has become apparent. To accommodate this, a Generic ETCS Hazard Analysis has been developed, which can also be considered to be an emerging Code of Practice for identification of hazards and their associated controls for ETCS systems. This paper is concerned with describing the approach that was taken to developing this analysis, as well as the benefits that this brings, and the remaining challenges to fully realise the complete potential. We describe two case studies where the Generic ETCS Hazard Analysis was used, the optimisations to our process that resulted, as well as the limitations that we observed. The first case study is a project hazard analysis, while the second case study is a training course, incorporating a SFAIRP summary for each hazard in the Generic ETCS Hazard Analysis.
 
-## Ray Feodoroff
+## IIFormalisms in Specifications for AI Coding Agents
 
-*IIFormalisms in Specifications for AI Coding Agents*
+*Ray Feodoroff*
 
 The principle problem for safety assurance of any system has long been recognised as a burden, generally applied as a separate "argument", more often by a non-associative third party author, essentially tasked with making the "argument" the system is safe by way of explaining that the "correct" requirements are implemented, in a manner akin to what otherwise has the look and feel of design rationale and over the means-end decomposition of the requirements into design and implementation.
 
@@ -104,16 +103,15 @@ Going back in time appears, therefore, a must to investigate what means are avai
 
 This is otherwise a status report for an ongoing investigation towards tool smithing of a semiformal but approachable means to support AI coding agent driven SDD (and by extension TDD), to support a level of software assurance of code generated by AI agents.
 
+## AI technology in knowledge work: Navigating ethics in practice in cases of distributed decision making
 
-## Sarah Maslen & Jan Hayes
-
-*AI technology in knowledge work: Navigating ethics in practice in cases of distributed decision making*
+*Sarah Maslen & Jan Hayes*
 
 In high stakes technoscientific domains (i.e., aviation, healthcare, engineering of hazardous infrastructure), AI technologies are increasingly being designed for professional decision support. This raises significant questions regarding professional ethics and decision making. We examine these "narrow" forms of AI as epistemic (i.e. knowledge-related) technologies which call on us to grapple with the relation between human and nonhuman in reasoning, matters of trust, and responsibility for decisions in both forward- and backward-looking senses. We articulate four areas of particular concern, including the challenge that moral distancing poses to ethical decision making, the limitations of models in accounting for rare events, how users can become overly reliant and uncritical in their evaluation of AI outputs for reasons of human cognition as well as their work pressures, and lastly the critical role that AI whistleblowers play in ensuring ethical protections. Other research has called for AI ethics in practice driven by operationalized principles. We argue that effective AI-assisted decision making must also be grounded in the decision making moment. The goal must be to see not only what AI can or cannot do, but what professionals do currently and must continue to do, and how AI may or may not help.
 
-## Michael Johnson & Bart Jacobs
+## Stop Shuffling Ballot Papers: Voting systems are mission critical, and getting the data-type right
 
-*Stop Shuffling Ballot Papers: Voting systems are mission critical, and getting the data-type right*
+*Michael Johnson & Bart Jacobs*
 
 "Voting systems" can mean both
 1.	The rules for how an election is counted and winners are determined (eg first-past-the=-post, preferential (also called instant run-off), or multi-member electorate single transferable vote (STV) as in the Australian Senate), and
@@ -134,9 +132,9 @@ It is hoped that such data-type reformulation might be similarly useful in other
 
 # Thursday, 29th Oct
 
-## Professor Jill Slay
+## Keynote: Beyond the Threat Matrix: Towards a Quantitative, Architecture-Aware Cyber Risk Framework for Software-Defined Space Systems
 
-**Keynote:** *Beyond the Threat Matrix: Towards a Quantitative, Architecture-Aware Cyber Risk Framework for Software-Defined Space Systems*
+*Professor Jill Slay*
 
 Space systems have quietly become load-bearing infrastructure for the Australian economy, national security and everyday life. Positioning, timing, communications and Earth observation services underpin energy grids, financial settlement, emergency response and the precision agriculture on which export revenues depend. Yet the governance frameworks designed to protect critical infrastructure were written before this dependency became acute, and the threat environment has evolved far faster than the regulatory response.
 
@@ -146,24 +144,23 @@ The talk introduces AUSCAN - the Assured Unified SPARTA-COSMOS2 Assessment Notat
 
 The central argument is systemic rather than technical: space failures share the irreversibility and cascading consequence that define safety-critical systems, and the engineering disciplines of system safety offer proven governance models that cyber regulation has yet to fully adopt. Closing the gap demands coordinated action across operators, regulators and standards bodies before the next significant space-related cyber incident makes the case for us.
 
-## Gary Gaskell
+## About Safety's crucial dependency on Security
 
-*About Safety's crucial dependency on Security*
+*Gary Gaskell*
 
 We cannot patch our way to a secure system state.  Neither will patching give us a stable and safe system. This presentation will provide a background for discussions about the gaps between the current cyber security "industry's" strategies and products compared to what is required to support safety critical systems. The 'whack a mole' approach of the cyber industry is a dangerous approach to systems protection. In many cases, this has evolved from our software programming practices - as soon as the software works for the expected scenarios - it is released.  However, secure systems must handle edge cases and indeed unexpected abuse cases. 
  
 Many industry players are motivated by the confidentiality of personal data. While that is a worthy goal, it is not as important as the integrity and hence reliability of a control system. Similarly, the concept also applies to our national critical infrastructure. Safe and reliable systems depend on systems engineering disciplines and robust products. Unfortunately these concepts are not common in the cyber security 'industry'. This presentation will discuss this gap between the engineering disciplines of control system engineering and the current cyber security 'industry'. The talk will explore how we might close the gap with the cyber security community.
 
+## Fratricide Risk in an Integrated Air and Missile Defence System of Systems
 
-## Matthew Squair
-
-*Fratricide Risk in an Integrated Air and Missile Defence System of Systems*
+*Matthew Squair*
 
 Fratricide risk in a modern Integrated Air and Missile Defence (IAMD) enterprise System of Systems (e-SoS) is an emergent property of the networked system of systems resulting from the integration, reconfiguration and interoperability aspects of the IAMD SoS. This paper reframes fratricide risk, and it's prevention, as a system-of-systems design, governance, and operations problem. In order to derive effective hazard controls the IAMD eSoS is analysed to identify system of system hazard causal mechanisms in the context of the six enterprise mission level functions (i.e. tracking, identification, classification, airspace control, friendly force and engagement). Fratricide risk arises when those distributed functions diverge across the enterprise resulting in a breakdown in coordination and there is no control mechanism within the constituent systems of the SoS available to restore a consistent and correct picture before an irreversible decision  is made. A broader socio-technical perspective is taken that includes the people, policy, processes and information as part of the SoS of interest. Classical safety analysis techniques such as event and fault trees are used to structure identified hazard controls to provide a defence in depth control architecture. The advantages and challenges of implementing this approach within an agile development framework are discussed.
 
-## Dr Andrew Hussey, Graziano Marino, Maria Hill, & Mohan Murari
+## Continuous Development and Maintenance of an Operational Safety Critical System
 
-*Continuous Development and Maintenance of an Operational Safety Critical System*
+*Dr Andrew Hussey, Graziano Marino, Maria Hill, & Mohan Murari*
 
 The standard development lifecycle for railway projects typically assumes a linear progression from concept through definition, implementation, deployment, and maintenance, often spanning multiple years, with established standards and processes reflecting this approach. However, modern railway systems operate in an environment where functionality must evolve continuously while maintaining safe, uninterrupted operations.
 
@@ -171,15 +168,15 @@ This paper examines a case study of a mission-critical, 24/7 automated freight s
 
 Key challenges are identified, including maintaining safety assurance under compressed deployment timelines, managing frequent system updates, and ensuring robust configuration and integration practices within an operational environment. The paper presents practical insights and lessons learned from implementing multiple safe deployments per year, demonstrating how tailored processes and strong stakeholder collaboration can enable effective, efficient, and safe delivery of system updates in a continuous development context, based on tailoring the standard processes, using key concepts from other methodologies, such as agile, lean and evolutionary prototyping.
 
-## Raj Chotai
+## Human-in-the-Loop Safety Arguments: Defining the Role and Limits of AI-Assisted Safety Assurance
 
-*Human-in-the-Loop Safety Arguments: Defining the Role and Limits of AI-Assisted Safety Assurance*
+*Raj Chotai*
 
 The development of structured safety arguments is a critical yet resource-intensive activity in the assurance of safety-critical systems. Recent advances in generative artificial intelligence (AI), particularly large language models, present new opportunities to assist safety engineers in producing safety arguments and associated artefacts. However, uncritical adoption of AI poses significant risks, including false confidence, hidden assumptions, and inappropriate safety judgments. This paper presents a practitioner- focused examination of AI-assisted safety argument generation using a human-in-the-loop approach. Drawing on historical, human-developed safety arguments as reference cases, the study compares them with AI-generated equivalents created under controlled conditions. The analysis identifies areas where AI provides genuine value, areas where it introduces subtle safety risks, and activities that remain solely under human authority. Based on these findings, the paper proposes a responsibility boundary model and governance controls for the safe and effective use of AI in safety argument development.
 
-## Payal Tiwari
+## The Safety Layer Nobody Shipped: Agentic AI, Accountability Gaps and the People Left Outside the Operating Model
 
-*The Safety Layer Nobody Shipped: Agentic AI, Accountability Gaps and the People Left Outside the Operating Model*
+*Payal Tiwari*
 
 AI safety literature - including the most recent 2026 reports from PwC, McKinsey, IBM, Deloitte and BCG - focuses almost exclusively on system-level assurance and enterprise value. What is largely absent is a safety-critical analysis of how agentic AI operating models affect the people least equipped to contest automated decisions: migrant communities, family violence survivors, and people who interact with AI-mediated public services.
 
