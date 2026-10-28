@@ -115,7 +115,7 @@ and delivery, and speaks regularly on AI safety, governance and assurance.
 | 09:00 | (**Keynote**) Dr Kelvin Ross | [Agentic Engineering: How AI Agents Are Rewriting the SDLC - and What That Means for Safety](./program/#keynote-agentic-engineering-how-ai-agents-are-rewriting-the-sdlc---and-what-that-means-for-safety) |
 | 10:00 | Dr Clive Boughton | [Effective System/Software Engineering with AI](./program/#effective-systemsoftware-engineering-with-ai) |
 | 10:30 | *Break* | |
-| 11:00 | Daniel Grivicic | [<i class="fa fa-file"></i> Designed to Requirements: When Compliance Stands in for Knowing a Design Is Good](./program/#designed-to-requirements-when-compliance-stands-in-for-knowing-a-design-is-good) |
+| 11:00 | Daniel Grivicic & Jan Hayes | [<i class="fa fa-file"></i> Designed to Requirements: When Compliance Stands in for Knowing a Design Is Good](./program/#designed-to-requirements-when-compliance-stands-in-for-knowing-a-design-is-good) |
 | 11:30 | Daryl Wheatley | [Safety Application Programming Functional Validation in the New Age of AI](./program/#safety-application-programming-functional-validation-in-the-new-age-of-ai) |
 | 12:00 | *Lunch* | *Catered lunch at venue* |
 | 13:00 | (*Sponsor*) | KJR |
