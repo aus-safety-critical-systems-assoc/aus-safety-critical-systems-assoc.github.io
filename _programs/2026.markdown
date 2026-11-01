@@ -39,6 +39,8 @@ My message is: Definitely introduce AI into the SSE cycle, but wisely and with d
 
 *Daniel Grivicic and Jan Hayes*
 
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Designed%20to%20Requirements%20-%20When%20Compliance%20Stands%20in%20for%20Knowing%20a%20Design%20Is%20Good.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+
 Engineers solve problems by relying on experience, standards, and colleagues. Still, no engineer or engineering team possesses all knowledge and therefore designs, especially novel designs, may be compliant yet flawed. The engineering knowledge gap can be narrowed, though it is sometimes not realised until failure. Engineering is a collaborative activity in which all parties, including individual engineers and design teams, influence design judgement as it progresses. How does the engineering team decide when it has done enough?
 
 In 1988, a Boeing 737 operating as Aloha flight 243 suffered a significant fuselage failure in which part of the roof, from about the main cabin entrance door to just forward of the wings, tore away. The aeroplane had operated short island hops for nearly 20 years. Boeing's testing showed that its design could operate for 150,000 pressurisation cycles and tolerate the expected damage from a failed turbine blade. However, Boeing did not explicitly consider the aircraft's full operating environment, nor did it consider how expected fuselage cracks might join, then tear. One way design engineers can widen the failure modes they consider is by cultivating safety imagination, sharing good and bad design stories, and encouraging and supporting dissent within the ranks.
@@ -93,11 +95,15 @@ This research examines the practical considerations for applying dynamic safety 
 
 *Dr Andrew Hussey, Joshua Cobb, Martin Hughes, Yacine Kharoufi, Hubert Grondin, & Padma Kodey*
 
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Industrial%20re-use%20of%20a%20Generic%20ETCS%20Hazard%20Analysis.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+
 One of the key contributions of the Common Safety Method, also reflected in the EN50126:2017, is the use of Codes of Practice to identify hazards and their associated controls. The UNISIG standards for development of interoperable ETCS systems also incorporate hazard analysis and a hazard log, however this is mainly from the perspective of the components of an ETCS system and their contribution to the ETCS core and auxiliary hazards. Instead, at the overall ETCS System level, a functional analysis is desirable, also reflecting the balance achieved between system and human contributions to failure, so as to properly manage both the EN50126 process as well as demonstrate safety in accordance with SFAIRP. Since this functional analysis is missing from the UNISIG, it needs to be provided for each project where an ETCS system is delivered. In Hitachi Rail, previous projects have created functional analyses as needed to reflect the specific requirements applicable for each customer. However increasingly, the need for standardisation of the analysis, as well as re-use of previous best practice, has become apparent. To accommodate this, a Generic ETCS Hazard Analysis has been developed, which can also be considered to be an emerging Code of Practice for identification of hazards and their associated controls for ETCS systems. This paper is concerned with describing the approach that was taken to developing this analysis, as well as the benefits that this brings, and the remaining challenges to fully realise the complete potential. We describe two case studies where the Generic ETCS Hazard Analysis was used, the optimisations to our process that resulted, as well as the limitations that we observed. The first case study is a project hazard analysis, while the second case study is a training course, incorporating a SFAIRP summary for each hazard in the Generic ETCS Hazard Analysis.
 
 ## Super-Stimulus of AI Coding Agents
 
 *Ray Feodoroff*
+
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Super-Stimulus%20of%20AI%20Coding%20Agents.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
 
 The principle problem for safety assurance of any system has long been recognised as a burden, generally applied as a separate "argument", more often by a non-associative third party author, essentially tasked with making the "argument" the system is safe by way of explaining that the "correct" requirements are implemented, in a manner akin to what otherwise has the look and feel of design rationale and over the means-end decomposition of the requirements into design and implementation.
 
@@ -162,11 +168,15 @@ Many industry players are motivated by the confidentiality of personal data. Whi
 
 *Matthew Squair*
 
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Fratricide%20Risk%20in%20an%20Integrated%20Air%20%26%20Missile%20Defence%20System%20of%20Systems.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+
 Fratricide risk in a modern Integrated Air and Missile Defence (IAMD) enterprise System of Systems (e-SoS) is an emergent property of the networked system of systems resulting from the integration, reconfiguration and interoperability aspects of the IAMD SoS. This paper reframes fratricide risk, and it's prevention, as a system-of-systems design, governance, and operations problem. In order to derive effective hazard controls the IAMD eSoS is analysed to identify system of system hazard causal mechanisms in the context of the six enterprise mission level functions (i.e. tracking, identification, classification, airspace control, friendly force and engagement). Fratricide risk arises when those distributed functions diverge across the enterprise resulting in a breakdown in coordination and there is no control mechanism within the constituent systems of the SoS available to restore a consistent and correct picture before an irreversible decision  is made. A broader socio-technical perspective is taken that includes the people, policy, processes and information as part of the SoS of interest. Classical safety analysis techniques such as event and fault trees are used to structure identified hazard controls to provide a defence in depth control architecture. The advantages and challenges of implementing this approach within an agile development framework are discussed.
 
 ## Continuous Development and Maintenance of an Operational Safety Critical System
 
 *Dr Andrew Hussey, Graziano Marino, Maria Hill, & Mohan Murari*
+
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Continuous%20Development%20and%20Maintenance%20of%20an%20Operational%20Safety%20Critical%20System.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
 
 The standard development lifecycle for railway projects typically assumes a linear progression from concept through definition, implementation, deployment, and maintenance, often spanning multiple years, with established standards and processes reflecting this approach. However, modern railway systems operate in an environment where functionality must evolve continuously while maintaining safe, uninterrupted operations.
 

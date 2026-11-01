@@ -135,7 +135,7 @@ and delivery, and speaks regularly on AI safety, governance and assurance.
 
 | **Time** | **Session** | **Title** |
 | 08:50 | (*Sponsor*) | Dedicated Systems |
-| 09:00 | (**Keynote**) Professor Jill Slay | [Beyond the Threat Matrix: Towards a Quantitative, Architecture-Aware Cyber Risk Framework for Software-Defined Space Systems](./program/#keynote-beyond-the-threat-matrix-towards-a-quantitative-architecture-aware-cyber-risk-framework-for-software-defined-space-systems) |
+| 09:00 | (**Keynote**) Professor Jill Slay | [Beyond the Threat Matrix: Towards a Quantitative, Architecture-Aware Cyber Risk Framework for Software-Defined Space Systems](./program/#keynote-beyond-the-threat-matrix-towards-a-quantitative-architecture-aware-cyber-risk-framework-for-software-defined-space-systems) |
 | 10:00 | Gary Gaskell | [About Safety's crucial dependency on Security](./program/#about-safetys-crucial-dependency-on-security) |
 | 10:30 | *Break* | |
 | 11:00 | Matthew Squair | [<i class="fa fa-file"></i> Fratricide Risk in an Integrated Air and Missile Defence System of Systems](./program/#fratricide-risk-in-an-integrated-air-and-missile-defence-system-of-systems) |
