@@ -124,7 +124,7 @@ and delivery, and speaks regularly on AI safety, governance and assurance.
 | 14:10 | Dr Andrew Hussey, Joshua Cobb, Martin Hughes, Yacine Kharoufi, Hubert Grondin, & Padma Kodey | [<i class="fa fa-file"></i> Industrial re-use of a Generic ETCS Hazard Analysis](./program/#industrial-re-use-of-a-generic-etcs-hazard-analysis) |
 | 14:40 | (*Sponsor*) | Hitachi Rail |
 | 14:50 | *Break* | |
-| 15:20 | Ray Feodoroff | [<i class="fa fa-file"></i> IIFormalisms in Specifications for AI Coding Agents](./program/#iiformalisms-in-specifications-for-ai-coding-agents) |
+| 15:20 | Ray Feodoroff | [<i class="fa fa-file"></i> Super-Stimulus of AI Coding Agents](./program/#super-stimulus-of-ai-coding-agents) |
 | 15:50 | Sarah Maslen & Jan Hayes | [AI technology in knowledge work: Navigating ethics in practice in cases of distributed decision making](./program/#ai-technology-in-knowledge-work-navigating-ethics-in-practice-in-cases-of-distributed-decision-making) |
 | 16:20 | Michael Johnson & Bart Jacobs | [Stop Shuffling Ballot Papers: Voting systems are mission critical, and getting the data-type right](./program/#stop-shuffling-ballot-papers-voting-systems-are-mission-critical-and-getting-the-data-type-right) |
 | 16:50 | (*Sponsor*) | Australian Computer Society (ACS) |
