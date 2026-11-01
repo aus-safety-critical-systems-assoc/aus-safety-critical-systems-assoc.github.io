@@ -21,19 +21,25 @@ We'll unpack how large language models and agentic frameworks actually work, and
 
 This talk offers a practitioner's view of where agentic AI is heading, the opportunities for systems safety, and the assurance gaps our profession needs to close before the technology outruns our frameworks.
 
-## Effective System/Software Engineering with AI
+## Effective System/Software Development with AI
 
 *Dr Clive Boughton*
 
-The best AI systems provide very significant, positive effectiveness at every phase of systems/software engineering - not just coding.
-The engineering of highly safe and/or secure systems requires the application of an end-to-end set of stringent phases/processes that help guarantee the creation and proper operation of products with high integrity and availability.
-Appropriate system/software engineering (SSE) lifecycles (of course) exist and are certainly used where operational safety/security is a high priority.  Although the essential phases of the SSE lifecycle haven't changed much, the fulfilment of necessary activities and use of specialized (sometimes automated) tools/techniques within each phase are constantly challenged with the ever-increasing demands on both safety and security.  The ultimate effect is more effort, time and cost for development and the increasing need for highly skilled and experienced systems/software engineers and project managers.
+There is significant controversy surrounding the introduction and application of artificial intelligent (AI) systems to a wide range of human activities. Of course, this talk focusses on the use of AI within the systems/software engineering (SSE) context.
 
-Ah! But AI can save us! Can't it? Maybe!  However, it is best to consider a holistic approach in applying AI to the SSE lifecycle and associated customer/developer project management activities.  This presentation focusses on applying AI to the SSE lifecycle based on experiments that I've performed across key phases.
+Various forms of automatic software code generation and associated testing, within the SSE cycle, have been around for some time. Until recently few (if any) provided significant, positive effects on other SSE lifecycle activities - especially regarding proof and verification. The introduction of large language models (LLM) and significantly better reasoning has changed, and continues to change, the entire world of SSE development (from go to woe).
+
+I will show a summary conclusion of the results of many different experiments with AI systems (mainly Claude) undertaken over the last 18 months, regarding the application of AI, not only to software code, but also to all SSE lifecycle activities.
+
+While much of the work used Claude's Opus 4.8 model, a little of the Sonnet and the Fable models, both the Google AI system - Gemini, and the Hangzhou Huanfang Quant AI system - DeepSeek, were used for comparison on occasion.
+
+My message is: Definitely introduce AI into the SSE cycle, but wisely and with deep consideration of how to adapt/adopt the current/future human workforce.
 
 ## Designed to Requirements: When Compliance Stands in for Knowing a Design Is Good
 
 *Daniel Grivicic and Jan Hayes*
+
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Designed%20to%20Requirements%20-%20When%20Compliance%20Stands%20in%20for%20Knowing%20a%20Design%20Is%20Good.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
 
 Engineers solve problems by relying on experience, standards, and colleagues. Still, no engineer or engineering team possesses all knowledge and therefore designs, especially novel designs, may be compliant yet flawed. The engineering knowledge gap can be narrowed, though it is sometimes not realised until failure. Engineering is a collaborative activity in which all parties, including individual engineers and design teams, influence design judgement as it progresses. How does the engineering team decide when it has done enough?
 
@@ -89,11 +95,15 @@ This research examines the practical considerations for applying dynamic safety 
 
 *Dr Andrew Hussey, Joshua Cobb, Martin Hughes, Yacine Kharoufi, Hubert Grondin, & Padma Kodey*
 
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Industrial%20re-use%20of%20a%20Generic%20ETCS%20Hazard%20Analysis.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+
 One of the key contributions of the Common Safety Method, also reflected in the EN50126:2017, is the use of Codes of Practice to identify hazards and their associated controls. The UNISIG standards for development of interoperable ETCS systems also incorporate hazard analysis and a hazard log, however this is mainly from the perspective of the components of an ETCS system and their contribution to the ETCS core and auxiliary hazards. Instead, at the overall ETCS System level, a functional analysis is desirable, also reflecting the balance achieved between system and human contributions to failure, so as to properly manage both the EN50126 process as well as demonstrate safety in accordance with SFAIRP. Since this functional analysis is missing from the UNISIG, it needs to be provided for each project where an ETCS system is delivered. In Hitachi Rail, previous projects have created functional analyses as needed to reflect the specific requirements applicable for each customer. However increasingly, the need for standardisation of the analysis, as well as re-use of previous best practice, has become apparent. To accommodate this, a Generic ETCS Hazard Analysis has been developed, which can also be considered to be an emerging Code of Practice for identification of hazards and their associated controls for ETCS systems. This paper is concerned with describing the approach that was taken to developing this analysis, as well as the benefits that this brings, and the remaining challenges to fully realise the complete potential. We describe two case studies where the Generic ETCS Hazard Analysis was used, the optimisations to our process that resulted, as well as the limitations that we observed. The first case study is a project hazard analysis, while the second case study is a training course, incorporating a SFAIRP summary for each hazard in the Generic ETCS Hazard Analysis.
 
-## IIFormalisms in Specifications for AI Coding Agents
+## Super-Stimulus of AI Coding Agents
 
 *Ray Feodoroff*
+
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Super-Stimulus%20of%20AI%20Coding%20Agents.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
 
 The principle problem for safety assurance of any system has long been recognised as a burden, generally applied as a separate "argument", more often by a non-associative third party author, essentially tasked with making the "argument" the system is safe by way of explaining that the "correct" requirements are implemented, in a manner akin to what otherwise has the look and feel of design rationale and over the means-end decomposition of the requirements into design and implementation.
 
@@ -158,11 +168,15 @@ Many industry players are motivated by the confidentiality of personal data. Whi
 
 *Matthew Squair*
 
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Fratricide%20Risk%20in%20an%20Integrated%20Air%20%26%20Missile%20Defence%20System%20of%20Systems.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+
 Fratricide risk in a modern Integrated Air and Missile Defence (IAMD) enterprise System of Systems (e-SoS) is an emergent property of the networked system of systems resulting from the integration, reconfiguration and interoperability aspects of the IAMD SoS. This paper reframes fratricide risk, and it's prevention, as a system-of-systems design, governance, and operations problem. In order to derive effective hazard controls the IAMD eSoS is analysed to identify system of system hazard causal mechanisms in the context of the six enterprise mission level functions (i.e. tracking, identification, classification, airspace control, friendly force and engagement). Fratricide risk arises when those distributed functions diverge across the enterprise resulting in a breakdown in coordination and there is no control mechanism within the constituent systems of the SoS available to restore a consistent and correct picture before an irreversible decision  is made. A broader socio-technical perspective is taken that includes the people, policy, processes and information as part of the SoS of interest. Classical safety analysis techniques such as event and fault trees are used to structure identified hazard controls to provide a defence in depth control architecture. The advantages and challenges of implementing this approach within an agile development framework are discussed.
 
 ## Continuous Development and Maintenance of an Operational Safety Critical System
 
 *Dr Andrew Hussey, Graziano Marino, Maria Hill, & Mohan Murari*
+
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Continuous%20Development%20and%20Maintenance%20of%20an%20Operational%20Safety%20Critical%20System.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
 
 The standard development lifecycle for railway projects typically assumes a linear progression from concept through definition, implementation, deployment, and maintenance, often spanning multiple years, with established standards and processes reflecting this approach. However, modern railway systems operate in an environment where functionality must evolve continuously while maintaining safe, uninterrupted operations.
 

@@ -113,7 +113,7 @@ and delivery, and speaks regularly on AI safety, governance and assurance.
 | **Time** | **Session** | **Title** |
 | 08:50 | *Welcome* | *Welcome by Conference Chair* |
 | 09:00 | (**Keynote**) Dr Kelvin Ross | [Agentic Engineering: How AI Agents Are Rewriting the SDLC - and What That Means for Safety](./program/#keynote-agentic-engineering-how-ai-agents-are-rewriting-the-sdlc---and-what-that-means-for-safety) |
-| 10:00 | Dr Clive Boughton | [Effective System/Software Engineering with AI](./program/#effective-systemsoftware-engineering-with-ai) |
+| 10:00 | Dr Clive Boughton | [Effective System/Software Development with AI](./program/#effective-systemsoftware-development-with-ai) |
 | 10:30 | *Break* | |
 | 11:00 | Daniel Grivicic & Jan Hayes | [<i class="fa fa-file"></i> Designed to Requirements: When Compliance Stands in for Knowing a Design Is Good](./program/#designed-to-requirements-when-compliance-stands-in-for-knowing-a-design-is-good) |
 | 11:30 | Daryl Wheatley | [Safety Application Programming Functional Validation in the New Age of AI](./program/#safety-application-programming-functional-validation-in-the-new-age-of-ai) |
@@ -124,7 +124,7 @@ and delivery, and speaks regularly on AI safety, governance and assurance.
 | 14:10 | Dr Andrew Hussey, Joshua Cobb, Martin Hughes, Yacine Kharoufi, Hubert Grondin, & Padma Kodey | [<i class="fa fa-file"></i> Industrial re-use of a Generic ETCS Hazard Analysis](./program/#industrial-re-use-of-a-generic-etcs-hazard-analysis) |
 | 14:40 | (*Sponsor*) | Hitachi Rail |
 | 14:50 | *Break* | |
-| 15:20 | Ray Feodoroff | [<i class="fa fa-file"></i> IIFormalisms in Specifications for AI Coding Agents](./program/#iiformalisms-in-specifications-for-ai-coding-agents) |
+| 15:20 | Ray Feodoroff | [<i class="fa fa-file"></i> Super-Stimulus of AI Coding Agents](./program/#super-stimulus-of-ai-coding-agents) |
 | 15:50 | Sarah Maslen & Jan Hayes | [AI technology in knowledge work: Navigating ethics in practice in cases of distributed decision making](./program/#ai-technology-in-knowledge-work-navigating-ethics-in-practice-in-cases-of-distributed-decision-making) |
 | 16:20 | Michael Johnson & Bart Jacobs | [Stop Shuffling Ballot Papers: Voting systems are mission critical, and getting the data-type right](./program/#stop-shuffling-ballot-papers-voting-systems-are-mission-critical-and-getting-the-data-type-right) |
 | 16:50 | (*Sponsor*) | Australian Computer Society (ACS) |
@@ -135,7 +135,7 @@ and delivery, and speaks regularly on AI safety, governance and assurance.
 
 | **Time** | **Session** | **Title** |
 | 08:50 | (*Sponsor*) | Dedicated Systems |
-| 09:00 | (**Keynote**) Professor Jill Slay | [Beyond the Threat Matrix: Towards a Quantitative, Architecture-Aware Cyber Risk Framework for Software-Defined Space Systems](./program/#keynote-beyond-the-threat-matrix-towards-a-quantitative-architecture-aware-cyber-risk-framework-for-software-defined-space-systems) |
+| 09:00 | (**Keynote**) Professor Jill Slay | [Beyond the Threat Matrix: Towards a Quantitative, Architecture-Aware Cyber Risk Framework for Software-Defined Space Systems](./program/#keynote-beyond-the-threat-matrix-towards-a-quantitative-architecture-aware-cyber-risk-framework-for-software-defined-space-systems) |
 | 10:00 | Gary Gaskell | [About Safety's crucial dependency on Security](./program/#about-safetys-crucial-dependency-on-security) |
 | 10:30 | *Break* | |
 | 11:00 | Matthew Squair | [<i class="fa fa-file"></i> Fratricide Risk in an Integrated Air and Missile Defence System of Systems](./program/#fratricide-risk-in-an-integrated-air-and-missile-defence-system-of-systems) |
