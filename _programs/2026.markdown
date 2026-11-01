@@ -21,15 +21,19 @@ We'll unpack how large language models and agentic frameworks actually work, and
 
 This talk offers a practitioner's view of where agentic AI is heading, the opportunities for systems safety, and the assurance gaps our profession needs to close before the technology outruns our frameworks.
 
-## Effective System/Software Engineering with AI
+## Effective System/Software Development with AI
 
 *Dr Clive Boughton*
 
-The best AI systems provide very significant, positive effectiveness at every phase of systems/software engineering - not just coding.
-The engineering of highly safe and/or secure systems requires the application of an end-to-end set of stringent phases/processes that help guarantee the creation and proper operation of products with high integrity and availability.
-Appropriate system/software engineering (SSE) lifecycles (of course) exist and are certainly used where operational safety/security is a high priority.  Although the essential phases of the SSE lifecycle haven't changed much, the fulfilment of necessary activities and use of specialized (sometimes automated) tools/techniques within each phase are constantly challenged with the ever-increasing demands on both safety and security.  The ultimate effect is more effort, time and cost for development and the increasing need for highly skilled and experienced systems/software engineers and project managers.
+There is significant controversy surrounding the introduction and application of artificial intelligent (AI) systems to a wide range of human activities. Of course, this talk focusses on the use of AI within the systems/software engineering (SSE) context.
 
-Ah! But AI can save us! Can't it? Maybe!  However, it is best to consider a holistic approach in applying AI to the SSE lifecycle and associated customer/developer project management activities.  This presentation focusses on applying AI to the SSE lifecycle based on experiments that I've performed across key phases.
+Various forms of automatic software code generation and associated testing, within the SSE cycle, have been around for some time. Until recently few (if any) provided significant, positive effects on other SSE lifecycle activities - especially regarding proof and verification. The introduction of large language models (LLM) and significantly better reasoning has changed, and continues to change, the entire world of SSE development (from go to woe).
+
+I will show a summary conclusion of the results of many different experiments with AI systems (mainly Claude) undertaken over the last 18 months, regarding the application of AI, not only to software code, but also to all SSE lifecycle activities.
+
+While much of the work used Claude's Opus 4.8 model, a little of the Sonnet and the Fable models, both the Google AI system - Gemini, and the Hangzhou Huanfang Quant AI system - DeepSeek, were used for comparison on occasion.
+
+My message is: Definitely introduce AI into the SSE cycle, but wisely and with deep consideration of how to adapt/adopt the current/future human workforce.
 
 ## Designed to Requirements: When Compliance Stands in for Knowing a Design Is Good
 
