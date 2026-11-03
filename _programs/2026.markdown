@@ -15,6 +15,8 @@ location: Adelaide, SA
 
 *Dr Kelvin Ross*
 
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Wed%20%231%20-%20Agentic%20Engineering.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
+
 Software engineering is undergoing its most significant shift since the move from waterfall to agile: agentic AI tools that don't just assist with code, but plan, act, test and correct with increasing autonomy. Drawing on hands-on experience deploying these tools for coding, test automation and delivery, this talk examines how the software development lifecycle itself is changing, and what that means for systems safety.
 
 We'll unpack how large language models and agentic frameworks actually work, and where they can potentially strengthen safety practice - faster hazard analysis, continuous verification, automated traceability and safety case assembly at a scale not previously possible. But agentic autonomy also raises hard questions for a discipline built on determinism, independence and repeatable evidence. Can a verification agent ever be independent of the development agent it shares a lineage with? How do certification and tool-qualification regimes cope with tools that update themselves overnight? Who is accountable when an agent's decision contributes to a the development, testing and assurance of a product?
@@ -40,6 +42,8 @@ My message is: Definitely introduce AI into the SSE cycle, but wisely and with d
 *Daniel Grivicic and Jan Hayes*
 
 <a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Designed%20to%20Requirements%20-%20When%20Compliance%20Stands%20in%20for%20Knowing%20a%20Design%20Is%20Good.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+&nbsp;
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Wed%20%233%20-%20Designed%20to%20Requirements.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
 Engineers solve problems by relying on experience, standards, and colleagues. Still, no engineer or engineering team possesses all knowledge and therefore designs, especially novel designs, may be compliant yet flawed. The engineering knowledge gap can be narrowed, though it is sometimes not realised until failure. Engineering is a collaborative activity in which all parties, including individual engineers and design teams, influence design judgement as it progresses. How does the engineering team decide when it has done enough?
 
@@ -104,6 +108,8 @@ One of the key contributions of the Common Safety Method, also reflected in the 
 *Ray Feodoroff*
 
 <a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Super-Stimulus%20of%20AI%20Coding%20Agents.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+&nbsp;
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Wed%20%238%20-%20Super-Stimulus%20of%20AI%20Coding%20Agents.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
 The principle problem for safety assurance of any system has long been recognised as a burden, generally applied as a separate "argument", more often by a non-associative third party author, essentially tasked with making the "argument" the system is safe by way of explaining that the "correct" requirements are implemented, in a manner akin to what otherwise has the look and feel of design rationale and over the means-end decomposition of the requirements into design and implementation.
 
@@ -124,6 +130,8 @@ In high stakes technoscientific domains (i.e., aviation, healthcare, engineering
 ## Stop Shuffling Ballot Papers: Voting systems are mission critical, and getting the data-type right
 
 *Michael Johnson & Bart Jacobs*
+
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Wed%20%2310%20-%20Stop%20Shuffling%20Ballot%20Papers.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
 "Voting systems" can mean both
 1.	The rules for how an election is counted and winners are determined (eg first-past-the=-post, preferential (also called instant run-off), or multi-member electorate single transferable vote (STV) as in the Australian Senate), and
@@ -160,6 +168,8 @@ The central argument is systemic rather than technical: space failures share the
 
 *Gary Gaskell*
 
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Thurs%20%232%20-%20About%20Safety%27s%20crucial%20dependency%20on%20Security.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
+
 We cannot patch our way to a secure system state.  Neither will patching give us a stable and safe system. This presentation will provide a background for discussions about the gaps between the current cyber security "industry's" strategies and products compared to what is required to support safety critical systems. The 'whack a mole' approach of the cyber industry is a dangerous approach to systems protection. In many cases, this has evolved from our software programming practices - as soon as the software works for the expected scenarios - it is released.  However, secure systems must handle edge cases and indeed unexpected abuse cases. 
  
 Many industry players are motivated by the confidentiality of personal data. While that is a worthy goal, it is not as important as the integrity and hence reliability of a control system. Similarly, the concept also applies to our national critical infrastructure. Safe and reliable systems depend on systems engineering disciplines and robust products. Unfortunately these concepts are not common in the cyber security 'industry'. This presentation will discuss this gap between the engineering disciplines of control system engineering and the current cyber security 'industry'. The talk will explore how we might close the gap with the cyber security community.
@@ -169,6 +179,8 @@ Many industry players are motivated by the confidentiality of personal data. Whi
 *Matthew Squair*
 
 <a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Fratricide%20Risk%20in%20an%20Integrated%20Air%20%26%20Missile%20Defence%20System%20of%20Systems.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+&nbsp;
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Thurs%20%233%20-%20Fratricide%20Risk%20in%20an%20Integrated%20Air%20and%20Missile%20Defence%20System%20of%20Systems.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
 Fratricide risk in a modern Integrated Air and Missile Defence (IAMD) enterprise System of Systems (e-SoS) is an emergent property of the networked system of systems resulting from the integration, reconfiguration and interoperability aspects of the IAMD SoS. This paper reframes fratricide risk, and it's prevention, as a system-of-systems design, governance, and operations problem. In order to derive effective hazard controls the IAMD eSoS is analysed to identify system of system hazard causal mechanisms in the context of the six enterprise mission level functions (i.e. tracking, identification, classification, airspace control, friendly force and engagement). Fratricide risk arises when those distributed functions diverge across the enterprise resulting in a breakdown in coordination and there is no control mechanism within the constituent systems of the SoS available to restore a consistent and correct picture before an irreversible decision  is made. A broader socio-technical perspective is taken that includes the people, policy, processes and information as part of the SoS of interest. Classical safety analysis techniques such as event and fault trees are used to structure identified hazard controls to provide a defence in depth control architecture. The advantages and challenges of implementing this approach within an agile development framework are discussed.
 
@@ -177,6 +189,10 @@ Fratricide risk in a modern Integrated Air and Missile Defence (IAMD) enterprise
 *Dr Andrew Hussey, Graziano Marino, Maria Hill, & Mohan Murari*
 
 <a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Continuous%20Development%20and%20Maintenance%20of%20an%20Operational%20Safety%20Critical%20System.pdf" target="_blank" class="w3-large"><i class="fa fa-file"></i>&nbsp;Paper</a>
+&nbsp;
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Thurs%20%234%20-%20Continuous%20Development%20and%20Maintenance%20of%20an%20Operational%20Safety%20Critical%20System.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
+
+<span class="w3-large"><i class="fa fa-trophy"></i> Best Paper Award</span>
 
 The standard development lifecycle for railway projects typically assumes a linear progression from concept through definition, implementation, deployment, and maintenance, often spanning multiple years, with established standards and processes reflecting this approach. However, modern railway systems operate in an environment where functionality must evolve continuously while maintaining safe, uninterrupted operations.
 
@@ -193,6 +209,8 @@ The development of structured safety arguments is a critical yet resource-intens
 ## The Safety Layer Nobody Shipped: Agentic AI, Accountability Gaps and the People Left Outside the Operating Model
 
 *Payal Tiwari*
+
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Thurs%20%236%20-%20The%20Safety%20Layer%20Nobody%20Shipped.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
 AI safety literature - including the most recent 2026 reports from PwC, McKinsey, IBM, Deloitte and BCG - focuses almost exclusively on system-level assurance and enterprise value. What is largely absent is a safety-critical analysis of how agentic AI operating models affect the people least equipped to contest automated decisions: migrant communities, family violence survivors, and people who interact with AI-mediated public services.
 

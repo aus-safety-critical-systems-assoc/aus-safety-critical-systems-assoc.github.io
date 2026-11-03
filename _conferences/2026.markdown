@@ -139,7 +139,7 @@ and delivery, and speaks regularly on AI safety, governance and assurance.
 | 10:00 | Gary Gaskell | [About Safety's crucial dependency on Security](./program/#about-safetys-crucial-dependency-on-security) |
 | 10:30 | *Break* | |
 | 11:00 | Matthew Squair | [<i class="fa fa-file"></i> Fratricide Risk in an Integrated Air and Missile Defence System of Systems](./program/#fratricide-risk-in-an-integrated-air-and-missile-defence-system-of-systems) |
-| 11:30 | Dr Andrew Hussey, Graziano Marino, Maria Hill, & Mohan Murari | [<i class="fa fa-file"></i> Continuous Development and Maintenance of an Operational Safety Critical System](./program/#continuous-development-and-maintenance-of-an-operational-safety-critical-system) |
+| 11:30 | Dr Andrew Hussey, Graziano Marino, Maria Hill, & Mohan Murari | <b><i class="fa fa-trophy"></i> Best Paper Award</b><br>[<i class="fa fa-file"></i> Continuous Development and Maintenance of an Operational Safety Critical System](./program/#continuous-development-and-maintenance-of-an-operational-safety-critical-system) |
 | 12:00 | *Lunch* | *Catered lunch at venue* |
 | 13:00 | (*Sponsor*) | TSA Riley |
 | 13:10 | Raj Chotai | [Human-in-the-Loop Safety Arguments: Defining the Role and Limits of AI-Assisted Safety Assurance](./program/#human-in-the-loop-safety-arguments-defining-the-role-and-limits-of-ai-assisted-safety-assurance) |
