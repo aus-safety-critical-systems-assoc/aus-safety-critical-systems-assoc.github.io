@@ -192,6 +192,8 @@ Fratricide risk in a modern Integrated Air and Missile Defence (IAMD) enterprise
 &nbsp;
 <a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Thurs%20%234%20-%20Continuous%20Development%20and%20Maintenance%20of%20an%20Operational%20Safety%20Critical%20System.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
+<span class="w3-large"><i class="fa fa-trophy"></i> Best Paper Award</span>
+
 The standard development lifecycle for railway projects typically assumes a linear progression from concept through definition, implementation, deployment, and maintenance, often spanning multiple years, with established standards and processes reflecting this approach. However, modern railway systems operate in an environment where functionality must evolve continuously while maintaining safe, uninterrupted operations.
 
 This paper examines a case study of a mission-critical, 24/7 automated freight system, which requires not only ongoing maintenance but also the frequent introduction of new and modified functionalities. The continuous evolution of such systems challenges traditional lifecycle assumptions and necessitates the adaptation of established safety and engineering processes.
