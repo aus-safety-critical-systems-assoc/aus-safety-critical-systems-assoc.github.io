@@ -168,7 +168,7 @@ The central argument is systemic rather than technical: space failures share the
 
 *Gary Gaskell*
 
-<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Thurs%20%232%20-%20About%20Safety%E2%80%99s%20crucial%20dependency%20on%20Security.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
+<a href="/assets/docs/conferences/2026/ASSC%202026%20-%20Thurs%20%232%20-%20About%20Safety%27s%20crucial%20dependency%20on%20Security.pdf" target="_blank" class="w3-large"><i class="fa fa-desktop"></i>&nbsp;Presentation</a>
 
 We cannot patch our way to a secure system state.  Neither will patching give us a stable and safe system. This presentation will provide a background for discussions about the gaps between the current cyber security "industry's" strategies and products compared to what is required to support safety critical systems. The 'whack a mole' approach of the cyber industry is a dangerous approach to systems protection. In many cases, this has evolved from our software programming practices - as soon as the software works for the expected scenarios - it is released.  However, secure systems must handle edge cases and indeed unexpected abuse cases. 
  
